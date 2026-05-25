@@ -1,0 +1,251 @@
+﻿{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-25T22:06:26",
+    "tool":  "tools/optimize-home-feed-images.ps1",
+    "feed":  "public/home-feed.json",
+    "outputDir":  "public/assets/feed-optimized/20260525-home-feed-optimized-assets",
+    "settings":  {
+                     "backgroundMaxWidth":  1280,
+                     "characterMaxHeight":  768,
+                     "jpegQuality":  82
+                 },
+    "totals":  {
+                   "sourceBytes":  15157014,
+                   "optimizedBytes":  2217066,
+                   "savedBytes":  12939948,
+                   "savedPercent":  85.37
+               },
+    "assets":  [
+                   {
+                       "postId":  "20260525-sideview-platform-backgrounds",
+                       "source":  "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-01-ancient-dungeon-causeway.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/background-sideview-01-ancient-dungeon-causeway-feed.jpg",
+                       "mediaType":  "image",
+                       "format":  "jpeg",
+                       "sourceBytes":  2216647,
+                       "optimizedBytes":  117466,
+                       "savedBytes":  2099181,
+                       "savedPercent":  94.7,
+                       "sourceSize":  {
+                                          "w":  2172,
+                                          "h":  724,
+                                          "pixelFormat":  "Format24bppRgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  1280,
+                                             "h":  427,
+                                             "pixelFormat":  "Format24bppRgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-platform-backgrounds",
+                       "source":  "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-02-overgrown-temple-approach.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/background-sideview-02-overgrown-temple-approach-feed.jpg",
+                       "mediaType":  "image",
+                       "format":  "jpeg",
+                       "sourceBytes":  2764275,
+                       "optimizedBytes":  205339,
+                       "savedBytes":  2558936,
+                       "savedPercent":  92.57,
+                       "sourceSize":  {
+                                          "w":  1983,
+                                          "h":  793,
+                                          "pixelFormat":  "Format24bppRgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  1280,
+                                             "h":  512,
+                                             "pixelFormat":  "Format24bppRgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-platform-backgrounds",
+                       "source":  "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-03-lava-forge-undercroft.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/background-sideview-03-lava-forge-undercroft-feed.jpg",
+                       "mediaType":  "image",
+                       "format":  "jpeg",
+                       "sourceBytes":  2391802,
+                       "optimizedBytes":  170088,
+                       "savedBytes":  2221714,
+                       "savedPercent":  92.89,
+                       "sourceSize":  {
+                                          "w":  1983,
+                                          "h":  793,
+                                          "pixelFormat":  "Format24bppRgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  1280,
+                                             "h":  512,
+                                             "pixelFormat":  "Format24bppRgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-platform-backgrounds",
+                       "source":  "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-04-coastal-cavern-dock.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/background-sideview-04-coastal-cavern-dock-feed.jpg",
+                       "mediaType":  "image",
+                       "format":  "jpeg",
+                       "sourceBytes":  2433051,
+                       "optimizedBytes":  133951,
+                       "savedBytes":  2299100,
+                       "savedPercent":  94.49,
+                       "sourceSize":  {
+                                          "w":  2172,
+                                          "h":  724,
+                                          "pixelFormat":  "Format24bppRgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  1280,
+                                             "h":  427,
+                                             "pixelFormat":  "Format24bppRgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-platform-backgrounds",
+                       "source":  "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-05-sky-castle-battlement.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/background-sideview-05-sky-castle-battlement-feed.jpg",
+                       "mediaType":  "image",
+                       "format":  "jpeg",
+                       "sourceBytes":  1994168,
+                       "optimizedBytes":  108596,
+                       "savedBytes":  1885572,
+                       "savedPercent":  94.55,
+                       "sourceSize":  {
+                                          "w":  2172,
+                                          "h":  724,
+                                          "pixelFormat":  "Format24bppRgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  1280,
+                                             "h":  427,
+                                             "pixelFormat":  "Format24bppRgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-character-concepts",
+                       "source":  "assets/characters/sideview-pixel/character-sideview-01-adventurer-swordsman.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/character-sideview-01-adventurer-swordsman-feed.png",
+                       "mediaType":  "image",
+                       "format":  "png",
+                       "sourceBytes":  481790,
+                       "optimizedBytes":  231968,
+                       "savedBytes":  249822,
+                       "savedPercent":  51.85,
+                       "sourceSize":  {
+                                          "w":  1024,
+                                          "h":  1536,
+                                          "pixelFormat":  "Format32bppArgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  512,
+                                             "h":  768,
+                                             "pixelFormat":  "Format32bppArgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-character-concepts",
+                       "source":  "assets/characters/sideview-pixel/character-sideview-02-desert-scout-archer.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/character-sideview-02-desert-scout-archer-feed.png",
+                       "mediaType":  "image",
+                       "format":  "png",
+                       "sourceBytes":  754596,
+                       "optimizedBytes":  276766,
+                       "savedBytes":  477830,
+                       "savedPercent":  63.32,
+                       "sourceSize":  {
+                                          "w":  1024,
+                                          "h":  1536,
+                                          "pixelFormat":  "Format32bppArgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  512,
+                                             "h":  768,
+                                             "pixelFormat":  "Format32bppArgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-character-concepts",
+                       "source":  "assets/characters/sideview-pixel/character-sideview-03-forest-herbalist-mage.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/character-sideview-03-forest-herbalist-mage-feed.png",
+                       "mediaType":  "image",
+                       "format":  "png",
+                       "sourceBytes":  595845,
+                       "optimizedBytes":  288450,
+                       "savedBytes":  307395,
+                       "savedPercent":  51.59,
+                       "sourceSize":  {
+                                          "w":  1024,
+                                          "h":  1536,
+                                          "pixelFormat":  "Format32bppArgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  512,
+                                             "h":  768,
+                                             "pixelFormat":  "Format32bppArgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-character-concepts",
+                       "source":  "assets/characters/sideview-pixel/character-sideview-05-armored-shield-guard.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/character-sideview-05-armored-shield-guard-feed.png",
+                       "mediaType":  "image",
+                       "format":  "png",
+                       "sourceBytes":  504064,
+                       "optimizedBytes":  231586,
+                       "savedBytes":  272478,
+                       "savedPercent":  54.06,
+                       "sourceSize":  {
+                                          "w":  1024,
+                                          "h":  1536,
+                                          "pixelFormat":  "Format32bppArgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  512,
+                                             "h":  768,
+                                             "pixelFormat":  "Format32bppArgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-character-concepts",
+                       "source":  "assets/characters/sideview-pixel/character-sideview-06-nimble-rogue-thief.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/character-sideview-06-nimble-rogue-thief-feed.png",
+                       "mediaType":  "image",
+                       "format":  "png",
+                       "sourceBytes":  415924,
+                       "optimizedBytes":  181856,
+                       "savedBytes":  234068,
+                       "savedPercent":  56.28,
+                       "sourceSize":  {
+                                          "w":  1024,
+                                          "h":  1536,
+                                          "pixelFormat":  "Format32bppArgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  512,
+                                             "h":  768,
+                                             "pixelFormat":  "Format32bppArgb"
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-character-concepts",
+                       "source":  "assets/characters/sideview-pixel/character-sideview-10-sea-courier-runner.png",
+                       "optimized":  "assets/feed-optimized/20260525-home-feed-optimized-assets/character-sideview-10-sea-courier-runner-feed.png",
+                       "mediaType":  "image",
+                       "format":  "png",
+                       "sourceBytes":  604852,
+                       "optimizedBytes":  271000,
+                       "savedBytes":  333852,
+                       "savedPercent":  55.2,
+                       "sourceSize":  {
+                                          "w":  1024,
+                                          "h":  1536,
+                                          "pixelFormat":  "Format32bppArgb"
+                                      },
+                       "optimizedSize":  {
+                                             "w":  512,
+                                             "h":  768,
+                                             "pixelFormat":  "Format32bppArgb"
+                                         }
+                   }
+               ]
+}
