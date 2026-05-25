@@ -35,6 +35,8 @@ Each sheet should use an `8 columns x 4 rows` layout:
 
 Create a single complete side-view animation sprite sheet for a disciplined vanguard swordswoman. The sheet must have exactly 8 columns and 4 rows, 32 frames total. Every frame is a strict orthographic side profile facing right. Non-pixel semi-realistic 2D digital painting, readable side-scroller game art. Keep the same leather-and-steel armor, short coat panels, one-handed sword, proportions, colors, and silhouette across all frames. Row 1 idle, Row 2 run, Row 3 sword slash attack, Row 4 jump. Character centered in every cell, consistent ground baseline per row, enough padding, no labels, no numbers, no text, no watermark.
 
+Regenerated as `v2` with an added canvas constraint: landscape 3:2 sprite sheet composition intended for `1536x1024` output, exactly `8 equal columns x 4 equal rows`, uniform cell sizes, and avoid panoramic aspect ratio or square cells.
+
 ### 02 - Desert Ranger Archer
 
 Create a single complete side-view animation sprite sheet for a desert ranger archer. The sheet must have exactly 8 columns and 4 rows, 32 frames total. Every frame is a strict orthographic side profile facing right. Non-pixel semi-realistic 2D digital painting, readable side-scroller game art. Keep the same layered travel cloak, light armor, curved bow, quiver, cloth wraps, proportions, colors, and silhouette across all frames. Row 1 idle, Row 2 run, Row 3 bow draw and arrow release attack, Row 4 jump. Character centered in every cell, consistent ground baseline per row, enough padding, no labels, no numbers, no text, no watermark.
@@ -46,4 +48,3 @@ Create a single complete side-view animation sprite sheet for an arcane herbalis
 ### 04 - Clockwork Shield Engineer
 
 Create a single complete side-view animation sprite sheet for a clockwork shield engineer. The sheet must have exactly 8 columns and 4 rows, 32 frames total. Every frame is a strict orthographic side profile facing right. Non-pixel semi-realistic 2D digital painting, readable side-scroller game art. Keep the same reinforced work jacket, brass-and-steel gauntlet, compact mechanical forearm shield, tool harness, proportions, colors, and silhouette across all frames. Row 1 idle, Row 2 run, Row 3 shield bash attack, Row 4 jump. Character centered in every cell, consistent ground baseline per row, enough padding, no labels, no numbers, no text, no watermark.
-
