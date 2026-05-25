@@ -6,9 +6,11 @@ param(
     [int]$AlphaThreshold = 1,
     [int]$Margin = 12,
     [int]$Columns = 4,
-    [int]$MaxPivotStepX = 10,
-    [int]$MaxPivotStepY = 8,
-    [double]$Smoothing = 0.35
+    [int]$MaxPivotStepX = 999,
+    [int]$MaxPivotStepY = 999,
+    [double]$Smoothing = 1.0,
+    [string[]]$PreserveVerticalActions = @(),
+    [string[]]$PreserveHorizontalActions = @()
 )
 
 Set-StrictMode -Version Latest
@@ -235,6 +237,17 @@ function Get-RelativePathText {
     return [Uri]::UnescapeDataString($baseUri.MakeRelativeUri($pathUri).ToString()).Replace("\", "/")
 }
 
+function Write-JsonFile {
+    param(
+        [Parameter(Mandatory = $true)][string]$Path,
+        [Parameter(Mandatory = $true)]$Value
+    )
+
+    $json = $Value | ConvertTo-Json -Depth 20
+    $encoding = [System.Text.UTF8Encoding]::new($false)
+    [System.IO.File]::WriteAllText($Path, $json + [Environment]::NewLine, $encoding)
+}
+
 function Get-ActionName {
     param([string]$FileName)
 
@@ -305,6 +318,41 @@ function Clamp-Delta {
     return $Delta
 }
 
+function Test-ActionListed {
+    param(
+        [Parameter(Mandatory = $true)][string]$Action,
+        [AllowEmptyCollection()][string[]]$List = @()
+    )
+
+    if ($null -eq $List -or $List.Count -eq 0) {
+        return $false
+    }
+
+    foreach ($item in $List) {
+        if ($Action.Equals($item, [System.StringComparison]::OrdinalIgnoreCase)) {
+            return $true
+        }
+    }
+
+    return $false
+}
+
+function Get-MedianNumber {
+    param([Parameter(Mandatory = $true)][double[]]$Values)
+
+    if ($Values.Count -eq 0) {
+        return 0
+    }
+
+    $sorted = @($Values | Sort-Object)
+    $middle = [int][Math]::Floor($sorted.Count / 2)
+    if (($sorted.Count % 2) -eq 1) {
+        return [double]$sorted[$middle]
+    }
+
+    return ([double]$sorted[$middle - 1] + [double]$sorted[$middle]) / 2.0
+}
+
 function Get-SmoothedPivots {
     param(
         [Parameter(Mandatory = $true)][array]$Frames
@@ -338,7 +386,7 @@ function Get-SmoothedPivots {
 function Get-FrameGroups {
     param([Parameter(Mandatory = $true)][string]$Root)
 
-    $directories = Get-ChildItem -LiteralPath $Root -Directory
+    $directories = @(Get-ChildItem -LiteralPath $Root -Directory)
     if ($directories.Count -gt 0) {
         return $directories
     }
@@ -407,7 +455,22 @@ foreach ($characterDirectory in (Get-FrameGroups -Root $inputFull | Sort-Object 
     $orderedFrames = @($frames | Sort-Object actionSort, action, name)
     $actionGroups = $orderedFrames | Group-Object action
     foreach ($actionGroup in $actionGroups) {
-        Get-SmoothedPivots -Frames @($actionGroup.Group | Sort-Object name)
+        $actionFrames = @($actionGroup.Group | Sort-Object name)
+        Get-SmoothedPivots -Frames $actionFrames
+
+        if (Test-ActionListed -Action $actionGroup.Name -List $PreserveVerticalActions) {
+            $referenceY = ($actionFrames | ForEach-Object { [double]$_.rawPivot.y } | Measure-Object -Maximum).Maximum
+            foreach ($frame in $actionFrames) {
+                $frame.smoothedPivot.y = [Math]::Round($referenceY)
+            }
+        }
+
+        if (Test-ActionListed -Action $actionGroup.Name -List $PreserveHorizontalActions) {
+            $referenceX = Get-MedianNumber -Values ([double[]]@($actionFrames | ForEach-Object { [double]$_.rawPivot.x }))
+            foreach ($frame in $actionFrames) {
+                $frame.smoothedPivot.x = [Math]::Round($referenceX)
+            }
+        }
     }
 
     $minLeft = 0.0
@@ -522,12 +585,14 @@ $manifest = [PSCustomObject]@{
         maxPivotStepX = $MaxPivotStepX
         maxPivotStepY = $MaxPivotStepY
         smoothing = $Smoothing
+        preserveVerticalActions = $PreserveVerticalActions
+        preserveHorizontalActions = $PreserveHorizontalActions
     }
     characters = $characters.ToArray()
 }
 
 $metadataPath = Join-Path $outputFull "metadata.json"
-$manifest | ConvertTo-Json -Depth 20 | Set-Content -LiteralPath $metadataPath -Encoding UTF8
+Write-JsonFile -Path $metadataPath -Value $manifest
 
 Write-Host "Aligned $($characters.Count) sprite frame set(s)."
 Write-Host "Metadata: $(Get-RelativePathText -BasePath $rootForRelative -Path $metadataPath)"
