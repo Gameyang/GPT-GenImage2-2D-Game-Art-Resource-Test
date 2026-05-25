@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GPT GenImage2 2D Game Art Resource Test</title>
+    <meta
+      name="description"
+      content="GPT GenImage2 2D game art resource test feed home page."
+    >
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/main.js" defer></script>
+  </head>
+  <body>
+    <header class="mobile-topbar">
+      <a class="brand" href="./index.html" aria-label="Home">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>GenImage2 Art Test</span>
+      </a>
+      <a
+        class="repo-link"
+        href="https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test"
+      >
+        Repo
+      </a>
+    </header>
+
+    <div class="app-shell">
+      <aside class="desktop-sidebar" aria-label="Primary navigation">
+        <a class="brand desktop-brand" href="./index.html" aria-label="Home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>GenImage2 Art Test</span>
+        </a>
+
+        <nav class="side-nav">
+          <a class="side-nav-link active" href="./index.html">
+            <span class="nav-symbol" aria-hidden="true"></span>
+            <span>홈 피드</span>
+          </a>
+          <a class="side-nav-link" href="#test-pages-title">
+            <span class="nav-symbol" aria-hidden="true"></span>
+            <span>테스트</span>
+          </a>
+          <a class="side-nav-link" href="./data/samples.json">
+            <span class="nav-symbol" aria-hidden="true"></span>
+            <span>공개 데이터</span>
+          </a>
+        </nav>
+      </aside>
+
+      <main class="feed-column">
+        <header class="feed-header">
+          <div>
+            <p class="overline">Home feed</p>
+            <h1>테스트 피드</h1>
+          </div>
+          <span class="feed-count"><strong data-page-count>0</strong> pages</span>
+        </header>
+
+        <article class="feed-post pinned-post">
+          <div class="post-avatar project-avatar" aria-hidden="true">G</div>
+          <div class="post-body">
+            <div class="post-meta">
+              <strong>GenImage2 Art Test</strong>
+              <span>@resource-lab</span>
+              <span>고정</span>
+            </div>
+            <h2>2D 게임 아트 리소스 테스트 홈</h2>
+            <p>
+              GPT GenImage2로 만든 2D 게임 아트 리소스 테스트를 피드 형태로 모아보는 시작 화면입니다.
+            </p>
+            <div class="asset-strip" aria-label="Resource preview placeholders">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <div class="post-stats" aria-label="Project status">
+              <span><strong data-page-count>0</strong> 테스트 페이지</span>
+              <span>공개 데이터 준비</span>
+            </div>
+          </div>
+        </article>
+
+        <section class="feed-section" aria-labelledby="test-pages-title">
+          <div class="feed-section-header">
+            <div>
+              <p class="overline">Test pages</p>
+              <h2 id="test-pages-title">테스트 서브 페이지</h2>
+            </div>
+          </div>
+
+          <div id="test-page-feed" class="feed-list" aria-live="polite"></div>
+
+          <template id="test-page-card-template">
+            <article class="feed-post test-post">
+              <div class="post-avatar test-avatar" aria-hidden="true"></div>
+              <div class="post-body">
+                <div class="post-meta">
+                  <strong class="post-category"></strong>
+                  <span class="post-handle"></span>
+                  <span class="post-status"></span>
+                </div>
+                <h3></h3>
+                <p class="post-description"></p>
+                <a class="post-action" href="#">서브 페이지 보기</a>
+              </div>
+            </article>
+          </template>
+
+          <article id="empty-state" class="feed-post empty-post" hidden>
+            <div class="post-avatar empty-avatar" aria-hidden="true">0</div>
+            <div class="post-body">
+              <div class="post-meta">
+                <strong>Test feed</strong>
+                <span>@waiting</span>
+              </div>
+              <h3>아직 등록된 테스트 페이지가 없습니다.</h3>
+              <p>테스트 페이지가 준비되면 이 피드에서 바로 이동할 수 있습니다.</p>
+            </div>
+          </article>
+        </section>
+      </main>
+
+      <aside class="desktop-context" aria-label="Project context">
+        <section class="context-panel">
+          <h2>상태</h2>
+          <dl class="status-list">
+            <div>
+              <dt>테스트 페이지</dt>
+              <dd><span data-page-count>0</span></dd>
+            </div>
+            <div>
+              <dt>샘플 데이터</dt>
+              <dd>Ready</dd>
+            </div>
+            <div>
+              <dt>출력 폴더</dt>
+              <dd>public</dd>
+            </div>
+          </dl>
+        </section>
+
+        <section class="context-panel">
+          <h2>구성</h2>
+          <ul class="context-list">
+            <li>홈 피드</li>
+            <li>테스트 서브 페이지</li>
+            <li>공개 샘플 데이터</li>
+          </ul>
+        </section>
+      </aside>
+    </div>
+
+    <nav class="mobile-bottom-nav" aria-label="Mobile navigation">
+      <a class="active" href="./index.html">홈</a>
+      <a href="#test-pages-title">테스트</a>
+      <a href="./data/samples.json">데이터</a>
+    </nav>
+  </body>
+</html>
