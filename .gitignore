@@ -19,3 +19,21 @@ build/
 *.kra
 *.clip
 *.aseprite
+
+# Local/generated intermediate asset outputs.
+experiments/*
+!experiments/.gitkeep
+raw/generated/*
+!raw/generated/.gitkeep
+
+# Binary prompt references used only for local iteration.
+prompts/*.png
+prompts/*.jpg
+prompts/*.jpeg
+prompts/*.webp
+
+# Derived sprite pipeline intermediates; keep curated sheets/playback explicit.
+public/assets/characters/sideview-pixel/animation/pivot-aligned/
+public/assets/characters/sideview-pixel/animation/20260525-sprite-8x4-one-character/cells/
+public/assets/characters/sideview-pixel/animation/20260525-sprite-8x4-one-character/pivot-aligned/frames/
+public/assets/characters/sideview-pixel/animation/20260525-sprite-8x4-one-character/pivot-aligned/metadata.json
