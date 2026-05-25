@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "character-sideview-01-adventurer-swordsman",
+    "category": "Character",
+    "title": "Adventurer Swordsman",
+    "image": "assets/characters/sideview-pixel/character-sideview-01-adventurer-swordsman.png",
+    "promptSummary": "2D pixel-art side-view adventurer swordsman, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "기본 검사형 캐릭터. 검과 망토가 분리되어 idle, walk, attack 실험에 적합함."
+  },
+  {
+    "id": "character-sideview-02-desert-scout-archer",
+    "category": "Character",
+    "title": "Desert Scout Archer",
+    "image": "assets/characters/sideview-pixel/character-sideview-02-desert-scout-archer.png",
+    "promptSummary": "2D pixel-art side-view desert scout archer, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "활과 후드 실루엣을 가진 정찰병. 달리기와 사격 모션 테스트용."
+  },
+  {
+    "id": "character-sideview-03-forest-herbalist-mage",
+    "category": "Character",
+    "title": "Forest Herbalist Mage",
+    "image": "assets/characters/sideview-pixel/character-sideview-03-forest-herbalist-mage.png",
+    "promptSummary": "2D pixel-art side-view forest herbalist mage, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "로브, 가방, 지팡이 보조 움직임을 테스트하기 좋은 마법사형 캐릭터."
+  },
+  {
+    "id": "character-sideview-04-mechanical-tinkerer-engineer",
+    "category": "Character",
+    "title": "Mechanical Tinkerer Engineer",
+    "image": "assets/characters/sideview-pixel/character-sideview-04-mechanical-tinkerer-engineer.png",
+    "promptSummary": "2D pixel-art side-view mechanical tinkerer engineer, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "공구, 고글, 장치 가방이 있어 수리와 작업 모션 테스트에 적합함."
+  },
+  {
+    "id": "character-sideview-05-armored-shield-guard",
+    "category": "Character",
+    "title": "Armored Shield Guard",
+    "image": "assets/characters/sideview-pixel/character-sideview-05-armored-shield-guard.png",
+    "promptSummary": "2D pixel-art side-view armored shield guard, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "방패와 창이 있는 방어형 캐릭터. 방어와 찌르기 모션 테스트용."
+  },
+  {
+    "id": "character-sideview-06-nimble-rogue-thief",
+    "category": "Character",
+    "title": "Nimble Rogue Thief",
+    "image": "assets/characters/sideview-pixel/character-sideview-06-nimble-rogue-thief.png",
+    "promptSummary": "2D pixel-art side-view nimble rogue thief, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "좁고 민첩한 실루엣. 회피, 단검 공격, 빠른 이동 모션 실험에 적합함."
+  },
+  {
+    "id": "character-sideview-07-fire-apprentice-caster",
+    "category": "Character",
+    "title": "Fire Apprentice Caster",
+    "image": "assets/characters/sideview-pixel/character-sideview-07-fire-apprentice-caster.png",
+    "promptSummary": "2D pixel-art side-view fire apprentice caster, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "화염 지팡이와 붉은 코트 중심의 캐스터. 차지와 발사 모션 테스트용."
+  },
+  {
+    "id": "character-sideview-08-ice-lancer-knight",
+    "category": "Character",
+    "title": "Ice Lancer Knight",
+    "image": "assets/characters/sideview-pixel/character-sideview-08-ice-lancer-knight.png",
+    "promptSummary": "2D pixel-art side-view ice lancer knight, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "긴 창과 갑주를 가진 캐릭터. 무기 길이가 긴 공격 모션 테스트에 적합함."
+  },
+  {
+    "id": "character-sideview-09-village-blacksmith-brawler",
+    "category": "Character",
+    "title": "Village Blacksmith Brawler",
+    "image": "assets/characters/sideview-pixel/character-sideview-09-village-blacksmith-brawler.png",
+    "promptSummary": "2D pixel-art side-view village blacksmith brawler, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "강한 체형과 망치가 특징. 무거운 타격과 작업 모션 테스트용."
+  },
+  {
+    "id": "character-sideview-10-sea-courier-runner",
+    "category": "Character",
+    "title": "Sea Courier Runner",
+    "image": "assets/characters/sideview-pixel/character-sideview-10-sea-courier-runner.png",
+    "promptSummary": "2D pixel-art side-view sea courier runner, neutral idle-ready pose for future sprite sheet animation.",
+    "notes": "가방과 머리띠가 있는 러너형 캐릭터. 달리기와 점프 모션 테스트에 적합함."
+  }
+]

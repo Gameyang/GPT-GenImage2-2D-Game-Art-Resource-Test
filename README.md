@@ -73,4 +73,5 @@ GPT GenImage2를 활용해 2D 게임 아트 리소스 생성 가능성을 검증
 
 현재 `public/data/samples.json`은 빈 배열로 시작합니다.
 메인 홈 페이지의 테스트 페이지 목록은 `public/data/test-pages.json`에서 관리합니다.
+Codex 작업 종료 훅은 `scripts/publish-work-result.js`를 호출해 공개 가능한 변경만 `public/data/work-feed.json`에 기록합니다.
 배포 자동화 workflow는 나중에 GitHub 토큰에 workflow 권한이 준비되면 추가합니다.

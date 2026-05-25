@@ -1,0 +1,56 @@
+[
+  {
+    "id": "work-20260525T063328Z-bf77ad37",
+    "createdAt": "2026-05-25T06:33:28.054Z",
+    "title": "공개 아트 에셋 업데이트",
+    "summary": "변경 파일 31개: README.md, public/README.md, public/css/style.css, public/data/samples.json 외 27개",
+    "category": "Asset",
+    "handle": "@codex-hook",
+    "status": "Ready",
+    "href": "./index.html",
+    "files": [
+      "README.md",
+      "public/README.md",
+      "public/css/style.css",
+      "public/data/samples.json",
+      "public/data/test-pages.json",
+      "public/index.html",
+      "public/js/main.js",
+      "AGENTS.md"
+    ],
+    "score": 134,
+    "reasons": [
+      "public-output",
+      "generated-art",
+      "automation"
+    ],
+    "quality": "quality-gates-passed",
+    "fingerprint": "bf77ad373c2372b565354dc41cd95dcb6404ccca80b0c18b7f10a59257952a90"
+  },
+  {
+    "id": "work-20260525T062645Z-eee511f7",
+    "createdAt": "2026-05-25T06:26:45.649Z",
+    "title": "작업 결과 자동 게시 훅 추가",
+    "summary": "Codex 작업 종료 시 공개 가능한 변경을 판단해 홈 피드에 작업 결과를 자동 기록하도록 연결했습니다.",
+    "category": "Public output",
+    "handle": "@codex-hook",
+    "status": "Ready",
+    "href": "./index.html",
+    "files": [
+      "README.md",
+      "public/README.md",
+      "public/css/style.css",
+      "public/index.html",
+      "public/js/main.js",
+      "scripts/codex-turn-ended-hook.sh",
+      "scripts/publish-work-result.js"
+    ],
+    "score": 22,
+    "reasons": [
+      "public-output",
+      "automation"
+    ],
+    "quality": "quality-gates-passed",
+    "fingerprint": "eee511f7e43ff7d1e9a4649f891b036f771d8de0eb2fe54a6cb1186e868fc985"
+  }
+]

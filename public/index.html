@@ -77,11 +77,54 @@
               <span></span>
             </div>
             <div class="post-stats" aria-label="Project status">
+              <span><strong data-work-count>0</strong> 작업 포스트</span>
               <span><strong data-page-count>0</strong> 테스트 페이지</span>
               <span>공개 데이터 준비</span>
             </div>
           </div>
         </article>
+
+        <section class="feed-section" aria-labelledby="work-feed-title">
+          <div class="feed-section-header">
+            <div>
+              <p class="overline">Work posts</p>
+              <h2 id="work-feed-title">작업 결과</h2>
+            </div>
+            <span class="feed-count"><strong data-work-count>0</strong> posts</span>
+          </div>
+
+          <div id="work-feed" class="feed-list" aria-live="polite"></div>
+
+          <template id="work-card-template">
+            <article class="feed-post work-post">
+              <div class="post-avatar work-avatar" aria-hidden="true"></div>
+              <div class="post-body">
+                <div class="post-meta">
+                  <strong class="post-category"></strong>
+                  <span class="post-handle"></span>
+                  <span class="post-status"></span>
+                  <time class="post-time" datetime=""></time>
+                </div>
+                <h3></h3>
+                <p class="post-description"></p>
+                <ul class="work-file-list"></ul>
+                <a class="post-action" href="#">결과 보기</a>
+              </div>
+            </article>
+          </template>
+
+          <article id="work-empty-state" class="feed-post empty-post" hidden>
+            <div class="post-avatar empty-avatar" aria-hidden="true">0</div>
+            <div class="post-body">
+              <div class="post-meta">
+                <strong>Work feed</strong>
+                <span>@waiting</span>
+              </div>
+              <h3>아직 게시된 작업 결과가 없습니다.</h3>
+              <p>공개할 만한 작업이 끝나면 이 피드에 자동으로 기록됩니다.</p>
+            </div>
+          </article>
+        </section>
 
         <section class="feed-section" aria-labelledby="test-pages-title">
           <div class="feed-section-header">
@@ -104,6 +147,9 @@
                 </div>
                 <h3></h3>
                 <p class="post-description"></p>
+                <figure class="post-media" hidden>
+                  <img alt="" loading="lazy">
+                </figure>
                 <a class="post-action" href="#">서브 페이지 보기</a>
               </div>
             </article>
@@ -127,6 +173,10 @@
         <section class="context-panel">
           <h2>상태</h2>
           <dl class="status-list">
+            <div>
+              <dt>작업 포스트</dt>
+              <dd><span data-work-count>0</span></dd>
+            </div>
             <div>
               <dt>테스트 페이지</dt>
               <dd><span data-page-count>0</span></dd>
