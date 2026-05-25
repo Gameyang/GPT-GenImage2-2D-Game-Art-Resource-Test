@@ -1,5 +1,91 @@
 [
   {
+    "id": "work-20260525T065636Z-a01b4fbd",
+    "createdAt": "2026-05-25T06:56:36.573Z",
+    "title": "작업 결과 업데이트",
+    "summary": "변경 파일 4개: AGENTS.md, public/index.html, start-local-server.bat, start-local-server.command",
+    "category": "작업 결과",
+    "handle": "@codex-hook",
+    "status": "Review",
+    "href": "./index.html",
+    "files": [
+      "AGENTS.md",
+      "public/index.html",
+      "start-local-server.bat",
+      "start-local-server.command"
+    ],
+    "score": 7,
+    "reasons": [
+      "public-output"
+    ],
+    "quality": "quality-gates-passed",
+    "fingerprint": "a01b4fbd039a5d20657e2e481a2fba75f2b0c6b931279274232224ce6ef4e079"
+  },
+  {
+    "id": "work-20260525T064639Z-1ed41ef4",
+    "createdAt": "2026-05-25T06:46:39.622Z",
+    "title": "작업 결과 업데이트",
+    "summary": "변경 파일 2개: AGENTS.md, public/index.html",
+    "category": "Docs",
+    "handle": "@codex-hook",
+    "status": "Review",
+    "href": "./index.html",
+    "files": [
+      "AGENTS.md",
+      "public/index.html"
+    ],
+    "score": 5,
+    "reasons": [
+      "public-output"
+    ],
+    "quality": "quality-gates-passed",
+    "fingerprint": "1ed41ef4465dde95b57bf8bad118b9d0b111978a87c647f1da3394003cdf0bd7"
+  },
+  {
+    "id": "work-20260525T064425Z-22fcb390",
+    "createdAt": "2026-05-25T06:44:25.133Z",
+    "title": "홈 피드 공개 출력 업데이트",
+    "summary": "변경 파일 1개: public/index.html",
+    "category": "Public output",
+    "handle": "@codex-hook",
+    "status": "Review",
+    "href": "./index.html",
+    "files": [
+      "public/index.html"
+    ],
+    "score": 4,
+    "reasons": [
+      "public-output"
+    ],
+    "quality": "quality-gates-passed",
+    "fingerprint": "22fcb39096230d1fb54b8d80546e323fe79cb9963f737a984d4af62834bb7cd1"
+  },
+  {
+    "id": "work-20260525T063542Z-sideview-pixel-characters",
+    "createdAt": "2026-05-25T06:35:42Z",
+    "title": "사이드뷰 픽셀 캐릭터 원화 10종 게시",
+    "summary": "향후 sprite sheet animation 제작을 고려해 측면 정자세 기준의 2D 픽셀 캐릭터 원화 10종을 생성하고 홈 피드와 공개 샘플 데이터에 연결했습니다.",
+    "category": "Character assets",
+    "handle": "@sideview-pixel",
+    "status": "Ready",
+    "href": "#test-pages-title",
+    "files": [
+      "public/assets/characters/sideview-pixel",
+      "public/data/test-pages.json",
+      "public/data/samples.json",
+      "prompts/sideview-pixel-characters.md",
+      "raw/generated/sideview-pixel-characters"
+    ],
+    "score": 160,
+    "reasons": [
+      "public-output",
+      "generated-art",
+      "sprite-sheet-ready"
+    ],
+    "quality": "transparent-png-validated",
+    "fingerprint": "sideview-pixel-characters-20260525"
+  },
+  {
     "id": "work-20260525T063328Z-bf77ad37",
     "createdAt": "2026-05-25T06:33:28.054Z",
     "title": "공개 아트 에셋 업데이트",

@@ -14,13 +14,16 @@ This repository is a lightweight static site and asset lab for GPT GenImage2 2D 
 
 ## Build, Test, and Development Commands
 
-There is no package manager setup or build step. Serve the static app locally:
+There is no package manager setup or build step.
+
+Start a local static server from the repository root:
 
 ```sh
+cd /Users/yang.jin/workspace/GPT-GenImage2-2D-Game-Art-Resource-Test
 python3 -m http.server 8000 --directory public
 ```
 
-Open `http://localhost:8000` to verify JSON loading, image paths, and responsive layout.
+Open `http://localhost:8000` in a browser to view the homepage. Stop the server with `Ctrl-C`. If port `8000` is busy, use another port, for example `python3 -m http.server 8010 --directory public`.
 
 Run the feed publisher in dry-run mode before relying on hook output:
 
