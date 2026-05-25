@@ -34,4 +34,17 @@
 
 - Generated source images are stored in `raw/generated/sideview-pixel-characters/`.
 - Public transparent PNGs are stored in `public/assets/characters/sideview-pixel/`.
-- Home feed posts are registered in `public/data/test-pages.json`.
+
+## Animation Sheet Pass 01
+
+Created one 4x4 animation sheet for each character.
+
+- Row 1: idle
+- Row 2: move / walk
+- Row 3: jump
+- Row 4: attack
+
+Each row has 4 frames. The sheets are intended as first-pass generated animation tests, not final engine-ready sprites.
+
+Animation sheet source images are stored in `raw/generated/sideview-pixel-animation-sheets/`.
+Public transparent animation sheets are stored in `public/assets/characters/sideview-pixel/animation/`.

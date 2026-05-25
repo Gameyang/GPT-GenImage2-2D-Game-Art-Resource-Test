@@ -2,51 +2,47 @@
 
 ## Project Structure & Module Organization
 
-This repository is a lightweight static site and asset lab for GPT GenImage2 2D game art tests.
+This repository is an asset-only lab for GPT GenImage2 2D game art tests.
 
-- `public/` contains files safe to publish through GitHub Pages: `index.html`, `css/style.css`, `js/main.js`, JSON data, and public assets.
-- `public/assets/characters/` stores publishable character previews.
-- `public/data/test-pages.json` drives the homepage test page feed, while `work-feed.json` stores automated work posts.
+- `public/assets/` stores curated image resources that are safe to publish or copy into another project.
+- `public/assets/characters/` stores publishable character concepts, animation sheets, cut frames, and playback GIFs.
+- `public/assets/backgrounds/` stores publishable background and stage images.
 - `prompts/` records prompt experiments.
 - `raw/generated/` keeps source generated images before public curation.
 - `raw/references/` and `internal-notes/` are private working material and should not be treated as public output.
-- `scripts/` contains automation, including the Codex turn-ended publishing hook.
+- `docs/tasks/` is the task log area for planned or completed work.
+
+## Task Isolation Workflow
+
+Manage each requested work item as a separate task. Use a stable task id such as `20260525-sideview-pixel-characters` and record scope, touched files, verification, and follow-ups in `docs/tasks/<task-id>.md`.
+
+Keep task artifacts grouped by the same id:
+
+- Prompt notes: `prompts/<task-id>.md`
+- Raw generated sources: `raw/generated/<task-id>/`
+- Public assets: `public/assets/<category>/<task-id>/`
+- Experiments: `experiments/<task-id>/`
+
+Do not mix unrelated task changes in one edit, commit, or PR. Shared asset folders such as `public/assets/characters/`, `public/assets/backgrounds/`, and `raw/generated/` may be edited by multiple tasks, so update them narrowly and note the reason in the task log.
 
 ## Build, Test, and Development Commands
 
-There is no package manager setup or build step.
-
-Start a local static server from the repository root:
-
-```sh
-cd /Users/yang.jin/workspace/GPT-GenImage2-2D-Game-Art-Resource-Test
-python3 -m http.server 8000 --directory public
-```
-
-Open `http://localhost:8000` in a browser to view the homepage. Stop the server with `Ctrl-C`. If port `8000` is busy, use another port, for example `python3 -m http.server 8010 --directory public`.
-
-Run the feed publisher in dry-run mode before relying on hook output:
-
-```sh
-node scripts/publish-work-result.js --dry-run
-```
-
-Use `--force --dry-run` only when checking post formatting for changes that would normally be below the publishing threshold.
+There is no package manager setup, build step, homepage, or feed publisher in this repository. Validate assets by checking file paths, image dimensions, and alpha channels where relevant.
 
 ## Coding Style & Naming Conventions
 
-Use two-space indentation for HTML, CSS, JSON, and JavaScript, matching the existing files. Keep JavaScript browser-native and dependency-free. Prefer `const`, small helper functions, and clear DOM selectors. Use kebab-case for file and directory names, CSS classes, JSON IDs, and generated asset names, for example `character-sideview-01-adventurer-swordsman.png`.
+Use kebab-case for file and directory names and generated asset names, for example `character-sideview-01-adventurer-swordsman.png`.
 
 ## Testing Guidelines
 
-No automated test framework is configured. Validate changes manually by serving `public/`, checking the browser console, and confirming `test-pages.json` entries resolve to real assets. For script changes, run the Node command above and inspect the JSON-shaped result. Keep JSON files valid arrays or objects as expected by `public/js/main.js`.
+No automated test framework is configured. Validate changes manually by confirming referenced assets exist, image dimensions are plausible for the asset type, and transparent PNGs have valid alpha where transparency is expected.
 
 ## Commit & Pull Request Guidelines
 
 Recent commits use short imperative messages such as `Add initial project structure and files for 2D Game Art Resource Test`. Follow that style: start with a verb, keep the subject concise, and mention the affected area when useful.
 
-Pull requests should describe the purpose, list changed public assets or data files, note manual verification steps, and include screenshots for visible `public/` UI changes.
+Pull requests should describe the purpose, list changed public assets or raw generated sources, and note manual verification steps.
 
 ## Security & Configuration Tips
 
-Keep private references, evaluation notes, and unpublished sources outside `public/`. The publisher already hides `internal-notes/` and `raw/references/`; do not bypass that separation when adding scripts or data.
+Keep private references, evaluation notes, and unpublished sources outside `public/`. Do not move `internal-notes/` or `raw/references/` content into public asset folders.
