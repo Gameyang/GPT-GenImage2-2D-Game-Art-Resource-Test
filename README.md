@@ -15,6 +15,7 @@ GPT GenImage2를 활용해 2D 게임 아트 리소스 생성 가능성을 검증
 - [Experiments](#experiments)
 - [Internal Notes](#internal-notes)
 - [Public Assets](#public-assets)
+- [Home Feed API](#home-feed-api)
 
 ## Project Purpose
 
@@ -65,3 +66,11 @@ GPT GenImage2를 활용해 2D 게임 아트 리소스 생성 가능성을 검증
 공개 가능한 이미지 리소스만 `public/assets/` 폴더에 정리합니다.
 
 홈 페이지, 피드 UI, 샘플 데이터 JSON, 자동 게시 훅은 이 프로젝트에서 제거했습니다. 해당 UI는 별도 프로젝트에서 구현합니다.
+
+## Home Feed API
+
+공개 홈 피드(`Gameyang/home`)가 읽을 수 있는 정적 JSON은 `public/home-feed.json`에서 관리합니다.
+
+- GitHub Pages 배포 후 feed URL: `https://gameyang.github.io/GPT-GenImage2-2D-Game-Art-Resource-Test/home-feed.json`
+- 이 파일에는 공개 가능한 대표 이미지, GIF, 링크만 기록합니다.
+- `raw/references/`, `internal-notes/`, 비공개 평가 노트는 feed JSON에 포함하지 않습니다.

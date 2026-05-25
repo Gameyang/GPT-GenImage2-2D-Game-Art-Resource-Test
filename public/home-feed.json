@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "id": "gpt-genimage2-2d-game-art-resource-test",
+    "title": "GPT GenImage2 2D Game Art Resource Test",
+    "description": "GPT GenImage2로 2D 게임 캐릭터, 애니메이션, 사이드뷰 배경 리소스를 실험하는 비상업 개인 AI 학습 프로젝트입니다.",
+    "pageUrl": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test",
+    "sourceUrl": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test",
+    "tags": ["AI", "Game Art", "Pixel Art", "Non-commercial"]
+  },
+  "posts": [
+    {
+      "id": "20260525-sideview-platform-backgrounds",
+      "date": "2026-05-25",
+      "type": "gallery",
+      "title": "Side-view Platform Backgrounds",
+      "text": "Fantasy platform stage backgrounds generated as wide horizontal 2.5D pixel-art resources.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-01-ancient-dungeon-causeway.png",
+          "alt": "Ancient dungeon causeway side-view platform background"
+        },
+        {
+          "type": "image",
+          "url": "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-02-overgrown-temple-approach.png",
+          "alt": "Overgrown temple approach side-view platform background"
+        },
+        {
+          "type": "image",
+          "url": "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-03-lava-forge-undercroft.png",
+          "alt": "Lava forge undercroft side-view platform background"
+        },
+        {
+          "type": "image",
+          "url": "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-04-coastal-cavern-dock.png",
+          "alt": "Coastal cavern dock side-view platform background"
+        },
+        {
+          "type": "image",
+          "url": "assets/backgrounds/20260525-sideview-platform-backgrounds/background-sideview-05-sky-castle-battlement.png",
+          "alt": "Sky castle battlement side-view platform background"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/backgrounds/20260525-sideview-platform-backgrounds",
+      "tags": ["Background", "Platformer", "Fantasy"]
+    },
+    {
+      "id": "20260525-sideview-character-concepts",
+      "date": "2026-05-25",
+      "type": "gallery",
+      "title": "Side-view Pixel Character Concepts",
+      "text": "A publishable character concept set for side-view game prototypes, covering melee, ranged, magic, guard, rogue, and courier roles.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/characters/sideview-pixel/character-sideview-01-adventurer-swordsman.png",
+          "alt": "Adventurer swordsman side-view pixel character"
+        },
+        {
+          "type": "image",
+          "url": "assets/characters/sideview-pixel/character-sideview-02-desert-scout-archer.png",
+          "alt": "Desert scout archer side-view pixel character"
+        },
+        {
+          "type": "image",
+          "url": "assets/characters/sideview-pixel/character-sideview-03-forest-herbalist-mage.png",
+          "alt": "Forest herbalist mage side-view pixel character"
+        },
+        {
+          "type": "image",
+          "url": "assets/characters/sideview-pixel/character-sideview-05-armored-shield-guard.png",
+          "alt": "Armored shield guard side-view pixel character"
+        },
+        {
+          "type": "image",
+          "url": "assets/characters/sideview-pixel/character-sideview-06-nimble-rogue-thief.png",
+          "alt": "Nimble rogue thief side-view pixel character"
+        },
+        {
+          "type": "image",
+          "url": "assets/characters/sideview-pixel/character-sideview-10-sea-courier-runner.png",
+          "alt": "Sea courier runner side-view pixel character"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/sideview-pixel",
+      "tags": ["Character", "Concept", "Pixel Art"]
+    },
+    {
+      "id": "20260525-sideview-animation-playbacks",
+      "date": "2026-05-25",
+      "type": "gif",
+      "title": "Side-view Character Animation GIFs",
+      "text": "Playback GIFs assembled from generated animation sheets for quick visual review in the public feed.",
+      "media": [
+        {
+          "type": "gif",
+          "url": "assets/characters/sideview-pixel/animation/playback/playback-01-adventurer-swordsman.gif",
+          "alt": "Adventurer swordsman animation playback GIF"
+        },
+        {
+          "type": "gif",
+          "url": "assets/characters/sideview-pixel/animation/playback/playback-02-desert-scout-archer.gif",
+          "alt": "Desert scout archer animation playback GIF"
+        },
+        {
+          "type": "gif",
+          "url": "assets/characters/sideview-pixel/animation/playback/playback-03-forest-herbalist-mage.gif",
+          "alt": "Forest herbalist mage animation playback GIF"
+        },
+        {
+          "type": "gif",
+          "url": "assets/characters/sideview-pixel/animation/playback/playback-08-ice-lancer-knight.gif",
+          "alt": "Ice lancer knight animation playback GIF"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/sideview-pixel/animation/playback",
+      "tags": ["Animation", "GIF", "Sprite"]
+    }
+  ]
+}
