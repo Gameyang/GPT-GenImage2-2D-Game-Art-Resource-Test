@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-26T16:51:02.706424+00:00",
+  "tool": "Pillow Image.save WEBP lossless",
+  "outputDir": "public/assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01",
+  "totals": {
+    "sourceBytes": 15409160,
+    "optimizedBytes": 6693440,
+    "savedBytes": 8715720,
+    "savedPercent": 56.56
+  },
+  "assets": [
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-01-blacksmith-shop.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-01-blacksmith-shop-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1513592,
+      "optimizedBytes": 648084,
+      "savedBytes": 865508,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-02-alchemist-cottage.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-02-alchemist-cottage-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1772979,
+      "optimizedBytes": 782146,
+      "savedBytes": 990833,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-03-cozy-inn.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-03-cozy-inn-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1707952,
+      "optimizedBytes": 727460,
+      "savedBytes": 980492,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-04-adventurer-guild-hall.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-04-adventurer-guild-hall-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1730893,
+      "optimizedBytes": 731312,
+      "savedBytes": 999581,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-05-magic-bookshop.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-05-magic-bookshop-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1602669,
+      "optimizedBytes": 730676,
+      "savedBytes": 871993,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-06-market-stall.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-06-market-stall-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1762908,
+      "optimizedBytes": 772128,
+      "savedBytes": 990780,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-07-fisher-hut.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-07-fisher-hut-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1735941,
+      "optimizedBytes": 763116,
+      "savedBytes": 972825,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-08-clockwork-workshop.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-08-clockwork-workshop-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1846871,
+      "optimizedBytes": 797962,
+      "savedBytes": 1048909,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/buildings/20260527-pixel-art-town-buildings-pack-01/pixel-building-09-windmill-farmhouse.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-09-windmill-farmhouse-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1735355,
+      "optimizedBytes": 740556,
+      "savedBytes": 994799,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    }
+  ]
+}

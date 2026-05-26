@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260527-pixel-art-town-buildings-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Town Building Pack 01",
+      "text": "Nine public-safe town and shop building exteriors for fantasy RPG, management, and cozy game prototypes.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-01-blacksmith-shop-feed.webp",
+          "alt": "Pixel-art blacksmith shop building with forge chimney"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-02-alchemist-cottage-feed.webp",
+          "alt": "Pixel-art alchemist cottage building with potion details"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-03-cozy-inn-feed.webp",
+          "alt": "Pixel-art cozy fantasy inn building with warm windows"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-04-adventurer-guild-hall-feed.webp",
+          "alt": "Pixel-art adventurer guild hall building with banners"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-05-magic-bookshop-feed.webp",
+          "alt": "Pixel-art magic bookshop building with crystals and curved roof"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-06-market-stall-feed.webp",
+          "alt": "Pixel-art colorful market stall with crates and produce"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-07-fisher-hut-feed.webp",
+          "alt": "Pixel-art coastal fisher hut building with nets and dock planks"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-08-clockwork-workshop-feed.webp",
+          "alt": "Pixel-art clockwork workshop building with brass pipes and gears"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-09-windmill-farmhouse-feed.webp",
+          "alt": "Pixel-art windmill farmhouse building with wheat bundles"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/buildings/20260527-pixel-art-town-buildings-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Buildings",
+        "Town",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260527-pixel-art-skill-icons-pack-01",
       "date": "2026-05-27",
       "type": "gallery",
