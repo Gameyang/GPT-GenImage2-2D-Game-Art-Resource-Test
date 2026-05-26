@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260527-pixel-art-crafting-resources-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Crafting Resources 01",
+      "text": "Nine public-safe transparent crafting resource pickups for survival, RPG, crafting, and economy prototype loops.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-01-wood-bundle-feed.webp",
+          "alt": "Pixel-art wood bundle crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-02-stone-chunks-feed.webp",
+          "alt": "Pixel-art stone chunks crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-03-iron-ore-feed.webp",
+          "alt": "Pixel-art iron ore crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-04-crystal-shards-feed.webp",
+          "alt": "Pixel-art crystal shards crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-05-herb-bundle-feed.webp",
+          "alt": "Pixel-art herb bundle crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-06-mushroom-cluster-feed.webp",
+          "alt": "Pixel-art mushroom cluster crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-07-cloth-roll-feed.webp",
+          "alt": "Pixel-art cloth roll crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-08-leather-hide-feed.webp",
+          "alt": "Pixel-art leather hide crafting resource pickup"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-09-gear-parts-feed.webp",
+          "alt": "Pixel-art gear parts crafting resource pickup"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/resources/20260527-pixel-art-crafting-resources-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Resources",
+        "Crafting",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260527-pixel-art-hero-characters-pack-01",
       "date": "2026-05-27",
       "type": "gallery",

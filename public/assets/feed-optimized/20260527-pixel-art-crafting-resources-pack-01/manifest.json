@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-26T20:21:11.802172+00:00",
+  "tool": "Pillow Image.save WEBP lossless",
+  "outputDir": "public/assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01",
+  "totals": {
+    "sourceBytes": 6059712,
+    "optimizedBytes": 2653728,
+    "savedBytes": 3405984,
+    "savedPercent": 56.21
+  },
+  "assets": [
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-01-wood-bundle.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-01-wood-bundle-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 584830,
+      "optimizedBytes": 258002,
+      "savedBytes": 326828,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-02-stone-chunks.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-02-stone-chunks-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 498015,
+      "optimizedBytes": 209532,
+      "savedBytes": 288483,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-03-iron-ore.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-03-iron-ore-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 669315,
+      "optimizedBytes": 284264,
+      "savedBytes": 385051,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-04-crystal-shards.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-04-crystal-shards-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 542541,
+      "optimizedBytes": 240066,
+      "savedBytes": 302475,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-05-herb-bundle.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-05-herb-bundle-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 609883,
+      "optimizedBytes": 267414,
+      "savedBytes": 342469,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-06-mushroom-cluster.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-06-mushroom-cluster-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 704438,
+      "optimizedBytes": 309978,
+      "savedBytes": 394460,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-07-cloth-roll.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-07-cloth-roll-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 721797,
+      "optimizedBytes": 314686,
+      "savedBytes": 407111,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-08-leather-hide.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-08-leather-hide-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 893795,
+      "optimizedBytes": 392840,
+      "savedBytes": 500955,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/resources/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-09-gear-parts.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-09-gear-parts-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 835098,
+      "optimizedBytes": 376946,
+      "savedBytes": 458152,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    }
+  ]
+}
