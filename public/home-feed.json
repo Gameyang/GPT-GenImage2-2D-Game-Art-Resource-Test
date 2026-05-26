@@ -15,6 +15,41 @@
   },
   "posts": [
     {
+      "id": "20260525-sideview-8x4-motion-sheets",
+      "date": "2026-05-26",
+      "type": "gif",
+      "title": "Side-view 8x4 Motion Sheet Playbacks",
+      "text": "Four semi-realistic side-view characters exported from 8x4 motion sheets into 32-frame idle, run, attack, and jump playback loops.",
+      "media": [
+        {
+          "type": "gif",
+          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-01-vanguard-swordswoman-v2-feed.webp",
+          "alt": "Vanguard swordswoman 8x4 motion sheet playback"
+        },
+        {
+          "type": "gif",
+          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-02-desert-ranger-archer-feed.webp",
+          "alt": "Desert ranger archer 8x4 motion sheet playback"
+        },
+        {
+          "type": "gif",
+          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-03-arcane-herbalist-mage-feed.webp",
+          "alt": "Arcane herbalist mage 8x4 motion sheet playback"
+        },
+        {
+          "type": "gif",
+          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-04-clockwork-shield-engineer-feed.webp",
+          "alt": "Clockwork shield engineer 8x4 motion sheet playback"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260525-sideview-8x4-motion-sheets",
+      "tags": [
+        "Character",
+        "Animation",
+        "Sprite Sheet"
+      ]
+    },
+    {
       "id": "20260525-sideview-platform-backgrounds",
       "date": "2026-05-25",
       "type": "gallery",

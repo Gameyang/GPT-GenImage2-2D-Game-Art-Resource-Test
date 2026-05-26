@@ -1,0 +1,133 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-26T21:17:16",
+    "tool":  "tools/optimize-home-feed-webp.ps1",
+    "feed":  "public/home-feed.temp-20260526-sideview-8x4-motion-sheets.json",
+    "outputDir":  "public/assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets",
+    "settings":  {
+                     "backgroundMaxWidth":  960,
+                     "characterMaxHeight":  640,
+                     "animationMaxWidth":  640,
+                     "backgroundQuality":  78,
+                     "characterQuality":  80,
+                     "animationQuality":  78,
+                     "alphaQuality":  80,
+                     "effort":  6
+                 },
+    "totals":  {
+                   "sourceBytes":  2373712,
+                   "optimizedBytes":  1940384,
+                   "savedBytes":  433328,
+                   "savedPercent":  18.26
+               },
+    "assets":  [
+                   {
+                       "postId":  "20260525-sideview-8x4-motion-sheets",
+                       "previousFeedUrl":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-01-vanguard-swordswoman-v2.gif",
+                       "source":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-01-vanguard-swordswoman-v2.gif",
+                       "optimized":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-01-vanguard-swordswoman-v2-feed.webp",
+                       "mediaType":  "gif",
+                       "resizeMode":  "animation",
+                       "quality":  78,
+                       "sourceBytes":  570542,
+                       "optimizedBytes":  476372,
+                       "savedBytes":  94170,
+                       "savedPercent":  16.51,
+                       "sourceSize":  {
+                                          "w":  192,
+                                          "h":  256,
+                                          "format":  "gif",
+                                          "animated":  true,
+                                          "frames":  32
+                                      },
+                       "optimizedSize":  {
+                                             "w":  192,
+                                             "h":  256,
+                                             "format":  "webp",
+                                             "animated":  true,
+                                             "frames":  32
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-8x4-motion-sheets",
+                       "previousFeedUrl":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-02-desert-ranger-archer.gif",
+                       "source":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-02-desert-ranger-archer.gif",
+                       "optimized":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-02-desert-ranger-archer-feed.webp",
+                       "mediaType":  "gif",
+                       "resizeMode":  "animation",
+                       "quality":  78,
+                       "sourceBytes":  616668,
+                       "optimizedBytes":  512112,
+                       "savedBytes":  104556,
+                       "savedPercent":  16.95,
+                       "sourceSize":  {
+                                          "w":  192,
+                                          "h":  256,
+                                          "format":  "gif",
+                                          "animated":  true,
+                                          "frames":  32
+                                      },
+                       "optimizedSize":  {
+                                             "w":  192,
+                                             "h":  256,
+                                             "format":  "webp",
+                                             "animated":  true,
+                                             "frames":  32
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-8x4-motion-sheets",
+                       "previousFeedUrl":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-03-arcane-herbalist-mage.gif",
+                       "source":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-03-arcane-herbalist-mage.gif",
+                       "optimized":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-03-arcane-herbalist-mage-feed.webp",
+                       "mediaType":  "gif",
+                       "resizeMode":  "animation",
+                       "quality":  78,
+                       "sourceBytes":  620605,
+                       "optimizedBytes":  506180,
+                       "savedBytes":  114425,
+                       "savedPercent":  18.44,
+                       "sourceSize":  {
+                                          "w":  192,
+                                          "h":  256,
+                                          "format":  "gif",
+                                          "animated":  true,
+                                          "frames":  32
+                                      },
+                       "optimizedSize":  {
+                                             "w":  192,
+                                             "h":  256,
+                                             "format":  "webp",
+                                             "animated":  true,
+                                             "frames":  32
+                                         }
+                   },
+                   {
+                       "postId":  "20260525-sideview-8x4-motion-sheets",
+                       "previousFeedUrl":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-04-clockwork-shield-engineer.gif",
+                       "source":  "assets/characters/20260525-sideview-8x4-motion-sheets/playback/playback-sideview-8x4-motion-04-clockwork-shield-engineer.gif",
+                       "optimized":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-04-clockwork-shield-engineer-feed.webp",
+                       "mediaType":  "gif",
+                       "resizeMode":  "animation",
+                       "quality":  78,
+                       "sourceBytes":  565897,
+                       "optimizedBytes":  445720,
+                       "savedBytes":  120177,
+                       "savedPercent":  21.24,
+                       "sourceSize":  {
+                                          "w":  192,
+                                          "h":  256,
+                                          "format":  "gif",
+                                          "animated":  true,
+                                          "frames":  32
+                                      },
+                       "optimizedSize":  {
+                                             "w":  192,
+                                             "h":  256,
+                                             "format":  "webp",
+                                             "animated":  true,
+                                             "frames":  32
+                                         }
+                   }
+               ]
+}
