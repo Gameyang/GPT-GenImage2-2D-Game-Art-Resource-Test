@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260527-pixel-art-skill-icons-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Skill and Item Icons 01",
+      "text": "Nine public-safe pixel-art UI icons for RPG and action prototypes, covering spells, skills, key items, map, and currency resources.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-01-fireball-spell-feed.webp",
+          "alt": "Pixel-art fireball spell icon with framed fantasy UI panel"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-02-ice-shield-spell-feed.webp",
+          "alt": "Pixel-art ice shield protection spell icon"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-03-thunder-strike-spell-feed.webp",
+          "alt": "Pixel-art thunder strike spell icon"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-04-healing-leaf-spell-feed.webp",
+          "alt": "Pixel-art healing leaf spell icon"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-05-poison-dagger-skill-feed.webp",
+          "alt": "Pixel-art poison dagger skill icon"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-06-dash-boots-skill-feed.webp",
+          "alt": "Pixel-art dash boots skill icon"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-07-arcane-key-item-feed.webp",
+          "alt": "Pixel-art arcane key item icon"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-08-treasure-map-item-feed.webp",
+          "alt": "Pixel-art treasure map item icon"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-09-golden-coin-stack-item-feed.webp",
+          "alt": "Pixel-art golden coin stack currency icon"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/icons/20260527-pixel-art-skill-icons-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Icons",
+        "UI",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260526-pixel-art-platformer-tiles-pack-01",
       "date": "2026-05-27",
       "type": "gallery",

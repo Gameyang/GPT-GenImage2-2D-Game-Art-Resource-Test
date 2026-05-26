@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-26T16:11:21.561526+00:00",
+  "tool": "Pillow Image.save WEBP lossless",
+  "outputDir": "public/assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01",
+  "totals": {
+    "sourceBytes": 10433605,
+    "optimizedBytes": 4633846,
+    "savedBytes": 5799759,
+    "savedPercent": 55.59
+  },
+  "assets": [
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-01-fireball-spell.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-01-fireball-spell-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1135900,
+      "optimizedBytes": 500808,
+      "savedBytes": 635092,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-02-ice-shield-spell.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-02-ice-shield-spell-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1406700,
+      "optimizedBytes": 632846,
+      "savedBytes": 773854,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-03-thunder-strike-spell.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-03-thunder-strike-spell-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1489329,
+      "optimizedBytes": 669360,
+      "savedBytes": 819969,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-04-healing-leaf-spell.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-04-healing-leaf-spell-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 894931,
+      "optimizedBytes": 401222,
+      "savedBytes": 493709,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-05-poison-dagger-skill.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-05-poison-dagger-skill-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 984338,
+      "optimizedBytes": 424338,
+      "savedBytes": 560000,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-06-dash-boots-skill.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-06-dash-boots-skill-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1063922,
+      "optimizedBytes": 476596,
+      "savedBytes": 587326,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-07-arcane-key-item.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-07-arcane-key-item-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1121186,
+      "optimizedBytes": 501648,
+      "savedBytes": 619538,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-08-treasure-map-item.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-08-treasure-map-item-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1063033,
+      "optimizedBytes": 468310,
+      "savedBytes": 594723,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/icons/20260527-pixel-art-skill-icons-pack-01/pixel-icon-09-golden-coin-stack-item.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-09-golden-coin-stack-item-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1274266,
+      "optimizedBytes": 558718,
+      "savedBytes": 715548,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    }
+  ]
+}
