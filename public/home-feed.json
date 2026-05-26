@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260526-pixel-art-platformer-tiles-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Platformer Tile Chunks 01",
+      "text": "Nine public-safe side-view platformer terrain chunks across grass, dungeon, desert, ice, lava, swamp, sky, cyber, and crystal biomes.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-01-grass-cliff-platform-feed.webp",
+          "alt": "Pixel-art grass cliff platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-02-dungeon-brick-platform-feed.webp",
+          "alt": "Pixel-art dungeon brick platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-03-desert-ruin-platform-feed.webp",
+          "alt": "Pixel-art desert ruin platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-04-ice-cavern-platform-feed.webp",
+          "alt": "Pixel-art ice cavern platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-05-lava-forge-platform-feed.webp",
+          "alt": "Pixel-art lava forge platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-06-swamp-root-platform-feed.webp",
+          "alt": "Pixel-art swamp root platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-07-sky-cloud-platform-feed.webp",
+          "alt": "Pixel-art sky cloud platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-08-cyber-metal-platform-feed.webp",
+          "alt": "Pixel-art cyber metal platform tile chunk"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-09-crystal-cave-platform-feed.webp",
+          "alt": "Pixel-art crystal cave platform tile chunk"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Tiles",
+        "Platformer",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260526-pixel-art-enemy-pack-01",
       "date": "2026-05-26",
       "type": "gallery",

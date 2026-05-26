@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-26T15:40:17.238396+00:00",
+  "tool": "Pillow Image.save WEBP lossless",
+  "outputDir": "public/assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01",
+  "totals": {
+    "sourceBytes": 7059186,
+    "optimizedBytes": 3151820,
+    "savedBytes": 3907366,
+    "savedPercent": 55.35
+  },
+  "assets": [
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-01-grass-cliff-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-01-grass-cliff-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 777060,
+      "optimizedBytes": 341242,
+      "savedBytes": 435818,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-02-dungeon-brick-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-02-dungeon-brick-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 708815,
+      "optimizedBytes": 317480,
+      "savedBytes": 391335,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-03-desert-ruin-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-03-desert-ruin-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 832162,
+      "optimizedBytes": 368772,
+      "savedBytes": 463390,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-04-ice-cavern-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-04-ice-cavern-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 914333,
+      "optimizedBytes": 406500,
+      "savedBytes": 507833,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-05-lava-forge-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-05-lava-forge-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 825276,
+      "optimizedBytes": 374132,
+      "savedBytes": 451144,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-06-swamp-root-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-06-swamp-root-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 793331,
+      "optimizedBytes": 352860,
+      "savedBytes": 440471,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-07-sky-cloud-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-07-sky-cloud-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 772427,
+      "optimizedBytes": 345060,
+      "savedBytes": 427367,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-08-cyber-metal-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-08-cyber-metal-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 571524,
+      "optimizedBytes": 247744,
+      "savedBytes": 323780,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-09-crystal-cave-platform.png",
+      "optimized": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-09-crystal-cave-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 864258,
+      "optimizedBytes": 398030,
+      "savedBytes": 466228,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    }
+  ]
+}
