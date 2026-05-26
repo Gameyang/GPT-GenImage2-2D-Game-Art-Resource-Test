@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260527-pixel-art-stage-backgrounds-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Stage Backgrounds 01",
+      "text": "Nine public-safe wide pixel-art stage backgrounds for platformer, RPG, cyberpunk, fantasy, and cozy game prototype ideas.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-01-ancient-forest-ruins-feed.webp",
+          "alt": "Pixel-art ancient forest ruins stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-02-lava-forge-depths-feed.webp",
+          "alt": "Pixel-art lava forge depths stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-03-sky-castle-approach-feed.webp",
+          "alt": "Pixel-art sky castle approach stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-04-neon-rain-alley-feed.webp",
+          "alt": "Pixel-art neon rain alley stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-05-ice-cavern-shrine-feed.webp",
+          "alt": "Pixel-art ice cavern shrine stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-06-desert-sunken-temple-feed.webp",
+          "alt": "Pixel-art desert sunken temple stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-07-swamp-witch-hamlet-feed.webp",
+          "alt": "Pixel-art swamp hamlet stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-08-underwater-ruins-feed.webp",
+          "alt": "Pixel-art underwater ruins stage background"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-09-cozy-town-night-feed.webp",
+          "alt": "Pixel-art cozy town night hub background"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01",
+      "linkLabel": "View PNG backgrounds",
+      "tags": [
+        "Background",
+        "Stage",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260527-pixel-art-town-buildings-pack-01",
       "date": "2026-05-27",
       "type": "gallery",

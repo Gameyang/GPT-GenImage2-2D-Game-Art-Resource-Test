@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-26T17:34:28.833923+00:00",
+  "tool": "Pillow Image.save WEBP quality=82",
+  "outputDir": "public/assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01",
+  "totals": {
+    "sourceBytes": 22949543,
+    "optimizedBytes": 1757956,
+    "savedBytes": 21191587,
+    "savedPercent": 92.34
+  },
+  "assets": [
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-01-ancient-forest-ruins.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-01-ancient-forest-ruins-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2566742,
+      "optimizedBytes": 212392,
+      "savedBytes": 2354350,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-02-lava-forge-depths.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-02-lava-forge-depths-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2494817,
+      "optimizedBytes": 186602,
+      "savedBytes": 2308215,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-03-sky-castle-approach.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-03-sky-castle-approach-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2387501,
+      "optimizedBytes": 185580,
+      "savedBytes": 2201921,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-04-neon-rain-alley.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-04-neon-rain-alley-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2506236,
+      "optimizedBytes": 187078,
+      "savedBytes": 2319158,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-05-ice-cavern-shrine.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-05-ice-cavern-shrine-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2797305,
+      "optimizedBytes": 224946,
+      "savedBytes": 2572359,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-06-desert-sunken-temple.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-06-desert-sunken-temple-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2419186,
+      "optimizedBytes": 174390,
+      "savedBytes": 2244796,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-07-swamp-witch-hamlet.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-07-swamp-witch-hamlet-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2519753,
+      "optimizedBytes": 185408,
+      "savedBytes": 2334345,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-08-underwater-ruins.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-08-underwater-ruins-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2554745,
+      "optimizedBytes": 191054,
+      "savedBytes": 2363691,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    },
+    {
+      "source": "public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-09-cozy-town-night.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-09-cozy-town-night-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 1280,
+        "quality": 82,
+        "method": 6,
+        "resample": "lanczos"
+      },
+      "sourceBytes": 2703258,
+      "optimizedBytes": 210506,
+      "savedBytes": 2492752,
+      "sourceSize": {
+        "w": 1672,
+        "h": 941,
+        "hasAlpha": false
+      },
+      "optimizedSize": {
+        "w": 1280,
+        "h": 720,
+        "hasAlpha": false
+      }
+    }
+  ]
+}
