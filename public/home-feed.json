@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260527-pixel-art-vehicles-interactables-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Vehicles and Interactables 01",
+      "text": "Nine public-safe transparent vehicle and interactive object resources for platformer, RPG, crafting, travel, and sci-fi fantasy prototypes.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-01-merchant-wagon-feed.webp",
+          "alt": "Pixel-art merchant wagon vehicle resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-02-wooden-rowboat-feed.webp",
+          "alt": "Pixel-art wooden rowboat vehicle resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-03-minecart-feed.webp",
+          "alt": "Pixel-art minecart vehicle resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-04-sky-skiff-feed.webp",
+          "alt": "Pixel-art sky skiff vehicle resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-05-portal-gate-feed.webp",
+          "alt": "Pixel-art portal gate interactive object resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-06-elevator-platform-feed.webp",
+          "alt": "Pixel-art mechanical elevator platform resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-07-cannon-turret-feed.webp",
+          "alt": "Pixel-art cannon turret interactive object resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-08-hover-bike-feed.webp",
+          "alt": "Pixel-art hover bike vehicle resource"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-09-teleport-pad-feed.webp",
+          "alt": "Pixel-art teleport pad interactive object resource"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Vehicles",
+        "Interactables",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260527-pixel-art-crafting-resources-pack-01",
       "date": "2026-05-27",
       "type": "gallery",

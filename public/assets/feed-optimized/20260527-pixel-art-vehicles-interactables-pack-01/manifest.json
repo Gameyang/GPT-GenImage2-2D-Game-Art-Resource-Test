@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-26T21:18:26.371124+00:00",
+  "tool": "Pillow Image.save WEBP lossless",
+  "outputDir": "public/assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01",
+  "totals": {
+    "sourceBytes": 8633338,
+    "optimizedBytes": 3828498,
+    "savedBytes": 4804840,
+    "savedPercent": 55.65
+  },
+  "assets": [
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-01-merchant-wagon.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-01-merchant-wagon-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1208350,
+      "optimizedBytes": 525812,
+      "savedBytes": 682538,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-02-wooden-rowboat.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-02-wooden-rowboat-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 668112,
+      "optimizedBytes": 294848,
+      "savedBytes": 373264,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-03-minecart.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-03-minecart-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 981112,
+      "optimizedBytes": 463320,
+      "savedBytes": 517792,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-04-sky-skiff.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-04-sky-skiff-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 906421,
+      "optimizedBytes": 398292,
+      "savedBytes": 508129,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-05-portal-gate.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-05-portal-gate-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1441727,
+      "optimizedBytes": 655476,
+      "savedBytes": 786251,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-06-elevator-platform.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-06-elevator-platform-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 950940,
+      "optimizedBytes": 410326,
+      "savedBytes": 540614,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-07-cannon-turret.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-07-cannon-turret-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 769227,
+      "optimizedBytes": 326244,
+      "savedBytes": 442983,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-08-hover-bike.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-08-hover-bike-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 615721,
+      "optimizedBytes": 274174,
+      "savedBytes": 341547,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-09-teleport-pad.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-09-teleport-pad-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1091728,
+      "optimizedBytes": 480006,
+      "savedBytes": 611722,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    }
+  ]
+}
