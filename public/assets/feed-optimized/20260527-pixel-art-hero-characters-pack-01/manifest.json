@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-26T19:24:05.341617+00:00",
+  "tool": "Pillow Image.save WEBP lossless",
+  "outputDir": "public/assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01",
+  "totals": {
+    "sourceBytes": 7395416,
+    "optimizedBytes": 3247734,
+    "savedBytes": 4147682,
+    "savedPercent": 56.08
+  },
+  "assets": [
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-01-vanguard-knight.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-01-vanguard-knight-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 748540,
+      "optimizedBytes": 322694,
+      "savedBytes": 425846,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-02-forest-ranger.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-02-forest-ranger-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 893689,
+      "optimizedBytes": 382418,
+      "savedBytes": 511271,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-03-arcane-mage.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-03-arcane-mage-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 1008396,
+      "optimizedBytes": 462614,
+      "savedBytes": 545782,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-04-shadow-rogue.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-04-shadow-rogue-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 630260,
+      "optimizedBytes": 272408,
+      "savedBytes": 357852,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-05-sun-cleric.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-05-sun-cleric-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 920847,
+      "optimizedBytes": 411270,
+      "savedBytes": 509577,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-06-clockwork-engineer.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-06-clockwork-engineer-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 873740,
+      "optimizedBytes": 376948,
+      "savedBytes": 496792,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-07-martial-monk.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-07-martial-monk-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 770542,
+      "optimizedBytes": 338792,
+      "savedBytes": 431750,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-08-sea-corsair.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-08-sea-corsair-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 801311,
+      "optimizedBytes": 350744,
+      "savedBytes": 450567,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    },
+    {
+      "source": "public/assets/characters/20260527-pixel-art-hero-characters-pack-01/pixel-hero-09-crystal-lancer.png",
+      "optimized": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-09-crystal-lancer-feed.webp",
+      "mediaType": "image",
+      "format": "webp",
+      "settings": {
+        "maxLongEdge": 960,
+        "lossless": true,
+        "method": 6,
+        "resample": "nearest"
+      },
+      "sourceBytes": 748091,
+      "optimizedBytes": 329846,
+      "savedBytes": 418245,
+      "sourceSize": {
+        "w": 1254,
+        "h": 1254,
+        "hasAlpha": true
+      },
+      "optimizedSize": {
+        "w": 960,
+        "h": 960,
+        "hasAlpha": true
+      }
+    }
+  ]
+}

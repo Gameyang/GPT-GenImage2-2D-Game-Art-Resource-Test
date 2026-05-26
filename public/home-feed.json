@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260527-pixel-art-hero-characters-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Hero Character Pack 01",
+      "text": "Nine public-safe transparent playable hero character concepts for RPG and platformer prototypes, paired with the enemy character pack.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-01-vanguard-knight-feed.webp",
+          "alt": "Pixel-art vanguard knight playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-02-forest-ranger-feed.webp",
+          "alt": "Pixel-art forest ranger playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-03-arcane-mage-feed.webp",
+          "alt": "Pixel-art arcane mage playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-04-shadow-rogue-feed.webp",
+          "alt": "Pixel-art shadow rogue playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-05-sun-cleric-feed.webp",
+          "alt": "Pixel-art sun cleric playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-06-clockwork-engineer-feed.webp",
+          "alt": "Pixel-art clockwork engineer playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-07-martial-monk-feed.webp",
+          "alt": "Pixel-art martial monk playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-08-sea-corsair-feed.webp",
+          "alt": "Pixel-art sea corsair playable hero character"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-09-crystal-lancer-feed.webp",
+          "alt": "Pixel-art crystal lancer playable hero character"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-pixel-art-hero-characters-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Hero",
+        "Character",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260527-pixel-art-vfx-pack-01",
       "date": "2026-05-27",
       "type": "gallery",
