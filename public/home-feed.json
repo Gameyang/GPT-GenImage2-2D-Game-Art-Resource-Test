@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260526-pixel-art-enemy-pack-01",
+      "date": "2026-05-26",
+      "type": "gallery",
+      "title": "Pixel Art Enemy Character Pack 01",
+      "text": "Nine public-safe pixel-art enemy character resources for platformer and RPG prototypes, curated as transparent PNG assets with lossless WebP feed previews.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-01-cave-slime-feed.webp",
+          "alt": "Pixel-art cave slime enemy with translucent blue body"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-02-rusty-skeleton-guard-feed.webp",
+          "alt": "Pixel-art rusty skeleton guard enemy with shield and short sword"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-03-forest-mushroom-stomper-feed.webp",
+          "alt": "Pixel-art forest mushroom stomper enemy with leaf pads"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-04-clockwork-scout-drone-feed.webp",
+          "alt": "Pixel-art brass clockwork scout drone enemy with lens eye"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-05-ember-bat-feed.webp",
+          "alt": "Pixel-art ember bat enemy with fiery wings"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-06-ice-goblin-spearman-feed.webp",
+          "alt": "Pixel-art ice goblin spearman enemy with fur hood"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-07-stone-mini-golem-feed.webp",
+          "alt": "Pixel-art stone mini golem enemy with glowing core"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-08-swamp-lantern-wisp-feed.webp",
+          "alt": "Pixel-art swamp lantern wisp enemy with green-blue flame"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-09-bandit-knife-runner-feed.webp",
+          "alt": "Pixel-art hooded bandit knife runner enemy"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260526-pixel-art-enemy-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Enemy",
+        "Character",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260526-pixel-art-marketplace-pack-01",
       "date": "2026-05-26",
       "type": "gallery",
