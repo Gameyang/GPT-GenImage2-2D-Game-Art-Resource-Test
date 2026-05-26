@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260526-pixel-art-marketplace-pack-01",
+      "date": "2026-05-26",
+      "type": "gallery",
+      "title": "Pixel Art Marketplace Prop Pack 01",
+      "text": "Nine public-safe fantasy RPG prop resources generated for a personal non-commercial AI learning workflow, curated as transparent PNG assets with lossless WebP feed previews.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-01-ancient-treasure-chest-feed.webp",
+          "alt": "Pixel-art ancient treasure chest prop with brass trim and gemstone lock"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-02-alchemist-potion-crate-feed.webp",
+          "alt": "Pixel-art alchemist potion crate prop with bottles and wrapped supplies"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-03-glowing-runestone-altar-feed.webp",
+          "alt": "Pixel-art glowing runestone altar prop with blue carved runes"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-04-blacksmith-anvil-tools-feed.webp",
+          "alt": "Pixel-art blacksmith anvil prop with hammer, tongs, and metal ingots"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-05-weapon-rack-adventurer-feed.webp",
+          "alt": "Pixel-art adventurer weapon rack prop with sword, spear, shield, and bow"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-06-magic-crystal-cluster-feed.webp",
+          "alt": "Pixel-art magic crystal cluster prop with teal and amber facets"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-07-dungeon-iron-door-feed.webp",
+          "alt": "Pixel-art dungeon iron door prop with rivets and reinforced wooden panels"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-08-merchant-supply-barrel-feed.webp",
+          "alt": "Pixel-art merchant supply barrel prop with rope, map, pouch, and lantern"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-09-rare-loot-pile-feed.webp",
+          "alt": "Pixel-art rare loot pile prop with coins, gems, scroll, dagger, and pouch"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/props/20260526-pixel-art-marketplace-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "Props",
+        "Pixel Art",
+        "Fantasy RPG"
+      ]
+    },
+    {
       "id": "20260525-sideview-8x4-motion-sheets",
       "date": "2026-05-26",
       "type": "gif",
