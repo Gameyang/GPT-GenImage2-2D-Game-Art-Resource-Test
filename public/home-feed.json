@@ -15,6 +15,67 @@
   },
   "posts": [
     {
+      "id": "20260527-pixel-art-vfx-pack-01",
+      "date": "2026-05-27",
+      "type": "gallery",
+      "title": "Pixel Art Combat VFX Pack 01",
+      "text": "Nine public-safe transparent pixel-art VFX sprites for combat, spell, movement, defense, and pickup feedback.",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-01-fire-burst-feed.webp",
+          "alt": "Pixel-art fire burst impact VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-02-ice-shard-impact-feed.webp",
+          "alt": "Pixel-art ice shard impact VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-03-lightning-strike-feed.webp",
+          "alt": "Pixel-art lightning strike VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-04-healing-aura-feed.webp",
+          "alt": "Pixel-art healing aura VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-05-poison-cloud-feed.webp",
+          "alt": "Pixel-art poison cloud VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-06-smoke-poof-feed.webp",
+          "alt": "Pixel-art smoke poof VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-07-sword-slash-arc-feed.webp",
+          "alt": "Pixel-art sword slash arc VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-08-shield-barrier-feed.webp",
+          "alt": "Pixel-art shield barrier VFX sprite"
+        },
+        {
+          "type": "image",
+          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-09-loot-sparkle-feed.webp",
+          "alt": "Pixel-art loot sparkle pickup VFX sprite"
+        }
+      ],
+      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/effects/20260527-pixel-art-vfx-pack-01",
+      "linkLabel": "View transparent PNG assets",
+      "tags": [
+        "VFX",
+        "Combat",
+        "Pixel Art"
+      ]
+    },
+    {
       "id": "20260527-pixel-art-stage-backgrounds-pack-01",
       "date": "2026-05-27",
       "type": "gallery",
