@@ -53,7 +53,7 @@ Create the first 9-image high-quality pixel-art game asset set, publish public-s
 - Done: verified `D:/Gameyang/home/public/data/sources.json` parses and contains source id `gpt-genimage2-2d-game-art-resource-test`.
 - Done: verified `D:/Gameyang/home/public/data/local-sources.json` parses and maps this project as a sibling local project.
 - Done: ran `node --check D:/Gameyang/home/public/js/main.js`.
-- Pending: commit and push.
+- Done: committed and pushed to `origin/main` with commit `681bf44`.
 
 ## Home Feed Notes
 
