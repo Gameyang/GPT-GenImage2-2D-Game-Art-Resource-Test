@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T02:56:40",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-040",
+    "packNumber":  40,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-040",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "077",
+                       "title":  "Amadeus (1984)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, candlelit composing room with a brilliant musician silhouette at a keyboard and a jealous rival shadow near the doorway, blank music pages, gold and black palette, genius and envy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "4b8ac578-8872-438d-a988-89bf0bab158e",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-040/pixel-scene-imdb-top-100-077-amadeus-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-040/pixel-scene-imdb-top-100-077-amadeus-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  16334
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "078",
+                       "title":  "Toy Story (1995)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, toys coming alive in a child\u0027s bedroom at twilight, cowboy-like doll and space-toy silhouette on a bedspread, playful scale, warm plastic colors, no exact toy design, no logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "a7539110-0d66-4eca-992e-b408a69738f2",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-040/pixel-scene-imdb-top-100-078-toy-story-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-040/pixel-scene-imdb-top-100-078-toy-story-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  19170
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "079",
+                       "title":  "Project Hail Mary (2026)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, lone astronaut inside a deep-space science lab discovering an alien visitor silhouette beyond a glass observation window, unfamiliar star system outside, sterile whites and cosmic blues, first-contact wonder, no text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "4f96565b-503e-437c-84b0-f6b346a7b45d",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-040/pixel-scene-imdb-top-100-079-project-hail-mary-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-040/pixel-scene-imdb-top-100-079-project-hail-mary-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  17760
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "080",
+                       "title":  "Your Name. (2016)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, two teenagers reaching toward each other across a split sky while a comet breaks into glowing fragments above town and city silhouettes, twilight magenta and blue palette, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "d0e3513e-7885-4b3a-b432-087d9bfc4687",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-040/pixel-scene-imdb-top-100-080-your-name-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-040/pixel-scene-imdb-top-100-080-your-name-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  14876
+                                }
+                   }
+               ]
+}
