@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T06:44:57",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-107",
+    "packNumber":  107,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-107",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "013",
+                       "title":  "FC HD-2D Scene 013",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A stone dungeon entrance opening under torchlight, with patterned floor tiles, mossy statues, and a lone explorer stepping into darkness., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "12ee41ba-e3ef-4148-a44d-1a2e07e70cc4",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-107/pixel-scene-fc-hd2d-013-a-stone-dungeon-entrance-opening-under-tor-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-107/pixel-scene-fc-hd2d-013-a-stone-dungeon-entrance-opening-under-tor-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  105620
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "014",
+                       "title":  "FC HD-2D Scene 014",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A secret cave behind a waterfall, viewed through sparkling spray, with treasure stones, roots, and a narrow wooden bridge., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "606291d5-224b-41ac-a95f-e2895eca29fe",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-107/pixel-scene-fc-hd2d-014-a-secret-cave-behind-a-waterfall-viewed-th-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-107/pixel-scene-fc-hd2d-014-a-secret-cave-behind-a-waterfall-viewed-th-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  109886
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "015",
+                       "title":  "FC HD-2D Scene 015",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A circular boss chamber with an original shadow serpent coiled around broken columns while the hero holds a radiant glass spear., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "6fe1bd9e-b2b2-4457-83de-4eaa569097cd",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-107/pixel-scene-fc-hd2d-015-a-circular-boss-chamber-with-an-original-s-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-107/pixel-scene-fc-hd2d-015-a-circular-boss-chamber-with-an-original-s-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  75484
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "016",
+                       "title":  "FC HD-2D Scene 016",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A village festival square interrupted by mysterious purple smoke from a sealed well, lanterns swaying, villagers silhouetted at the edges., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "33139869-ca1d-4893-b732-7cf16a82e238",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-107/pixel-scene-fc-hd2d-016-a-village-festival-square-interrupted-by-m-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-107/pixel-scene-fc-hd2d-016-a-village-festival-square-interrupted-by-m-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  82320
+                                }
+                   }
+               ]
+}
