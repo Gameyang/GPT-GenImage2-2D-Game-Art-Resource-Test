@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T03:00:33",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-041",
+    "packNumber":  41,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-041",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "081",
+                       "title":  "Das Boot (1981)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, cramped submarine control room under red emergency lights, sailors as tired silhouettes around gauges rendered without numbers, water pressure implied by creaking walls, claustrophobic blue-green palette. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "9908daf1-07e7-45ea-bbca-5a9bd5238ac5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-041/pixel-scene-imdb-top-100-081-das-boot-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-041/pixel-scene-imdb-top-100-081-das-boot-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  123646
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "082",
+                       "title":  "Oldboy (2003)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, narrow apartment hallway with a lone battered figure facing a crowd of attackers in side-scrolling composition, fluorescent green lighting, dynamic non-graphic motion, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "edd23615-64f5-4d86-943d-bac03bb96b65",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-041/pixel-scene-imdb-top-100-082-oldboy-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-041/pixel-scene-imdb-top-100-082-oldboy-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  84250
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "083",
+                       "title":  "Braveheart (1995)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, misty highland battlefield with a rebel warrior silhouette raising a sword before a line of villagers, blue face-paint suggested only as abstract color, gray sky, freedom epic mood. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "4af11d30-4ffd-4078-a811-34807a724415",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-041/pixel-scene-imdb-top-100-083-braveheart-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-041/pixel-scene-imdb-top-100-083-braveheart-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  67922
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "084",
+                       "title":  "Princess Mononoke (1997)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, forest spirit deer glowing among ancient trees while a masked warrior and a cursed traveler stand apart, luminous moss, deep green palette, mythic environmental tension, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "367206fc-85f8-410a-9df1-0b719f933b0c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-041/pixel-scene-imdb-top-100-084-princess-mononoke-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-041/pixel-scene-imdb-top-100-084-princess-mononoke-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  118948
+                                }
+                   }
+               ]
+}
