@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T08:41:00",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-141",
+    "packNumber":  141,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-141",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "081",
+                       "title":  "Das Boot (1981)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, cramped submarine control room under red emergency lights, sailors as tired silhouettes around gauges rendered without numbers, water pressure implied by creaking walls, claustrophobic blue-green palette. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "0ad43a4e-e84b-4d7d-9239-733adbe37ee7",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-141/pixel-scene-imdb-top-100-081-das-boot-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-141/pixel-scene-imdb-top-100-081-das-boot-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  124938
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "082",
+                       "title":  "Oldboy (2003)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, narrow apartment hallway with a lone battered figure facing a crowd of attackers in side-scrolling composition, fluorescent green lighting, dynamic non-graphic motion, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e785acd5-e1ac-4de0-8caf-843962717475",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-141/pixel-scene-imdb-top-100-082-oldboy-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-141/pixel-scene-imdb-top-100-082-oldboy-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  92536
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "083",
+                       "title":  "Braveheart (1995)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, misty highland battlefield with a rebel warrior silhouette raising a sword before a line of villagers, blue face-paint suggested only as abstract color, gray sky, freedom epic mood. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "1708a33f-209b-4491-8372-42a324c2b4fc",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-141/pixel-scene-imdb-top-100-083-braveheart-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-141/pixel-scene-imdb-top-100-083-braveheart-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  76328
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "084",
+                       "title":  "Princess Mononoke (1997)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, forest spirit deer glowing among ancient trees while a masked warrior and a cursed traveler stand apart, luminous moss, deep green palette, mythic environmental tension, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "78318b8b-612b-4852-a39a-e197b177a776",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-141/pixel-scene-imdb-top-100-084-princess-mononoke-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-141/pixel-scene-imdb-top-100-084-princess-mononoke-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  123596
+                                }
+                   }
+               ]
+}
