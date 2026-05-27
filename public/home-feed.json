@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-079",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 079",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-079/pixel-scene-fc-hd2d-057-a-space-station-core-assault-with-rotating-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 057: FC HD-2D Scene 057"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-079/pixel-scene-fc-hd2d-058-a-bio-organic-planet-surface-shooter-scene-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 058: FC HD-2D Scene 058"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-079/pixel-scene-fc-hd2d-059-a-moon-city-defense-scene-with-domes-laser-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 059: FC HD-2D Scene 059"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-079/pixel-scene-fc-hd2d-060-a-warp-gate-activation-scene-where-a-small-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 060: FC HD-2D Scene 060"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-079",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-078",
                       "date":  "2026-05-28",
                       "type":  "gallery",
