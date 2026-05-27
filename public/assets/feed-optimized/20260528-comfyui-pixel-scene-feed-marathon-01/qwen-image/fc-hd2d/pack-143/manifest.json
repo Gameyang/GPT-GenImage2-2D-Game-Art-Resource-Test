@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T08:47:44",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-143",
+    "packNumber":  143,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-143",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "085",
+                       "title":  "FC HD-2D Scene 085",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A soccer stadium last-shot moment, with a generic team, floodlights, rain, and the ball frozen midair near the goal., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "487cfe1d-d211-41f3-ae0c-38012e537f19",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-143/pixel-scene-fc-hd2d-085-a-soccer-stadium-last-shot-moment-with-a-g-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-143/pixel-scene-fc-hd2d-085-a-soccer-stadium-last-shot-moment-with-a-g-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  95538
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "086",
+                       "title":  "FC HD-2D Scene 086",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A baseball diamond under summer floodlights, with a batter silhouette, dust cloud, and cheering crowd rendered as pixel lights., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "6f944b5d-dfe5-4b01-bfc8-b03c7a730fb8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-143/pixel-scene-fc-hd2d-086-a-baseball-diamond-under-summer-floodlight-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-143/pixel-scene-fc-hd2d-086-a-baseball-diamond-under-summer-floodlight-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  84534
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "087",
+                       "title":  "FC HD-2D Scene 087",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A boxing gym final-round scene with ropes, sweat-like sparkles, a ringing bell without visible text, and warm overhead lamps., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "cc7f1468-d7c0-45b8-9732-feb56e7abff0",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-143/pixel-scene-fc-hd2d-087-a-boxing-gym-final-round-scene-with-ropes-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-143/pixel-scene-fc-hd2d-087-a-boxing-gym-final-round-scene-with-ropes-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  84298
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "088",
+                       "title":  "FC HD-2D Scene 088",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A tennis clay-court sunset rally, with the ball streaking over the net and long pixel shadows across the court., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "d20565cd-7372-43d4-935b-06a83dac69d5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-143/pixel-scene-fc-hd2d-088-a-tennis-clay-court-sunset-rally-with-the-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-143/pixel-scene-fc-hd2d-088-a-tennis-clay-court-sunset-rally-with-the-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  126364
+                                }
+                   }
+               ]
+}
