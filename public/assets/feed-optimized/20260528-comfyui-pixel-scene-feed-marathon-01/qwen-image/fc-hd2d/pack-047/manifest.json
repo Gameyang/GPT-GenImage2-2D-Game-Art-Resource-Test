@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T03:21:05",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-047",
+    "packNumber":  47,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-047",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "093",
+                       "title":  "FC HD-2D Scene 093",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A naval fleet emerging from fog, with original sail shapes, signal lamps without symbols, rippling water, and distant thunder., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "a62ec755-6c42-48dd-8fbb-e9bab03b1f5f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-047/pixel-scene-fc-hd2d-093-a-naval-fleet-emerging-from-fog-with-origi-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-047/pixel-scene-fc-hd2d-093-a-naval-fleet-emerging-from-fog-with-origi-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  83252
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "094",
+                       "title":  "FC HD-2D Scene 094",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A miniature train station management scene, with pixel trains, passengers as tiny shapes, warm platform lights, and no readable signs., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "a59cf24f-29fd-4cee-b52c-7299af23595a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-047/pixel-scene-fc-hd2d-094-a-miniature-train-station-management-scene-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-047/pixel-scene-fc-hd2d-094-a-miniature-train-station-management-scene-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  75666
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "095",
+                       "title":  "FC HD-2D Scene 095",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A fantasy fairground management scene at night, with rides, tents, lantern trails, and visitors shown as colorful pixel dots., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "7aa6da0b-0239-4a34-9a75-05dafcc595db",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-047/pixel-scene-fc-hd2d-095-a-fantasy-fairground-management-scene-at-n-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-047/pixel-scene-fc-hd2d-095-a-fantasy-fairground-management-scene-at-n-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  109066
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "096",
+                       "title":  "FC HD-2D Scene 096",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A detective mansion mystery scene with a candlelit hallway, open doors, long shadows, and a clue glinting on the floor., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "ae6ccef9-537b-48b7-b12d-f2e6a2e99933",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-047/pixel-scene-fc-hd2d-096-a-detective-mansion-mystery-scene-with-a-c-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-047/pixel-scene-fc-hd2d-096-a-detective-mansion-mystery-scene-with-a-c-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  53690
+                                }
+                   }
+               ]
+}
