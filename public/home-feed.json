@@ -15,6 +15,69 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-hidream-o1-123x128-weapons",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 123x128 Pixel Art Weapons Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art weapons generated through the local ComfyUI HiDream O1 workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: iron longsword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: crescent axe"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: oak shortbow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: crystal dagger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: storm hammer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-06-sun-spear-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: sun spear"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: pirate cutlass"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: arcane orb staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: clockwork crossbow"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons",
+                      "linkLabel":  "View weapon PNG assets",
+                      "tags":  [
+                                   "Weapon",
+                                   "123x128",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-z-image-123x128-shop-ui",
                       "date":  "2026-05-27",
                       "type":  "gallery",
