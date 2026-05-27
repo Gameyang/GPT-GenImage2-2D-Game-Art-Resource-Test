@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T07:33:00",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-121",
+    "packNumber":  121,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-121",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "041",
+                       "title":  "Kill Bill: The Whole Bloody Affair (2011)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, stylized lone swordswoman in a bright yellow-inspired outfit facing a hall of masked opponents, high-contrast martial-arts stage lighting, non-graphic action pose, no exact costume pattern, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e9c44338-f474-40e5-8fa5-7372b8c5412f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-121/pixel-scene-imdb-top-100-041-kill-bill-the-whole-bloody-affair-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-121/pixel-scene-imdb-top-100-041-kill-bill-the-whole-bloody-affair-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  93794
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "042",
+                       "title":  "The Prestige (2006)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, Victorian magician stage with twin silhouettes, glowing electrical machine, top hats, birds, smoke and mirrored trapdoors, emerald and amber palette, obsession and illusion, no readable posters. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e52b742c-4db6-45f0-854b-bf4d9d10cfee",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-121/pixel-scene-imdb-top-100-042-the-prestige-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-121/pixel-scene-imdb-top-100-042-the-prestige-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  125034
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "043",
+                       "title":  "American History X (1998)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 serious cinematic pixel art scene, monochrome prison yard reflection about hate and redemption, anonymous shaved-headed figure separated from a younger silhouette by a hard beam of light, no extremist symbols, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "515210d8-8316-4c09-b4be-040e3ceef86f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-121/pixel-scene-imdb-top-100-043-american-history-x-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-121/pixel-scene-imdb-top-100-043-american-history-x-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  67340
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "044",
+                       "title":  "Leon (1994)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, lonely rooftop garden at dusk with a silent guardian figure, a young protege silhouette, and a potted plant catching warm light, city apartments behind them, restrained urban melancholy, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "b09d7f87-c3e0-4e59-8b6c-2be8b0aa3706",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-121/pixel-scene-imdb-top-100-044-leon-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-121/pixel-scene-imdb-top-100-044-leon-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  103154
+                                }
+                   }
+               ]
+}
