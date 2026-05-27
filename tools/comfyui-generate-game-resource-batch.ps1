@@ -2,8 +2,8 @@ param(
     [string]$TaskId = "20260527-comfyui-marketplace-game-resource-batch-01",
     [ValidateSet("qwen_image", "pokemon", "hidream_o1")]
     [string[]]$Workflows = @("qwen_image", "pokemon", "hidream_o1"),
-    [ValidateSet("characters", "monsters", "backgrounds", "items", "inventory-ui")]
     [string[]]$Categories = @("characters", "monsters", "backgrounds", "items", "inventory-ui"),
+    [string]$CatalogPath,
     [string]$ComfyUrl = "http://127.0.0.1:8188",
     [int]$TimeoutSeconds = 900,
     [int]$PollSeconds = 2,
@@ -149,6 +149,7 @@ function Get-CategoryConfig {
                 feedTag = "Character"
                 linkLabel = "View character PNG assets"
                 promptTail = "Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame."
+                aspect = "square"
             }
         }
         "monsters" {
@@ -159,6 +160,7 @@ function Get-CategoryConfig {
                 feedTag = "Monster"
                 linkLabel = "View monster PNG assets"
                 promptTail = "Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame."
+                aspect = "square"
             }
         }
         "backgrounds" {
@@ -169,6 +171,7 @@ function Get-CategoryConfig {
                 feedTag = "Background"
                 linkLabel = "View background PNG assets"
                 promptTail = "Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI."
+                aspect = "wide"
             }
         }
         "items" {
@@ -179,6 +182,7 @@ function Get-CategoryConfig {
                 feedTag = "Item"
                 linkLabel = "View item PNG assets"
                 promptTail = "Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame."
+                aspect = "square"
             }
         }
         "inventory-ui" {
@@ -189,9 +193,14 @@ function Get-CategoryConfig {
                 feedTag = "Inventory UI"
                 linkLabel = "View inventory UI PNG assets"
                 promptTail = "Complete inventory UI panel kit for a game, item grid slots, equipment slots, resource counters, polished interface mockup, no readable text, no logos, clean marketplace preview."
+                aspect = "square"
             }
         }
         default {
+            if ($script:CatalogCategories.ContainsKey($Category)) {
+                return $script:CatalogCategories[$Category]
+            }
+
             throw "Unknown category: $Category"
         }
     }
@@ -271,21 +280,27 @@ function Invoke-SharpWebp {
     param(
         [Parameter(Mandatory = $true)][string]$InputPath,
         [Parameter(Mandatory = $true)][string]$OutputPath,
-        [Parameter(Mandatory = $true)][string]$Category,
+        [Parameter(Mandatory = $true)][string]$Aspect,
         [Parameter(Mandatory = $true)][int]$Quality,
         [Parameter(Mandatory = $true)][int]$Effort
     )
 
     $outputDir = Split-Path -Parent $OutputPath
     New-Item -ItemType Directory -Force -Path $outputDir | Out-Null
-    $tempDir = Join-Path $outputDir (".tmp-" + [Guid]::NewGuid().ToString("N"))
-    New-Item -ItemType Directory -Force -Path $tempDir | Out-Null
 
     $rootRelative = Get-RelativePathText -BasePath $repoRoot -Path $InputPath
     $sharpInput = "./$rootRelative"
+    $outputRelative = Get-RelativePathText -BasePath $repoRoot -Path $outputDir
+    $sharpOutput = "./$outputRelative"
+    $inputStem = [System.IO.Path]::GetFileNameWithoutExtension($InputPath)
+    $expectedOutput = Join-Path $outputDir "$inputStem.webp"
 
-    $arguments = @("--yes", "--package=sharp-cli", "--", "sharp", "-i", $sharpInput, "-o", $tempDir, "-f", "webp", "-q", "$Quality", "--alphaQuality", "$Quality", "--effort", "$Effort")
-    if ($Category -eq "backgrounds") {
+    if ((Test-Path -LiteralPath $expectedOutput) -and ($expectedOutput -ne $OutputPath)) {
+        Remove-Item -LiteralPath $expectedOutput -Force
+    }
+
+    $arguments = @("--yes", "--package=sharp-cli", "--", "sharp", "-i", $sharpInput, "-o", $sharpOutput, "-f", "webp", "-q", "$Quality", "--alphaQuality", "$Quality", "--effort", "$Effort")
+    if ($Aspect -eq "wide") {
         $arguments += @("resize", "1280", "--withoutEnlargement")
     }
     else {
@@ -298,18 +313,18 @@ function Invoke-SharpWebp {
             throw "sharp-cli failed for $InputPath"
         }
 
-        $generated = Get-ChildItem -LiteralPath $tempDir -Filter "*.webp" -File | Select-Object -First 1
-        if ($null -eq $generated) {
+        if (-not (Test-Path -LiteralPath $expectedOutput)) {
             throw "No WebP output was generated for $InputPath"
         }
 
-        Move-Item -LiteralPath $generated.FullName -Destination $OutputPath -Force
+        Move-Item -LiteralPath $expectedOutput -Destination $OutputPath -Force
+        if (-not (Test-Path -LiteralPath $OutputPath)) {
+            throw "WebP output could not be moved to $OutputPath"
+        }
     }
     finally {
-        $tempFull = [System.IO.Path]::GetFullPath($tempDir)
-        $outputFull = [System.IO.Path]::GetFullPath($outputDir)
-        if ($tempFull.StartsWith($outputFull, [System.StringComparison]::OrdinalIgnoreCase) -and (Test-Path -LiteralPath $tempFull)) {
-            Remove-Item -LiteralPath $tempFull -Recurse -Force
+        if (($expectedOutput -ne $OutputPath) -and (Test-Path -LiteralPath $expectedOutput)) {
+            Remove-Item -LiteralPath $expectedOutput -Force
         }
     }
 }
@@ -324,7 +339,45 @@ function Add-OrReplaceFeedPost {
     $Feed.posts = @($Post) + $remaining
 }
 
+$script:CatalogCategories = @{}
 $definitions = Get-AssetDefinitions
+if (-not [string]::IsNullOrWhiteSpace($CatalogPath)) {
+    $catalogFull = if ([System.IO.Path]::IsPathRooted($CatalogPath)) {
+        [System.IO.Path]::GetFullPath($CatalogPath)
+    }
+    else {
+        [System.IO.Path]::GetFullPath((Join-Path $repoRoot $CatalogPath))
+    }
+
+    if (-not (Test-Path -LiteralPath $catalogFull)) {
+        throw "CatalogPath not found: $CatalogPath"
+    }
+
+    $catalog = Get-Content -Raw -Encoding UTF8 -LiteralPath $catalogFull | ConvertFrom-Json
+    foreach ($categoryDef in $catalog.categories) {
+        $slug = [string]$categoryDef.slug
+        if ([string]::IsNullOrWhiteSpace($slug)) {
+            throw "Catalog category is missing slug."
+        }
+
+        $script:CatalogCategories[$slug] = [PSCustomObject]@{
+            assetFolder = [string]$categoryDef.assetFolder
+            singular = [string]$categoryDef.singular
+            title = [string]$categoryDef.title
+            feedTag = [string]$categoryDef.feedTag
+            linkLabel = [string]$categoryDef.linkLabel
+            promptTail = [string]$categoryDef.promptTail
+            aspect = if ([string]::IsNullOrWhiteSpace([string]$categoryDef.aspect)) { "square" } else { [string]$categoryDef.aspect }
+        }
+
+        $definitions[$slug] = @($categoryDef.assets | ForEach-Object {
+            [PSCustomObject]@{
+                name = [string]$_.name
+                subject = [string]$_.subject
+            }
+        })
+    }
+}
 $results = New-Object System.Collections.Generic.List[object]
 $posts = New-Object System.Collections.Generic.List[object]
 
@@ -350,8 +403,8 @@ foreach ($workflow in $Workflows) {
             $webpPath = Join-Path $feedDir "$fileStem-feed.webp"
             $prompt = New-Prompt -WorkflowConfig $workflowConfig -CategoryConfig $categoryConfig -Asset $asset
 
-            $width = if ($category -eq "backgrounds") { $workflowConfig.backgroundWidth } else { $workflowConfig.squareSize }
-            $height = if ($category -eq "backgrounds") { $workflowConfig.backgroundHeight } else { $workflowConfig.squareSize }
+            $width = if ($categoryConfig.aspect -eq "wide") { $workflowConfig.backgroundWidth } else { $workflowConfig.squareSize }
+            $height = if ($categoryConfig.aspect -eq "wide") { $workflowConfig.backgroundHeight } else { $workflowConfig.squareSize }
 
             $result = [PSCustomObject]@{
                 workflow = $workflow
@@ -373,8 +426,25 @@ foreach ($workflow in $Workflows) {
                 continue
             }
 
-            if ($SkipExisting.IsPresent -and (Test-Path -LiteralPath $publicPath) -and (Test-Path -LiteralPath $webpPath)) {
-                $result.status = "skipped-existing"
+            if ($SkipExisting.IsPresent -and (Test-Path -LiteralPath $publicPath)) {
+                if (Test-Path -LiteralPath $webpPath) {
+                    $result.status = "skipped-existing"
+                }
+                else {
+                    try {
+                        Write-Host "Optimizing existing [$workflow][$category] $indexText $($asset.name)"
+                        Invoke-SharpWebp -InputPath $publicPath -OutputPath $webpPath -Aspect $categoryConfig.aspect -Quality $Quality -Effort $Effort
+                        $result.status = "optimized-existing"
+                    }
+                    catch {
+                        $result.status = "failed"
+                        $result.error = [string]$_
+                        if (-not $ContinueOnError.IsPresent) {
+                            throw
+                        }
+                        Write-Warning "Failed [$workflow][$category] $indexText $($asset.name): $($result.error)"
+                    }
+                }
             }
             else {
                 try {
@@ -411,7 +481,7 @@ foreach ($workflow in $Workflows) {
 
                     $downloadedFull = [System.IO.Path]::GetFullPath((Join-Path $repoRoot ([string]$downloadedFiles[0])))
                     Copy-Item -LiteralPath $downloadedFull -Destination $publicPath -Force
-                    Invoke-SharpWebp -InputPath $publicPath -OutputPath $webpPath -Category $category -Quality $Quality -Effort $Effort
+                    Invoke-SharpWebp -InputPath $publicPath -OutputPath $webpPath -Aspect $categoryConfig.aspect -Quality $Quality -Effort $Effort
                     $result.status = "generated"
                 }
                 catch {
@@ -424,7 +494,7 @@ foreach ($workflow in $Workflows) {
                 }
             }
 
-            if ($result.status -in @("generated", "skipped-existing")) {
+            if ($result.status -in @("generated", "skipped-existing", "optimized-existing")) {
                 $media.Add([PSCustomObject]@{
                     type = "image"
                     url = $result.feedAsset
@@ -436,18 +506,20 @@ foreach ($workflow in $Workflows) {
             $results.Add($result) | Out-Null
         }
 
-        $manifestPath = Join-Path $publicDir "manifest.json"
-        Write-JsonFile -Path $manifestPath -Value ([PSCustomObject]@{
-            schemaVersion = 1
-            generatedAt = (Get-Date).ToString("s")
-            taskId = $TaskId
-            packId = $packId
-            workflow = $workflow
-            category = $category
-            publicDir = Get-RelativePathText -BasePath $repoRoot -Path $publicDir
-            feedDir = Get-RelativePathText -BasePath $repoRoot -Path $feedDir
-            assets = $packResults.ToArray()
-        })
+        if (-not $DryRun.IsPresent) {
+            $manifestPath = Join-Path $publicDir "manifest.json"
+            Write-JsonFile -Path $manifestPath -Value ([PSCustomObject]@{
+                schemaVersion = 1
+                generatedAt = (Get-Date).ToString("s")
+                taskId = $TaskId
+                packId = $packId
+                workflow = $workflow
+                category = $category
+                publicDir = Get-RelativePathText -BasePath $repoRoot -Path $publicDir
+                feedDir = Get-RelativePathText -BasePath $repoRoot -Path $feedDir
+                assets = $packResults.ToArray()
+            })
+        }
 
         if ($media.Count -gt 0) {
             $postId = $packId
@@ -489,6 +561,7 @@ Write-JsonFile -Path $batchManifestPath -Value ([PSCustomObject]@{
         total = $results.Count
         generated = @($results | Where-Object { $_.status -eq "generated" }).Count
         skippedExisting = @($results | Where-Object { $_.status -eq "skipped-existing" }).Count
+        optimizedExisting = @($results | Where-Object { $_.status -eq "optimized-existing" }).Count
         failed = @($results | Where-Object { $_.status -eq "failed" }).Count
         dryRun = @($results | Where-Object { $_.status -eq "dry-run" }).Count
     }
@@ -497,4 +570,4 @@ Write-JsonFile -Path $batchManifestPath -Value ([PSCustomObject]@{
 })
 
 Write-Host "Batch manifest: $(Get-RelativePathText -BasePath $repoRoot -Path $batchManifestPath)"
-Write-Host "Total: $($results.Count), generated: $(@($results | Where-Object { $_.status -eq 'generated' }).Count), skipped: $(@($results | Where-Object { $_.status -eq 'skipped-existing' }).Count), failed: $(@($results | Where-Object { $_.status -eq 'failed' }).Count)"
+Write-Host "Total: $($results.Count), generated: $(@($results | Where-Object { $_.status -eq 'generated' }).Count), optimized-existing: $(@($results | Where-Object { $_.status -eq 'optimized-existing' }).Count), skipped: $(@($results | Where-Object { $_.status -eq 'skipped-existing' }).Count), failed: $(@($results | Where-Object { $_.status -eq 'failed' }).Count)"

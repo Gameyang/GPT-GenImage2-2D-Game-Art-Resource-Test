@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-food-cooking",
+    "workflow":  "hidream_o1",
+    "category":  "food-cooking",
+    "publicDir":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "roast-meat",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, roast meat drumstick with crisp browned edge and small bone. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-01-roast-meat-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-01-roast-meat-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "berry-pie",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, berry pie slice with purple filling and golden crust. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-02-berry-pie-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-02-berry-pie-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "fish-skewer",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, fish skewer with grilled fish, lemon wedge, and herbs. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-03-fish-skewer-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-03-fish-skewer-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "mushroom-soup",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, mushroom soup bowl with steam curl and wooden spoon. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-04-mushroom-soup-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-04-mushroom-soup-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "honey-bread",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, honey bread loaf with amber drizzle and sesame bits. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-05-honey-bread-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-05-honey-bread-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "spiced-curry-bowl",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, spiced curry bowl with rice, carrots, and warm sauce. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-06-spiced-curry-bowl-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-06-spiced-curry-bowl-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "snowberry-tart",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, snowberry tart with white berries and blue glaze. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-07-snowberry-tart-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-07-snowberry-tart-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "seaweed-roll",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, seaweed roll plate with rice, fish, and green wrap. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-08-seaweed-roll-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-08-seaweed-roll-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "food-cooking",
+                       "name":  "festival-candy",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, festival candy stick bundle with bright wrappers and sugar sparkle. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-09-festival-candy-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/food-cooking/pixel-food-09-festival-candy-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

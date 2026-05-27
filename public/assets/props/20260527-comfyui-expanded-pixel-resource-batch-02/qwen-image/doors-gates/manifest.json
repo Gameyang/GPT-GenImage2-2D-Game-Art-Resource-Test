@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-qwen-image-doors-gates",
+    "workflow":  "qwen_image",
+    "category":  "doors-gates",
+    "publicDir":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "wooden-dungeon-door",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, reinforced wooden dungeon door with iron bands and round handle. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-01-wooden-dungeon-door-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-01-wooden-dungeon-door-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "stone-ruin-archway",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ancient stone ruin archway with moss, cracks, and carved border. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-02-stone-ruin-archway-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-02-stone-ruin-archway-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "ice-sealed-gate",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ice sealed gate with frosty bars and blue crystal lock. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-03-ice-sealed-gate-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-03-ice-sealed-gate-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "lava-forge-door",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, heavy lava forge door with black metal, orange glow, and rivets. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-04-lava-forge-door-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-04-lava-forge-door-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "forest-vine-gate",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, forest vine gate woven from branches, leaves, and small flowers. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-05-forest-vine-gate-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-05-forest-vine-gate-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "golden-temple-door",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, golden temple door with sun motif shapes and marble side stones. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-06-golden-temple-door-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-06-golden-temple-door-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "cyber-security-door",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, cyber security door with dark metal panels and cyan light strips. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-07-cyber-security-door-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-07-cyber-security-door-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "pirate-cabin-door",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, pirate cabin door with porthole window, rope trim, weathered planks. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-08-pirate-cabin-door-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-08-pirate-cabin-door-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "doors-gates",
+                       "name":  "magic-portal-gate",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, magic portal gate with stone base, floating runes, and blue inner glow. Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-09-magic-portal-gate-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/doors-gates/pixel-door-gate-09-magic-portal-gate-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

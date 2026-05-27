@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-z-image-armor",
+    "workflow":  "pokemon",
+    "category":  "armor",
+    "publicDir":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "leather-vest",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, leather vest armor with stitched seams and bronze buckles. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-01-leather-vest-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-01-leather-vest-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "iron-breastplate",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, iron breastplate armor with shoulder plates and blue cloth trim. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-02-iron-breastplate-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-02-iron-breastplate-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "ranger-hood",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, ranger hood armor piece with green fabric and feather charm. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-03-ranger-hood-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-03-ranger-hood-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "mage-robe",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, mage robe armor with violet folds, star clasp, and gold hem. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-04-mage-robe-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-04-mage-robe-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "frost-gauntlets",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, frost gauntlets with icy blue knuckles and silver cuffs. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-05-frost-gauntlets-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-05-frost-gauntlets-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "sun-helmet",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, sun helmet with gold crest, red plume, and polished visor. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-06-sun-helmet-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-06-sun-helmet-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "shadow-boots",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, shadow boots with dark leather, silver buckles, and soft sole. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-07-shadow-boots-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-07-shadow-boots-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "coral-pauldron",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, coral pauldron armor with shell plates and sea-green bands. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-08-coral-pauldron-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-08-coral-pauldron-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "armor",
+                       "name":  "clockwork-chestgear",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, clockwork chestgear with brass plates, tiny pressure gauges, and straps. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-09-clockwork-chestgear-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/armor/pixel-armor-09-clockwork-chestgear-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:06",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-projectiles",
+    "workflow":  "hidream_o1",
+    "category":  "projectiles",
+    "publicDir":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "fire-orb",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, fire orb projectile with orange core and trailing flame tail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-01-fire-orb-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-01-fire-orb-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "ice-bolt",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ice bolt projectile with sharp blue shard and frost trail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-02-ice-bolt-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-02-ice-bolt-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "poison-needle",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, poison needle projectile with green tip and small vapor line. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-03-poison-needle-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-03-poison-needle-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "arcane-missile",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, arcane missile projectile with violet comet shape and sparkles. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-04-arcane-missile-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-04-arcane-missile-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "throwing-knife",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, throwing knife projectile with silver blade and speed streak. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-05-throwing-knife-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-05-throwing-knife-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "arrow-flight",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, arrow projectile with feather fletching and motion line. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-06-arrow-flight-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-06-arrow-flight-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "cannon-shot",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, cannon shot projectile with dark iron ball and smoke trail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-07-cannon-shot-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-07-cannon-shot-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "water-bubble",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, water bubble projectile with blue translucent sphere and splash trail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-08-water-bubble-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-08-water-bubble-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "projectiles",
+                       "name":  "gear-disc",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, spinning gear disc projectile with brass teeth and circular blur. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-09-gear-disc-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/projectiles/pixel-projectile-09-gear-disc-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

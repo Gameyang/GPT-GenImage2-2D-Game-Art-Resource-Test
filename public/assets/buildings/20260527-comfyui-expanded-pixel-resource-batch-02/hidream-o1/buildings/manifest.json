@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-buildings",
+    "workflow":  "hidream_o1",
+    "category":  "buildings",
+    "publicDir":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "blacksmith-shop",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, cozy blacksmith shop with forge chimney, anvil sign shape, warm windows. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-01-blacksmith-shop-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-01-blacksmith-shop-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "alchemist-cottage",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, alchemist cottage with bottle-shaped roof decor and herb planters. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-02-alchemist-cottage-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-02-alchemist-cottage-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "adventurer-guild-hall",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, adventurer guild hall with wooden beams, banner shapes, broad doorway. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-03-adventurer-guild-hall-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-03-adventurer-guild-hall-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "fisher-hut",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, fisher hut on short stilts with nets, barrels, and blue roof. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-04-fisher-hut-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-04-fisher-hut-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "clockwork-workshop",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, clockwork workshop with brass vents, gears, and round windows. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-05-clockwork-workshop-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-05-clockwork-workshop-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "crystal-mage-tower",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, small crystal mage tower with violet roof and floating prism detail. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-06-crystal-mage-tower-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-06-crystal-mage-tower-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "bakery-stall-house",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, tiny bakery house with striped awning and bread display shapes. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-07-bakery-stall-house-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-07-bakery-stall-house-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "ranger-treehouse",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, forest ranger treehouse with rope ladder and leaf canopy roof. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-08-ranger-treehouse-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-08-ranger-treehouse-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "buildings",
+                       "name":  "harbor-warehouse",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, harbor warehouse with crates, pulley, and weathered blue boards. Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-09-harbor-warehouse-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/buildings/pixel-building-09-harbor-warehouse-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-z-image-accessories",
+    "workflow":  "pokemon",
+    "category":  "accessories",
+    "publicDir":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "ruby-ring",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, ruby ring accessory with gold band and bright red gem. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-01-ruby-ring-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-01-ruby-ring-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "silver-amulet",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, silver amulet accessory with crescent charm and blue bead. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-02-silver-amulet-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-02-silver-amulet-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "travelers-brooch",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, traveler brooch accessory shaped like a compass star. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-03-travelers-brooch-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-03-travelers-brooch-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "lucky-feather",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, lucky feather accessory with teal plume and tiny gold clasp. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-04-lucky-feather-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-04-lucky-feather-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "mana-earring",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, mana earring accessory with dangling purple crystal. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-05-mana-earring-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-05-mana-earring-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "merchant-belt",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, merchant belt accessory with coin pouch and brass buckle. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-06-merchant-belt-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-06-merchant-belt-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "guardian-charm",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, guardian charm accessory with small shield token and blue ribbon. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-07-guardian-charm-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-07-guardian-charm-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "clockwork-pin",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, clockwork pin accessory with tiny gear and copper needle. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-08-clockwork-pin-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-08-clockwork-pin-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "accessories",
+                       "name":  "shell-necklace",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, shell necklace accessory with pearl bead and sea cord. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-09-shell-necklace-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/accessories/pixel-accessory-09-shell-necklace-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

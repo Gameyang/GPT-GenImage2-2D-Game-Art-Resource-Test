@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:06",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-decorations",
+    "workflow":  "hidream_o1",
+    "category":  "decorations",
+    "publicDir":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "hanging-lantern",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, hanging lantern decoration with warm glow and metal hook. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-01-hanging-lantern-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-01-hanging-lantern-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "potted-fern",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, potted fern decoration with terracotta pot and leafy fronds. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-02-potted-fern-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-02-potted-fern-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "festival-bunting",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, festival bunting decoration with colorful triangle flags on rope. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-03-festival-bunting-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-03-festival-bunting-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "stone-statue",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, small stone statue decoration with weathered base and moss. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-04-stone-statue-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-04-stone-statue-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "wooden-signpost",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, wooden signpost decoration with blank planks and rope wrap. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-05-wooden-signpost-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-05-wooden-signpost-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "campfire-ring",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, campfire ring decoration with stones, logs, and gentle flame. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-06-campfire-ring-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-06-campfire-ring-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "book-stack",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, book stack decoration with colored covers and tiny bookmark. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-07-book-stack-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-07-book-stack-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "barrel-planter",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, barrel planter decoration with flowers and worn wood bands. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-08-barrel-planter-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-08-barrel-planter-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "decorations",
+                       "name":  "crystal-lamp",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, crystal lamp decoration with blue glow and brass stand. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-09-crystal-lamp-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/decorations/pixel-decoration-09-crystal-lamp-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-z-image-decorations",
+    "workflow":  "pokemon",
+    "category":  "decorations",
+    "publicDir":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "hanging-lantern",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, hanging lantern decoration with warm glow and metal hook. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-01-hanging-lantern-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-01-hanging-lantern-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "potted-fern",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, potted fern decoration with terracotta pot and leafy fronds. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-02-potted-fern-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-02-potted-fern-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "festival-bunting",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, festival bunting decoration with colorful triangle flags on rope. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-03-festival-bunting-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-03-festival-bunting-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "stone-statue",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, small stone statue decoration with weathered base and moss. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-04-stone-statue-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-04-stone-statue-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "wooden-signpost",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, wooden signpost decoration with blank planks and rope wrap. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-05-wooden-signpost-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-05-wooden-signpost-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "campfire-ring",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, campfire ring decoration with stones, logs, and gentle flame. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-06-campfire-ring-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-06-campfire-ring-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "book-stack",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, book stack decoration with colored covers and tiny bookmark. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-07-book-stack-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-07-book-stack-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "barrel-planter",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, barrel planter decoration with flowers and worn wood bands. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-08-barrel-planter-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-08-barrel-planter-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "decorations",
+                       "name":  "crystal-lamp",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, crystal lamp decoration with blue glow and brass stand. Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-09-crystal-lamp-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/decorations/pixel-decoration-09-crystal-lamp-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

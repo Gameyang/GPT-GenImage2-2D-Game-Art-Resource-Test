@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-z-image-platform-pieces",
+    "workflow":  "pokemon",
+    "category":  "platform-pieces",
+    "publicDir":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "grass-cliff-ledge",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, grass cliff ledge with dirt underside, roots, and small stones. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-01-grass-cliff-ledge-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-01-grass-cliff-ledge-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "brick-dungeon-step",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, brick dungeon step platform with chipped blocks and moss. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-02-brick-dungeon-step-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-02-brick-dungeon-step-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "ice-floating-slab",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, floating ice slab platform with frosty underside and blue highlights. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-03-ice-floating-slab-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-03-ice-floating-slab-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "lava-chain-bridge",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, short lava chain bridge platform with dark metal and hot rivets. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-04-lava-chain-bridge-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-04-lava-chain-bridge-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "cloud-soft-platform",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, soft cloud platform with golden rim and small sparkle edges. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-05-cloud-soft-platform-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-05-cloud-soft-platform-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "tree-branch-platform",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, wide tree branch platform with leaves and bark texture. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-06-tree-branch-platform-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-06-tree-branch-platform-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "factory-conveyor-platform",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, factory conveyor platform with rollers and hazard stripe trim. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-07-factory-conveyor-platform-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-07-factory-conveyor-platform-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "ruin-floating-stone",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, floating ancient stone platform with carved glyph marks and vines. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-08-ruin-floating-stone-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-08-ruin-floating-stone-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "platform-pieces",
+                       "name":  "coral-reef-platform",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, underwater coral reef platform with shells and sea plants. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-09-coral-reef-platform-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/platform-pieces/pixel-platform-piece-09-coral-reef-platform-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

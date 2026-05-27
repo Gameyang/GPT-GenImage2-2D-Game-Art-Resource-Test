@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:06",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-quest-objects",
+    "workflow":  "hidream_o1",
+    "category":  "quest-objects",
+    "publicDir":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "sealed-letter",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, sealed letter quest object with red wax seal and ribbon. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-01-sealed-letter-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-01-sealed-letter-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "ancient-map-fragment",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ancient map fragment quest object with torn parchment and route marks without readable text. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-02-ancient-map-fragment-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-02-ancient-map-fragment-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "royal-medallion",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, royal medallion quest object with gold crest shape and blue ribbon. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-03-royal-medallion-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-03-royal-medallion-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "lost-compass",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, lost compass quest object with bronze case and blue needle. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-04-lost-compass-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-04-lost-compass-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "dragon-scale",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, large dragon scale quest object with emerald sheen and chipped edge. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-05-dragon-scale-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-05-dragon-scale-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "memory-crystal",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, memory crystal quest object with violet glow and small pedestal. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-06-memory-crystal-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-06-memory-crystal-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "broken-crown",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, broken crown quest object with missing gem and bent gold points. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-07-broken-crown-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-07-broken-crown-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "sacred-bell",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, sacred bell quest object with silver body and teal cord. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-08-sacred-bell-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-08-sacred-bell-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "quest-objects",
+                       "name":  "clockwork-heart",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, clockwork heart quest object with brass shell and tiny gears. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-09-clockwork-heart-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/quest-objects/pixel-quest-object-09-clockwork-heart-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

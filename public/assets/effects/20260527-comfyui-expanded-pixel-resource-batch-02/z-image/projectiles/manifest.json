@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-z-image-projectiles",
+    "workflow":  "pokemon",
+    "category":  "projectiles",
+    "publicDir":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "fire-orb",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, fire orb projectile with orange core and trailing flame tail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-01-fire-orb-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-01-fire-orb-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "ice-bolt",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, ice bolt projectile with sharp blue shard and frost trail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-02-ice-bolt-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-02-ice-bolt-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "poison-needle",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, poison needle projectile with green tip and small vapor line. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-03-poison-needle-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-03-poison-needle-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "arcane-missile",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, arcane missile projectile with violet comet shape and sparkles. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-04-arcane-missile-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-04-arcane-missile-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "throwing-knife",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, throwing knife projectile with silver blade and speed streak. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-05-throwing-knife-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-05-throwing-knife-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "arrow-flight",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, arrow projectile with feather fletching and motion line. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-06-arrow-flight-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-06-arrow-flight-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "cannon-shot",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, cannon shot projectile with dark iron ball and smoke trail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-07-cannon-shot-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-07-cannon-shot-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "water-bubble",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, water bubble projectile with blue translucent sphere and splash trail. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-08-water-bubble-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-08-water-bubble-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "projectiles",
+                       "name":  "gear-disc",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, spinning gear disc projectile with brass teeth and circular blur. Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-09-gear-disc-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/projectiles/pixel-projectile-09-gear-disc-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

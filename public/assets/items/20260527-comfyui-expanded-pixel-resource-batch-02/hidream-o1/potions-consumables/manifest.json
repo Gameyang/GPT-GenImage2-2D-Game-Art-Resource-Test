@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-potions-consumables",
+    "workflow":  "hidream_o1",
+    "category":  "potions-consumables",
+    "publicDir":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "health-potion",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, round health potion bottle with red liquid and cork stopper. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-01-health-potion-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-01-health-potion-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "mana-potion",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, slender mana potion bottle with blue liquid and silver cap. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-02-mana-potion-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-02-mana-potion-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "stamina-tonic",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, green stamina tonic bottle with leaf charm and wax seal. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-03-stamina-tonic-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-03-stamina-tonic-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "antidote-vial",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, small antidote vial with yellow liquid and herb sprig. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-04-antidote-vial-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-04-antidote-vial-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "fire-resist-flask",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, fire resist flask with orange liquid and ember glass glow. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-05-fire-resist-flask-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-05-fire-resist-flask-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "frost-resist-flask",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, frost resist flask with pale blue liquid and icy stopper. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-06-frost-resist-flask-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-06-frost-resist-flask-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "smoke-bomb",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, smoke bomb consumable with black sphere, fuse, and gray puff hint. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-07-smoke-bomb-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-07-smoke-bomb-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "teleport-scroll",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, teleport scroll consumable with blue ribbon and glowing seal shape. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-08-teleport-scroll-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-08-teleport-scroll-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "potions-consumables",
+                       "name":  "revival-feather",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, revival feather consumable with golden feather and small halo sparkle. Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-09-revival-feather-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/potions-consumables/pixel-potion-consumable-09-revival-feather-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

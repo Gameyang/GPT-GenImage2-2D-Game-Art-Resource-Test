@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-z-image-shop-stalls",
+    "workflow":  "pokemon",
+    "category":  "shop-stalls",
+    "publicDir":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "fruit-stand",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, fruit stand with apples, pears, hanging basket, striped canopy. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-01-fruit-stand-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-01-fruit-stand-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "weapon-vendor",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, weapon vendor stall with swords, spear rack, small shield display. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-02-weapon-vendor-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-02-weapon-vendor-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "potion-kiosk",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, potion kiosk with colorful bottles, round shelves, tiny glass shine. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-03-potion-kiosk-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-03-potion-kiosk-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "fishmonger-booth",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, fishmonger booth with ice tray, fish shapes, blue tarp canopy. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-04-fishmonger-booth-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-04-fishmonger-booth-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "cloth-merchant",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, cloth merchant stall with folded fabrics, hanging rolls, warm awning. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-05-cloth-merchant-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-05-cloth-merchant-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "relic-curio-cart",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, relic curio cart with masks, tiny statues, and dusty boxes. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-06-relic-curio-cart-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-06-relic-curio-cart-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "bakery-counter",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, bakery counter stall with bread baskets, pies, and oven mitt detail. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-07-bakery-counter-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-07-bakery-counter-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "herb-apothecary",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, herb apothecary stall with dried plants, jars, and green canopy. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-08-herb-apothecary-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-08-herb-apothecary-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-stalls",
+                       "name":  "tinker-parts-booth",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, tinker parts booth with gears, springs, bolts, and brass lamps. Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/buildings/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-09-tinker-parts-booth-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/shop-stalls/pixel-shop-stall-09-tinker-parts-booth-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

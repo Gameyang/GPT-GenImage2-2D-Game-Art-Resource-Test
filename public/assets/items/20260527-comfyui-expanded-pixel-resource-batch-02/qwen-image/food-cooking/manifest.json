@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-qwen-image-food-cooking",
+    "workflow":  "qwen_image",
+    "category":  "food-cooking",
+    "publicDir":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "roast-meat",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, roast meat drumstick with crisp browned edge and small bone. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-01-roast-meat-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-01-roast-meat-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "berry-pie",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, berry pie slice with purple filling and golden crust. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-02-berry-pie-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-02-berry-pie-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "fish-skewer",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, fish skewer with grilled fish, lemon wedge, and herbs. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-03-fish-skewer-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-03-fish-skewer-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "mushroom-soup",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, mushroom soup bowl with steam curl and wooden spoon. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-04-mushroom-soup-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-04-mushroom-soup-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "honey-bread",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, honey bread loaf with amber drizzle and sesame bits. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-05-honey-bread-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-05-honey-bread-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "spiced-curry-bowl",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, spiced curry bowl with rice, carrots, and warm sauce. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-06-spiced-curry-bowl-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-06-spiced-curry-bowl-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "snowberry-tart",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, snowberry tart with white berries and blue glaze. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-07-snowberry-tart-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-07-snowberry-tart-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "seaweed-roll",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, seaweed roll plate with rice, fish, and green wrap. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-08-seaweed-roll-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-08-seaweed-roll-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "food-cooking",
+                       "name":  "festival-candy",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, festival candy stick bundle with bright wrappers and sugar sparkle. Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-09-festival-candy-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/food-cooking/pixel-food-09-festival-candy-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

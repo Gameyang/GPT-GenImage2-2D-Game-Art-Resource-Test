@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-skill-icons",
+    "workflow":  "hidream_o1",
+    "category":  "skill-icons",
+    "publicDir":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "fireball-cast",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, fireball cast skill icon with orange orb and curved flame trail. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-01-fireball-cast-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-01-fireball-cast-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "ice-shield",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ice shield skill icon with blue shield shape and frost shards. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-02-ice-shield-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-02-ice-shield-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "thunder-strike",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, thunder strike skill icon with yellow lightning bolt and dark cloud. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-03-thunder-strike-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-03-thunder-strike-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "healing-leaf",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, healing leaf skill icon with green leaf and soft golden plus-shaped glow without text. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-04-healing-leaf-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-04-healing-leaf-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "shadow-dash",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, shadow dash skill icon with dark silhouette streak and purple blur. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-05-shadow-dash-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-05-shadow-dash-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "sword-flurry",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, sword flurry skill icon with crossed slash arcs and steel shine. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-06-sword-flurry-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-06-sword-flurry-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "summon-crystal",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, summon crystal skill icon with violet prism and circular magic glow. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-07-summon-crystal-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-07-summon-crystal-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "guard-stance",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, guard stance skill icon with shield and upward blue aura. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-08-guard-stance-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-08-guard-stance-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "skill-icons",
+                       "name":  "poison-cloud",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, poison cloud skill icon with green vapor swirl and droplet shapes. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-09-poison-cloud-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/skill-icons/pixel-skill-icon-09-poison-cloud-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

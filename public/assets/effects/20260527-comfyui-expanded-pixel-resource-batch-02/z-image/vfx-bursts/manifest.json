@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-z-image-vfx-bursts",
+    "workflow":  "pokemon",
+    "category":  "vfx-bursts",
+    "publicDir":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "fire-impact",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, fire impact burst with orange flame petals and bright core. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-01-fire-impact-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-01-fire-impact-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "ice-shatter",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, ice shatter burst with blue shards and frosty ring. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-02-ice-shatter-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-02-ice-shatter-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "lightning-pop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, lightning pop burst with yellow bolts and small sparks. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-03-lightning-pop-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-03-lightning-pop-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "healing-pulse",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, healing pulse burst with green ring and golden particles. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-04-healing-pulse-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-04-healing-pulse-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "dark-smoke-pop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, dark smoke pop burst with purple smoke curls and soft edges. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-05-dark-smoke-pop-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-05-dark-smoke-pop-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "water-splash",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, water splash burst with blue droplets and white foam pixels. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-06-water-splash-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-06-water-splash-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "earth-crack",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, earth crack burst with brown rock chips and dust ring. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-07-earth-crack-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-07-earth-crack-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "coin-sparkle",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, coin sparkle burst with gold twinkles and small star shapes. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-08-coin-sparkle-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-08-coin-sparkle-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "vfx-bursts",
+                       "name":  "shield-break",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, shield break burst with blue glass fragments and white impact flash. Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/effects/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-09-shield-break-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/z-image/vfx-bursts/pixel-vfx-burst-09-shield-break-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

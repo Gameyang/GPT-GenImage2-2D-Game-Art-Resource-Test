@@ -1,0 +1,531 @@
+{
+  "schemaVersion": 1,
+  "taskId": "20260527-comfyui-expanded-pixel-resource-batch-02",
+  "categories": [
+    {
+      "slug": "terrain-tiles",
+      "assetFolder": "tiles",
+      "singular": "terrain-tile",
+      "title": "Terrain Tiles",
+      "feedTag": "Terrain",
+      "linkLabel": "View terrain tile PNG assets",
+      "aspect": "square",
+      "promptTail": "Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "grass-dirt-corner", "subject": "grass and dirt corner tile with small stones and root pixels" },
+        { "name": "mossy-stone-floor", "subject": "mossy stone dungeon floor tile with cracked square slabs" },
+        { "name": "snowy-rock-ground", "subject": "snowy rock ground tile with icy blue shadows and frost trim" },
+        { "name": "desert-sand-ripple", "subject": "desert sand ripple tile with tiny pebbles and warm dune bands" },
+        { "name": "swamp-mud-pool", "subject": "swamp mud pool tile with green water puddles and reed bits" },
+        { "name": "lava-cracked-basalt", "subject": "cracked basalt tile with glowing lava seams and ember flecks" },
+        { "name": "crystal-cave-floor", "subject": "crystal cave floor tile with violet shards and dark stone" },
+        { "name": "wooden-plank-floor", "subject": "wooden plank floor tile with nails, knots, and worn edges" },
+        { "name": "neon-metal-panel", "subject": "cyber metal floor tile with cyan circuit lines and dark panels" }
+      ]
+    },
+    {
+      "slug": "platform-pieces",
+      "assetFolder": "tiles",
+      "singular": "platform-piece",
+      "title": "Platform Pieces",
+      "feedTag": "Platform",
+      "linkLabel": "View platform PNG assets",
+      "aspect": "square",
+      "promptTail": "Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "grass-cliff-ledge", "subject": "grass cliff ledge with dirt underside, roots, and small stones" },
+        { "name": "brick-dungeon-step", "subject": "brick dungeon step platform with chipped blocks and moss" },
+        { "name": "ice-floating-slab", "subject": "floating ice slab platform with frosty underside and blue highlights" },
+        { "name": "lava-chain-bridge", "subject": "short lava chain bridge platform with dark metal and hot rivets" },
+        { "name": "cloud-soft-platform", "subject": "soft cloud platform with golden rim and small sparkle edges" },
+        { "name": "tree-branch-platform", "subject": "wide tree branch platform with leaves and bark texture" },
+        { "name": "factory-conveyor-platform", "subject": "factory conveyor platform with rollers and hazard stripe trim" },
+        { "name": "ruin-floating-stone", "subject": "floating ancient stone platform with carved glyph marks and vines" },
+        { "name": "coral-reef-platform", "subject": "underwater coral reef platform with shells and sea plants" }
+      ]
+    },
+    {
+      "slug": "buildings",
+      "assetFolder": "buildings",
+      "singular": "building",
+      "title": "Buildings",
+      "feedTag": "Building",
+      "linkLabel": "View building PNG assets",
+      "aspect": "square",
+      "promptTail": "Single small game building exterior, readable front-facing pixel-art silhouette, centered asset, transparent-friendly plain light preview background, no readable signage, no watermark.",
+      "assets": [
+        { "name": "blacksmith-shop", "subject": "cozy blacksmith shop with forge chimney, anvil sign shape, warm windows" },
+        { "name": "alchemist-cottage", "subject": "alchemist cottage with bottle-shaped roof decor and herb planters" },
+        { "name": "adventurer-guild-hall", "subject": "adventurer guild hall with wooden beams, banner shapes, broad doorway" },
+        { "name": "fisher-hut", "subject": "fisher hut on short stilts with nets, barrels, and blue roof" },
+        { "name": "clockwork-workshop", "subject": "clockwork workshop with brass vents, gears, and round windows" },
+        { "name": "crystal-mage-tower", "subject": "small crystal mage tower with violet roof and floating prism detail" },
+        { "name": "bakery-stall-house", "subject": "tiny bakery house with striped awning and bread display shapes" },
+        { "name": "ranger-treehouse", "subject": "forest ranger treehouse with rope ladder and leaf canopy roof" },
+        { "name": "harbor-warehouse", "subject": "harbor warehouse with crates, pulley, and weathered blue boards" }
+      ]
+    },
+    {
+      "slug": "shop-stalls",
+      "assetFolder": "buildings",
+      "singular": "shop-stall",
+      "title": "Shop Stalls",
+      "feedTag": "Shop",
+      "linkLabel": "View shop stall PNG assets",
+      "aspect": "square",
+      "promptTail": "Single marketplace shop stall prop for a 2D RPG, centered asset with readable merchandise theme, transparent-friendly plain light preview background, no readable text, no UI frame.",
+      "assets": [
+        { "name": "fruit-stand", "subject": "fruit stand with apples, pears, hanging basket, striped canopy" },
+        { "name": "weapon-vendor", "subject": "weapon vendor stall with swords, spear rack, small shield display" },
+        { "name": "potion-kiosk", "subject": "potion kiosk with colorful bottles, round shelves, tiny glass shine" },
+        { "name": "fishmonger-booth", "subject": "fishmonger booth with ice tray, fish shapes, blue tarp canopy" },
+        { "name": "cloth-merchant", "subject": "cloth merchant stall with folded fabrics, hanging rolls, warm awning" },
+        { "name": "relic-curio-cart", "subject": "relic curio cart with masks, tiny statues, and dusty boxes" },
+        { "name": "bakery-counter", "subject": "bakery counter stall with bread baskets, pies, and oven mitt detail" },
+        { "name": "herb-apothecary", "subject": "herb apothecary stall with dried plants, jars, and green canopy" },
+        { "name": "tinker-parts-booth", "subject": "tinker parts booth with gears, springs, bolts, and brass lamps" }
+      ]
+    },
+    {
+      "slug": "doors-gates",
+      "assetFolder": "props",
+      "singular": "door-gate",
+      "title": "Doors and Gates",
+      "feedTag": "Door",
+      "linkLabel": "View door and gate PNG assets",
+      "aspect": "square",
+      "promptTail": "Single door or gate game prop, front-facing readable silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "wooden-dungeon-door", "subject": "reinforced wooden dungeon door with iron bands and round handle" },
+        { "name": "stone-ruin-archway", "subject": "ancient stone ruin archway with moss, cracks, and carved border" },
+        { "name": "ice-sealed-gate", "subject": "ice sealed gate with frosty bars and blue crystal lock" },
+        { "name": "lava-forge-door", "subject": "heavy lava forge door with black metal, orange glow, and rivets" },
+        { "name": "forest-vine-gate", "subject": "forest vine gate woven from branches, leaves, and small flowers" },
+        { "name": "golden-temple-door", "subject": "golden temple door with sun motif shapes and marble side stones" },
+        { "name": "cyber-security-door", "subject": "cyber security door with dark metal panels and cyan light strips" },
+        { "name": "pirate-cabin-door", "subject": "pirate cabin door with porthole window, rope trim, weathered planks" },
+        { "name": "magic-portal-gate", "subject": "magic portal gate with stone base, floating runes, and blue inner glow" }
+      ]
+    },
+    {
+      "slug": "treasure-containers",
+      "assetFolder": "props",
+      "singular": "treasure-container",
+      "title": "Treasure Containers",
+      "feedTag": "Treasure",
+      "linkLabel": "View treasure container PNG assets",
+      "aspect": "square",
+      "promptTail": "Single loot container or storage prop, centered game asset with clear reward silhouette, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "bronze-treasure-chest", "subject": "bronze treasure chest with red cloth lining and gem lock" },
+        { "name": "wooden-supply-crate", "subject": "wooden supply crate with rope wrap, corner braces, and small label shape without text" },
+        { "name": "ancient-stone-coffer", "subject": "ancient stone coffer with teal carved patterns and chipped lid" },
+        { "name": "crystal-lockbox", "subject": "crystal lockbox with silver frame and violet transparent panels" },
+        { "name": "pirate-barrel-cache", "subject": "pirate barrel cache with coins spilling, rope, and small dagger" },
+        { "name": "royal-jewel-case", "subject": "royal jewel case with velvet cushion, gold trim, and ruby accents" },
+        { "name": "clockwork-safe", "subject": "clockwork safe with brass dial, gear teeth, and thick hinges" },
+        { "name": "icebound-chest", "subject": "icebound chest covered in frost with blue metal lock" },
+        { "name": "merchant-bag-pile", "subject": "merchant bag pile with tied sacks, coin pouch, and small parcels" }
+      ]
+    },
+    {
+      "slug": "traps-hazards",
+      "assetFolder": "props",
+      "singular": "trap-hazard",
+      "title": "Traps and Hazards",
+      "feedTag": "Hazard",
+      "linkLabel": "View trap and hazard PNG assets",
+      "aspect": "square",
+      "promptTail": "Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore.",
+      "assets": [
+        { "name": "floor-spike-trap", "subject": "floor spike trap with metal spikes emerging from cracked stone plate" },
+        { "name": "swinging-axe-trap", "subject": "small swinging axe trap with chain, crescent blade, and wall mount" },
+        { "name": "poison-gas-vent", "subject": "poison gas vent tile with green vapor cloud and bronze grate" },
+        { "name": "flame-jet-nozzle", "subject": "flame jet nozzle with orange fire burst and dark pipe base" },
+        { "name": "rolling-boulder-marker", "subject": "rolling boulder hazard marker with round stone and dust trail" },
+        { "name": "electric-floor-panel", "subject": "electric floor panel with yellow arcs and metal square frame" },
+        { "name": "falling-icicle", "subject": "falling icicle hazard cluster with blue shards and impact sparkle" },
+        { "name": "acid-puddle", "subject": "acid puddle hazard with bright green surface and bubbling edge" },
+        { "name": "thorn-vine-snare", "subject": "thorn vine snare trap with twisted green vines and sharp thorns" }
+      ]
+    },
+    {
+      "slug": "resource-nodes",
+      "assetFolder": "resources",
+      "singular": "resource-node",
+      "title": "Resource Nodes",
+      "feedTag": "Resource Node",
+      "linkLabel": "View resource node PNG assets",
+      "aspect": "square",
+      "promptTail": "Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "iron-ore-vein", "subject": "iron ore vein in dark rock with silver flecks and cracked stone" },
+        { "name": "copper-ore-vein", "subject": "copper ore vein with orange metal streaks and rough stone base" },
+        { "name": "mana-crystal-node", "subject": "mana crystal node with teal and purple shards emerging from rock" },
+        { "name": "ancient-root-clump", "subject": "ancient root clump with glowing amber sap and moss" },
+        { "name": "herb-bush-node", "subject": "herb bush resource node with layered green leaves and small blue flowers" },
+        { "name": "mushroom-patch", "subject": "mushroom patch with red caps, small spores, and dark soil" },
+        { "name": "shell-coral-node", "subject": "shell coral node with pink coral branches and pearl shell" },
+        { "name": "snowberry-shrub", "subject": "snowberry shrub with white berries and frosty leaves" },
+        { "name": "scrap-metal-pile", "subject": "scrap metal pile with gears, plates, bolts, and copper wire" }
+      ]
+    },
+    {
+      "slug": "crafting-stations",
+      "assetFolder": "props",
+      "singular": "crafting-station",
+      "title": "Crafting Stations",
+      "feedTag": "Crafting",
+      "linkLabel": "View crafting station PNG assets",
+      "aspect": "square",
+      "promptTail": "Single crafting station prop for a 2D game, centered object with clear functional silhouette, transparent-friendly plain light preview background, no readable text, no UI frame.",
+      "assets": [
+        { "name": "blacksmith-anvil", "subject": "blacksmith anvil station with hammer, tongs, hot ingot, and small coal tray" },
+        { "name": "alchemy-table", "subject": "alchemy table station with bottles, burner, mortar, and green liquid flask" },
+        { "name": "cooking-cauldron", "subject": "cooking cauldron station with stew pot, ladle, carrots, and firewood" },
+        { "name": "enchanting-lectern", "subject": "enchanting lectern station with open book, candles, and floating crystal" },
+        { "name": "tinker-workbench", "subject": "tinker workbench station with gears, springs, screwdriver, and brass lamp" },
+        { "name": "loom-weaving-frame", "subject": "loom weaving station with colored thread rolls and wooden frame" },
+        { "name": "gem-cutting-desk", "subject": "gem cutting desk station with magnifier, gem shards, and tiny wheel" },
+        { "name": "carpenter-bench", "subject": "carpenter bench station with saw, planks, clamps, and wood shavings" },
+        { "name": "mapmaker-table", "subject": "mapmaker table station with parchment maps, compass, ink pot, and rolled scrolls" }
+      ]
+    },
+    {
+      "slug": "weapons",
+      "assetFolder": "equipment",
+      "singular": "weapon",
+      "title": "Weapons",
+      "feedTag": "Weapon",
+      "linkLabel": "View weapon PNG assets",
+      "aspect": "square",
+      "promptTail": "Single weapon equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "iron-longsword", "subject": "iron longsword with simple crossguard and leather grip" },
+        { "name": "crescent-axe", "subject": "crescent battle axe with red tassel and steel blade" },
+        { "name": "oak-shortbow", "subject": "oak shortbow with green wrap and small arrow bundle" },
+        { "name": "crystal-dagger", "subject": "crystal dagger with purple blade and silver handle" },
+        { "name": "storm-hammer", "subject": "storm hammer with square head, blue rune glow, and wrapped grip" },
+        { "name": "sun-spear", "subject": "sun spear with gold leaf blade and red ribbon" },
+        { "name": "pirate-cutlass", "subject": "pirate cutlass with brass guard and weathered blade" },
+        { "name": "arcane-orb-staff", "subject": "arcane orb staff with floating blue sphere and carved wood shaft" },
+        { "name": "clockwork-crossbow", "subject": "clockwork crossbow with brass gear limbs and dark wooden stock" }
+      ]
+    },
+    {
+      "slug": "armor",
+      "assetFolder": "equipment",
+      "singular": "armor",
+      "title": "Armor",
+      "feedTag": "Armor",
+      "linkLabel": "View armor PNG assets",
+      "aspect": "square",
+      "promptTail": "Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "leather-vest", "subject": "leather vest armor with stitched seams and bronze buckles" },
+        { "name": "iron-breastplate", "subject": "iron breastplate armor with shoulder plates and blue cloth trim" },
+        { "name": "ranger-hood", "subject": "ranger hood armor piece with green fabric and feather charm" },
+        { "name": "mage-robe", "subject": "mage robe armor with violet folds, star clasp, and gold hem" },
+        { "name": "frost-gauntlets", "subject": "frost gauntlets with icy blue knuckles and silver cuffs" },
+        { "name": "sun-helmet", "subject": "sun helmet with gold crest, red plume, and polished visor" },
+        { "name": "shadow-boots", "subject": "shadow boots with dark leather, silver buckles, and soft sole" },
+        { "name": "coral-pauldron", "subject": "coral pauldron armor with shell plates and sea-green bands" },
+        { "name": "clockwork-chestgear", "subject": "clockwork chestgear with brass plates, tiny pressure gauges, and straps" }
+      ]
+    },
+    {
+      "slug": "accessories",
+      "assetFolder": "equipment",
+      "singular": "accessory",
+      "title": "Accessories",
+      "feedTag": "Accessory",
+      "linkLabel": "View accessory PNG assets",
+      "aspect": "square",
+      "promptTail": "Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "ruby-ring", "subject": "ruby ring accessory with gold band and bright red gem" },
+        { "name": "silver-amulet", "subject": "silver amulet accessory with crescent charm and blue bead" },
+        { "name": "travelers-brooch", "subject": "traveler brooch accessory shaped like a compass star" },
+        { "name": "lucky-feather", "subject": "lucky feather accessory with teal plume and tiny gold clasp" },
+        { "name": "mana-earring", "subject": "mana earring accessory with dangling purple crystal" },
+        { "name": "merchant-belt", "subject": "merchant belt accessory with coin pouch and brass buckle" },
+        { "name": "guardian-charm", "subject": "guardian charm accessory with small shield token and blue ribbon" },
+        { "name": "clockwork-pin", "subject": "clockwork pin accessory with tiny gear and copper needle" },
+        { "name": "shell-necklace", "subject": "shell necklace accessory with pearl bead and sea cord" }
+      ]
+    },
+    {
+      "slug": "potions-consumables",
+      "assetFolder": "items",
+      "singular": "potion-consumable",
+      "title": "Potions and Consumables",
+      "feedTag": "Consumable",
+      "linkLabel": "View consumable PNG assets",
+      "aspect": "square",
+      "promptTail": "Single consumable item icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "health-potion", "subject": "round health potion bottle with red liquid and cork stopper" },
+        { "name": "mana-potion", "subject": "slender mana potion bottle with blue liquid and silver cap" },
+        { "name": "stamina-tonic", "subject": "green stamina tonic bottle with leaf charm and wax seal" },
+        { "name": "antidote-vial", "subject": "small antidote vial with yellow liquid and herb sprig" },
+        { "name": "fire-resist-flask", "subject": "fire resist flask with orange liquid and ember glass glow" },
+        { "name": "frost-resist-flask", "subject": "frost resist flask with pale blue liquid and icy stopper" },
+        { "name": "smoke-bomb", "subject": "smoke bomb consumable with black sphere, fuse, and gray puff hint" },
+        { "name": "teleport-scroll", "subject": "teleport scroll consumable with blue ribbon and glowing seal shape" },
+        { "name": "revival-feather", "subject": "revival feather consumable with golden feather and small halo sparkle" }
+      ]
+    },
+    {
+      "slug": "food-cooking",
+      "assetFolder": "items",
+      "singular": "food",
+      "title": "Food and Cooking",
+      "feedTag": "Food",
+      "linkLabel": "View food PNG assets",
+      "aspect": "square",
+      "promptTail": "Single food or cooking item icon, centered object, appetizing pixel-art shape, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "roast-meat", "subject": "roast meat drumstick with crisp browned edge and small bone" },
+        { "name": "berry-pie", "subject": "berry pie slice with purple filling and golden crust" },
+        { "name": "fish-skewer", "subject": "fish skewer with grilled fish, lemon wedge, and herbs" },
+        { "name": "mushroom-soup", "subject": "mushroom soup bowl with steam curl and wooden spoon" },
+        { "name": "honey-bread", "subject": "honey bread loaf with amber drizzle and sesame bits" },
+        { "name": "spiced-curry-bowl", "subject": "spiced curry bowl with rice, carrots, and warm sauce" },
+        { "name": "snowberry-tart", "subject": "snowberry tart with white berries and blue glaze" },
+        { "name": "seaweed-roll", "subject": "seaweed roll plate with rice, fish, and green wrap" },
+        { "name": "festival-candy", "subject": "festival candy stick bundle with bright wrappers and sugar sparkle" }
+      ]
+    },
+    {
+      "slug": "skill-icons",
+      "assetFolder": "icons",
+      "singular": "skill-icon",
+      "title": "Skill Icons",
+      "feedTag": "Skill Icon",
+      "linkLabel": "View skill icon PNG assets",
+      "aspect": "square",
+      "promptTail": "Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark.",
+      "assets": [
+        { "name": "fireball-cast", "subject": "fireball cast skill icon with orange orb and curved flame trail" },
+        { "name": "ice-shield", "subject": "ice shield skill icon with blue shield shape and frost shards" },
+        { "name": "thunder-strike", "subject": "thunder strike skill icon with yellow lightning bolt and dark cloud" },
+        { "name": "healing-leaf", "subject": "healing leaf skill icon with green leaf and soft golden plus-shaped glow without text" },
+        { "name": "shadow-dash", "subject": "shadow dash skill icon with dark silhouette streak and purple blur" },
+        { "name": "sword-flurry", "subject": "sword flurry skill icon with crossed slash arcs and steel shine" },
+        { "name": "summon-crystal", "subject": "summon crystal skill icon with violet prism and circular magic glow" },
+        { "name": "guard-stance", "subject": "guard stance skill icon with shield and upward blue aura" },
+        { "name": "poison-cloud", "subject": "poison cloud skill icon with green vapor swirl and droplet shapes" }
+      ]
+    },
+    {
+      "slug": "status-icons",
+      "assetFolder": "icons",
+      "singular": "status-icon",
+      "title": "Status Icons",
+      "feedTag": "Status Icon",
+      "linkLabel": "View status icon PNG assets",
+      "aspect": "square",
+      "promptTail": "Single small status-effect icon for a game UI, centered readable symbol, no letters, no numbers, no watermark.",
+      "assets": [
+        { "name": "burn-status", "subject": "burn status icon with small flame over dark red circle" },
+        { "name": "freeze-status", "subject": "freeze status icon with snowflake and pale blue ring" },
+        { "name": "poison-status", "subject": "poison status icon with green droplet and bubble shapes" },
+        { "name": "stun-status", "subject": "stun status icon with yellow star burst and dizzy swirl" },
+        { "name": "haste-status", "subject": "haste status icon with winged boot and green speed lines" },
+        { "name": "shield-status", "subject": "shield status icon with blue shield and silver border" },
+        { "name": "curse-status", "subject": "curse status icon with purple cracked eye symbol" },
+        { "name": "regen-status", "subject": "regen status icon with green spiral leaf and soft light" },
+        { "name": "bleed-status", "subject": "bleed status icon with red drop and sharp slash shape" }
+      ]
+    },
+    {
+      "slug": "vfx-bursts",
+      "assetFolder": "effects",
+      "singular": "vfx-burst",
+      "title": "VFX Bursts",
+      "feedTag": "VFX",
+      "linkLabel": "View VFX burst PNG assets",
+      "aspect": "square",
+      "promptTail": "Single transparent-friendly combat VFX burst sprite, centered effect shape, clear alpha-ready silhouette on plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "fire-impact", "subject": "fire impact burst with orange flame petals and bright core" },
+        { "name": "ice-shatter", "subject": "ice shatter burst with blue shards and frosty ring" },
+        { "name": "lightning-pop", "subject": "lightning pop burst with yellow bolts and small sparks" },
+        { "name": "healing-pulse", "subject": "healing pulse burst with green ring and golden particles" },
+        { "name": "dark-smoke-pop", "subject": "dark smoke pop burst with purple smoke curls and soft edges" },
+        { "name": "water-splash", "subject": "water splash burst with blue droplets and white foam pixels" },
+        { "name": "earth-crack", "subject": "earth crack burst with brown rock chips and dust ring" },
+        { "name": "coin-sparkle", "subject": "coin sparkle burst with gold twinkles and small star shapes" },
+        { "name": "shield-break", "subject": "shield break burst with blue glass fragments and white impact flash" }
+      ]
+    },
+    {
+      "slug": "projectiles",
+      "assetFolder": "effects",
+      "singular": "projectile",
+      "title": "Projectiles",
+      "feedTag": "Projectile",
+      "linkLabel": "View projectile PNG assets",
+      "aspect": "square",
+      "promptTail": "Single projectile sprite for a 2D game, centered with directional motion cue, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "fire-orb", "subject": "fire orb projectile with orange core and trailing flame tail" },
+        { "name": "ice-bolt", "subject": "ice bolt projectile with sharp blue shard and frost trail" },
+        { "name": "poison-needle", "subject": "poison needle projectile with green tip and small vapor line" },
+        { "name": "arcane-missile", "subject": "arcane missile projectile with violet comet shape and sparkles" },
+        { "name": "throwing-knife", "subject": "throwing knife projectile with silver blade and speed streak" },
+        { "name": "arrow-flight", "subject": "arrow projectile with feather fletching and motion line" },
+        { "name": "cannon-shot", "subject": "cannon shot projectile with dark iron ball and smoke trail" },
+        { "name": "water-bubble", "subject": "water bubble projectile with blue translucent sphere and splash trail" },
+        { "name": "gear-disc", "subject": "spinning gear disc projectile with brass teeth and circular blur" }
+      ]
+    },
+    {
+      "slug": "decorations",
+      "assetFolder": "props",
+      "singular": "decoration",
+      "title": "Decorations",
+      "feedTag": "Decoration",
+      "linkLabel": "View decoration PNG assets",
+      "aspect": "square",
+      "promptTail": "Single decorative environment prop for a 2D game, centered asset, transparent-friendly plain light preview background, no readable text, no UI frame.",
+      "assets": [
+        { "name": "hanging-lantern", "subject": "hanging lantern decoration with warm glow and metal hook" },
+        { "name": "potted-fern", "subject": "potted fern decoration with terracotta pot and leafy fronds" },
+        { "name": "festival-bunting", "subject": "festival bunting decoration with colorful triangle flags on rope" },
+        { "name": "stone-statue", "subject": "small stone statue decoration with weathered base and moss" },
+        { "name": "wooden-signpost", "subject": "wooden signpost decoration with blank planks and rope wrap" },
+        { "name": "campfire-ring", "subject": "campfire ring decoration with stones, logs, and gentle flame" },
+        { "name": "book-stack", "subject": "book stack decoration with colored covers and tiny bookmark" },
+        { "name": "barrel-planter", "subject": "barrel planter decoration with flowers and worn wood bands" },
+        { "name": "crystal-lamp", "subject": "crystal lamp decoration with blue glow and brass stand" }
+      ]
+    },
+    {
+      "slug": "quest-objects",
+      "assetFolder": "props",
+      "singular": "quest-object",
+      "title": "Quest Objects",
+      "feedTag": "Quest",
+      "linkLabel": "View quest object PNG assets",
+      "aspect": "square",
+      "promptTail": "Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame.",
+      "assets": [
+        { "name": "sealed-letter", "subject": "sealed letter quest object with red wax seal and ribbon" },
+        { "name": "ancient-map-fragment", "subject": "ancient map fragment quest object with torn parchment and route marks without readable text" },
+        { "name": "royal-medallion", "subject": "royal medallion quest object with gold crest shape and blue ribbon" },
+        { "name": "lost-compass", "subject": "lost compass quest object with bronze case and blue needle" },
+        { "name": "dragon-scale", "subject": "large dragon scale quest object with emerald sheen and chipped edge" },
+        { "name": "memory-crystal", "subject": "memory crystal quest object with violet glow and small pedestal" },
+        { "name": "broken-crown", "subject": "broken crown quest object with missing gem and bent gold points" },
+        { "name": "sacred-bell", "subject": "sacred bell quest object with silver body and teal cord" },
+        { "name": "clockwork-heart", "subject": "clockwork heart quest object with brass shell and tiny gears" }
+      ]
+    },
+    {
+      "slug": "currency-loot",
+      "assetFolder": "resources",
+      "singular": "currency-loot",
+      "title": "Currency and Loot",
+      "feedTag": "Loot",
+      "linkLabel": "View currency and loot PNG assets",
+      "aspect": "square",
+      "promptTail": "Single loot or currency pickup asset, centered readable reward silhouette, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "gold-coin-stack", "subject": "gold coin stack loot with a few loose coins and sparkle" },
+        { "name": "silver-token-pile", "subject": "silver token pile loot with round coins and cool highlights" },
+        { "name": "gem-pouch", "subject": "gem pouch loot with open leather bag and colorful crystals" },
+        { "name": "rare-pearl", "subject": "rare pearl loot with shell base and soft white shine" },
+        { "name": "ticket-voucher", "subject": "ticket voucher loot with blank parchment strip and gold trim" },
+        { "name": "merchant-token", "subject": "merchant token loot with brass coin and tiny scale icon shape" },
+        { "name": "star-shard", "subject": "star shard loot with golden star crystal and glow particles" },
+        { "name": "ancient-coin", "subject": "ancient coin loot with green patina and embossed symbol shape" },
+        { "name": "loot-sack", "subject": "loot sack pickup with tied canvas bag and small coins spilling" }
+      ]
+    },
+    {
+      "slug": "farming-crops",
+      "assetFolder": "resources",
+      "singular": "farming-crop",
+      "title": "Farming Crops",
+      "feedTag": "Farming",
+      "linkLabel": "View farming crop PNG assets",
+      "aspect": "square",
+      "promptTail": "Single farming crop or harvestable plant asset, centered readable plant silhouette, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "carrot-cluster", "subject": "carrot cluster crop with orange roots and leafy green tops" },
+        { "name": "pumpkin-vine", "subject": "pumpkin vine crop with round orange pumpkin and curling leaves" },
+        { "name": "wheat-bundle", "subject": "wheat bundle crop with tied golden stalks and grain heads" },
+        { "name": "blueberry-bush", "subject": "blueberry bush crop with dark blue berries and green leaves" },
+        { "name": "glow-mushroom-bed", "subject": "glow mushroom bed crop with small cyan caps and soft light" },
+        { "name": "rice-paddy-tuft", "subject": "rice paddy tuft crop with green stalks and shallow water base" },
+        { "name": "spice-pepper-plant", "subject": "spice pepper plant crop with red peppers and dark soil" },
+        { "name": "cotton-flower", "subject": "cotton flower crop with white puffs and brown stems" },
+        { "name": "moon-melon", "subject": "moon melon crop with pale green melon and crescent leaf shape" }
+      ]
+    },
+    {
+      "slug": "vehicles-mounts",
+      "assetFolder": "vehicles",
+      "singular": "vehicle-mount",
+      "title": "Vehicles and Mounts",
+      "feedTag": "Vehicle",
+      "linkLabel": "View vehicle and mount PNG assets",
+      "aspect": "square",
+      "promptTail": "Single small vehicle or mount-like rideable object for a 2D game, centered readable side-view silhouette, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "merchant-cart", "subject": "merchant cart vehicle with wooden wheels, covered canopy, and tied crates" },
+        { "name": "minecart", "subject": "minecart vehicle with metal bucket, rails hint, and ore chunks" },
+        { "name": "rowboat", "subject": "small rowboat vehicle with oars, rope, and blue trim" },
+        { "name": "sky-skiff", "subject": "sky skiff vehicle with small sail, brass fins, and floating crystal" },
+        { "name": "hover-bike", "subject": "hover bike vehicle with cyan glow strips and compact seat" },
+        { "name": "snow-sled", "subject": "snow sled vehicle with curved runners, fur blanket, and rope" },
+        { "name": "desert-sandboard", "subject": "desert sandboard vehicle with carved wood and cloth straps" },
+        { "name": "clockwork-cart", "subject": "clockwork cart vehicle with brass gears, spring wheels, and small chimney" },
+        { "name": "coral-seahorse-sled", "subject": "coral seahorse sled vehicle with shell fins and sea-green harness" }
+      ]
+    },
+    {
+      "slug": "map-markers",
+      "assetFolder": "icons",
+      "singular": "map-marker",
+      "title": "Map Markers",
+      "feedTag": "Map",
+      "linkLabel": "View map marker PNG assets",
+      "aspect": "square",
+      "promptTail": "Single map marker icon for a game map UI, centered readable symbol, no letters, no numbers, no watermark.",
+      "assets": [
+        { "name": "town-marker", "subject": "town map marker icon with tiny house silhouette and warm roof" },
+        { "name": "dungeon-marker", "subject": "dungeon map marker icon with dark doorway and stone arch" },
+        { "name": "shop-marker", "subject": "shop map marker icon with small awning shape and coin symbol" },
+        { "name": "quest-marker", "subject": "quest map marker icon with golden diamond and sparkle point" },
+        { "name": "boss-marker", "subject": "boss map marker icon with red horned helmet silhouette" },
+        { "name": "camp-marker", "subject": "camp map marker icon with tent and campfire shape" },
+        { "name": "resource-marker", "subject": "resource map marker icon with pickaxe and crystal shape" },
+        { "name": "harbor-marker", "subject": "harbor map marker icon with anchor and wave shape" },
+        { "name": "portal-marker", "subject": "portal map marker icon with blue oval ring and stone base" }
+      ]
+    },
+    {
+      "slug": "dialogue-portraits",
+      "assetFolder": "portraits",
+      "singular": "dialogue-portrait",
+      "title": "Dialogue Portraits",
+      "feedTag": "Portrait",
+      "linkLabel": "View dialogue portrait PNG assets",
+      "aspect": "square",
+      "promptTail": "Single square dialogue portrait bust for a 2D pixel RPG, expressive head and shoulders, centered portrait, plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "village-blacksmith", "subject": "friendly village blacksmith portrait with soot marks, red scarf, and broad smile" },
+        { "name": "forest-ranger", "subject": "calm forest ranger portrait with green hood, feather charm, and focused eyes" },
+        { "name": "arcane-scholar", "subject": "arcane scholar portrait with round glasses, violet robe, and curious expression" },
+        { "name": "harbor-captain", "subject": "harbor captain portrait with blue coat, weathered hat, and confident grin" },
+        { "name": "desert-trader", "subject": "desert trader portrait with tan scarf, gold earrings, and warm eyes" },
+        { "name": "frost-guard", "subject": "frost guard portrait with fur collar, silver helm, and stern expression" },
+        { "name": "festival-baker", "subject": "festival baker portrait with flour dust, apron, and cheerful face" },
+        { "name": "clockwork-inventor", "subject": "clockwork inventor portrait with brass goggles, messy hair, and excited smile" },
+        { "name": "temple-oracle", "subject": "temple oracle portrait with white veil, teal jewelry, and serene expression" }
+      ]
+    }
+  ]
+}

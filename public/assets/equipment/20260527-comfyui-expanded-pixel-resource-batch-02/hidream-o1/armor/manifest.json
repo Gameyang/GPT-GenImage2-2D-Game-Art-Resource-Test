@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-armor",
+    "workflow":  "hidream_o1",
+    "category":  "armor",
+    "publicDir":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "leather-vest",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, leather vest armor with stitched seams and bronze buckles. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-01-leather-vest-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-01-leather-vest-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "iron-breastplate",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, iron breastplate armor with shoulder plates and blue cloth trim. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-02-iron-breastplate-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-02-iron-breastplate-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "ranger-hood",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ranger hood armor piece with green fabric and feather charm. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-03-ranger-hood-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-03-ranger-hood-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "mage-robe",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, mage robe armor with violet folds, star clasp, and gold hem. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-04-mage-robe-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-04-mage-robe-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "frost-gauntlets",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, frost gauntlets with icy blue knuckles and silver cuffs. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-05-frost-gauntlets-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-05-frost-gauntlets-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "sun-helmet",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, sun helmet with gold crest, red plume, and polished visor. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-06-sun-helmet-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-06-sun-helmet-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "shadow-boots",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, shadow boots with dark leather, silver buckles, and soft sole. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-07-shadow-boots-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-07-shadow-boots-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "coral-pauldron",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, coral pauldron armor with shell plates and sea-green bands. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-08-coral-pauldron-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-08-coral-pauldron-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "armor",
+                       "name":  "clockwork-chestgear",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, clockwork chestgear with brass plates, tiny pressure gauges, and straps. Single armor equipment icon or wearable piece, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-09-clockwork-chestgear-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/armor/pixel-armor-09-clockwork-chestgear-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

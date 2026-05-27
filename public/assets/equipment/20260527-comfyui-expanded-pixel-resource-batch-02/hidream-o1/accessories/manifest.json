@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-accessories",
+    "workflow":  "hidream_o1",
+    "category":  "accessories",
+    "publicDir":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "ruby-ring",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ruby ring accessory with gold band and bright red gem. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-01-ruby-ring-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-01-ruby-ring-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "silver-amulet",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, silver amulet accessory with crescent charm and blue bead. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-02-silver-amulet-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-02-silver-amulet-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "travelers-brooch",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, traveler brooch accessory shaped like a compass star. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-03-travelers-brooch-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-03-travelers-brooch-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "lucky-feather",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, lucky feather accessory with teal plume and tiny gold clasp. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-04-lucky-feather-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-04-lucky-feather-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "mana-earring",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, mana earring accessory with dangling purple crystal. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-05-mana-earring-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-05-mana-earring-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "merchant-belt",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, merchant belt accessory with coin pouch and brass buckle. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-06-merchant-belt-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-06-merchant-belt-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "guardian-charm",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, guardian charm accessory with small shield token and blue ribbon. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-07-guardian-charm-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-07-guardian-charm-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "clockwork-pin",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, clockwork pin accessory with tiny gear and copper needle. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-08-clockwork-pin-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-08-clockwork-pin-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "accessories",
+                       "name":  "shell-necklace",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, shell necklace accessory with pearl bead and sea cord. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-09-shell-necklace-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/accessories/pixel-accessory-09-shell-necklace-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

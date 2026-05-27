@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-qwen-image-quest-objects",
+    "workflow":  "qwen_image",
+    "category":  "quest-objects",
+    "publicDir":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "sealed-letter",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, sealed letter quest object with red wax seal and ribbon. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-01-sealed-letter-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-01-sealed-letter-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "ancient-map-fragment",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ancient map fragment quest object with torn parchment and route marks without readable text. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-02-ancient-map-fragment-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-02-ancient-map-fragment-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "royal-medallion",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, royal medallion quest object with gold crest shape and blue ribbon. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-03-royal-medallion-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-03-royal-medallion-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "lost-compass",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, lost compass quest object with bronze case and blue needle. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-04-lost-compass-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-04-lost-compass-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "dragon-scale",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, large dragon scale quest object with emerald sheen and chipped edge. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-05-dragon-scale-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-05-dragon-scale-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "memory-crystal",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, memory crystal quest object with violet glow and small pedestal. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-06-memory-crystal-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-06-memory-crystal-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "broken-crown",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, broken crown quest object with missing gem and bent gold points. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-07-broken-crown-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-07-broken-crown-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "sacred-bell",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, sacred bell quest object with silver body and teal cord. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-08-sacred-bell-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-08-sacred-bell-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "quest-objects",
+                       "name":  "clockwork-heart",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, clockwork heart quest object with brass shell and tiny gears. Single important quest object prop, centered collectible silhouette, transparent-friendly plain light preview background, no readable text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-09-clockwork-heart-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/quest-objects/pixel-quest-object-09-clockwork-heart-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

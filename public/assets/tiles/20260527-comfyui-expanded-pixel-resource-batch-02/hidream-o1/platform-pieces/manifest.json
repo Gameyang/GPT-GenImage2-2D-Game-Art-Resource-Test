@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-platform-pieces",
+    "workflow":  "hidream_o1",
+    "category":  "platform-pieces",
+    "publicDir":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "grass-cliff-ledge",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, grass cliff ledge with dirt underside, roots, and small stones. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-01-grass-cliff-ledge-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-01-grass-cliff-ledge-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "brick-dungeon-step",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, brick dungeon step platform with chipped blocks and moss. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-02-brick-dungeon-step-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-02-brick-dungeon-step-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "ice-floating-slab",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, floating ice slab platform with frosty underside and blue highlights. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-03-ice-floating-slab-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-03-ice-floating-slab-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "lava-chain-bridge",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, short lava chain bridge platform with dark metal and hot rivets. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-04-lava-chain-bridge-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-04-lava-chain-bridge-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "cloud-soft-platform",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, soft cloud platform with golden rim and small sparkle edges. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-05-cloud-soft-platform-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-05-cloud-soft-platform-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "tree-branch-platform",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, wide tree branch platform with leaves and bark texture. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-06-tree-branch-platform-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-06-tree-branch-platform-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "factory-conveyor-platform",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, factory conveyor platform with rollers and hazard stripe trim. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-07-factory-conveyor-platform-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-07-factory-conveyor-platform-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "ruin-floating-stone",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, floating ancient stone platform with carved glyph marks and vines. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-08-ruin-floating-stone-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-08-ruin-floating-stone-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "platform-pieces",
+                       "name":  "coral-reef-platform",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, underwater coral reef platform with shells and sea plants. Single 2D side-view platform piece for a pixel platformer, clean collision-friendly silhouette, centered asset, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-09-coral-reef-platform-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/platform-pieces/pixel-platform-piece-09-coral-reef-platform-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-terrain-tiles",
+    "workflow":  "hidream_o1",
+    "category":  "terrain-tiles",
+    "publicDir":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "grass-dirt-corner",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, grass and dirt corner tile with small stones and root pixels. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-01-grass-dirt-corner-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-01-grass-dirt-corner-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "mossy-stone-floor",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, mossy stone dungeon floor tile with cracked square slabs. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-02-mossy-stone-floor-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-02-mossy-stone-floor-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "snowy-rock-ground",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, snowy rock ground tile with icy blue shadows and frost trim. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-03-snowy-rock-ground-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-03-snowy-rock-ground-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "desert-sand-ripple",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, desert sand ripple tile with tiny pebbles and warm dune bands. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-04-desert-sand-ripple-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-04-desert-sand-ripple-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "swamp-mud-pool",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, swamp mud pool tile with green water puddles and reed bits. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-05-swamp-mud-pool-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-05-swamp-mud-pool-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "lava-cracked-basalt",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, cracked basalt tile with glowing lava seams and ember flecks. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-06-lava-cracked-basalt-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-06-lava-cracked-basalt-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "crystal-cave-floor",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, crystal cave floor tile with violet shards and dark stone. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-07-crystal-cave-floor-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-07-crystal-cave-floor-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "wooden-plank-floor",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, wooden plank floor tile with nails, knots, and worn edges. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-08-wooden-plank-floor-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-08-wooden-plank-floor-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "terrain-tiles",
+                       "name":  "neon-metal-panel",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, cyber metal floor tile with cyan circuit lines and dark panels. Single seamless terrain tile resource for a 2D pixel game, centered square tile, crisp repeatable edges, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/tiles/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-09-neon-metal-panel-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/terrain-tiles/pixel-terrain-tile-09-neon-metal-panel-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

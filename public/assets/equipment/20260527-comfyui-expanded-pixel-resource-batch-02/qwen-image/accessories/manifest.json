@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-qwen-image-accessories",
+    "workflow":  "qwen_image",
+    "category":  "accessories",
+    "publicDir":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "ruby-ring",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ruby ring accessory with gold band and bright red gem. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-01-ruby-ring-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-01-ruby-ring-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "silver-amulet",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, silver amulet accessory with crescent charm and blue bead. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-02-silver-amulet-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-02-silver-amulet-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "travelers-brooch",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, traveler brooch accessory shaped like a compass star. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-03-travelers-brooch-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-03-travelers-brooch-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "lucky-feather",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, lucky feather accessory with teal plume and tiny gold clasp. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-04-lucky-feather-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-04-lucky-feather-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "mana-earring",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, mana earring accessory with dangling purple crystal. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-05-mana-earring-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-05-mana-earring-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "merchant-belt",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, merchant belt accessory with coin pouch and brass buckle. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-06-merchant-belt-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-06-merchant-belt-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "guardian-charm",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, guardian charm accessory with small shield token and blue ribbon. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-07-guardian-charm-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-07-guardian-charm-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "clockwork-pin",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, clockwork pin accessory with tiny gear and copper needle. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-08-clockwork-pin-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-08-clockwork-pin-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "accessories",
+                       "name":  "shell-necklace",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, shell necklace accessory with pearl bead and sea cord. Single accessory equipment icon, centered object, readable at small size, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/equipment/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-09-shell-necklace-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/accessories/pixel-accessory-09-shell-necklace-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

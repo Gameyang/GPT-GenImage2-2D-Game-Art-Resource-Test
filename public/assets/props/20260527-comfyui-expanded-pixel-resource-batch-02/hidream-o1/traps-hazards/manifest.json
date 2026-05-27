@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-traps-hazards",
+    "workflow":  "hidream_o1",
+    "category":  "traps-hazards",
+    "publicDir":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "floor-spike-trap",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, floor spike trap with metal spikes emerging from cracked stone plate. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-01-floor-spike-trap-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-01-floor-spike-trap-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "swinging-axe-trap",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, small swinging axe trap with chain, crescent blade, and wall mount. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-02-swinging-axe-trap-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-02-swinging-axe-trap-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "poison-gas-vent",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, poison gas vent tile with green vapor cloud and bronze grate. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-03-poison-gas-vent-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-03-poison-gas-vent-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "flame-jet-nozzle",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, flame jet nozzle with orange fire burst and dark pipe base. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-04-flame-jet-nozzle-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-04-flame-jet-nozzle-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "rolling-boulder-marker",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, rolling boulder hazard marker with round stone and dust trail. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-05-rolling-boulder-marker-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-05-rolling-boulder-marker-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "electric-floor-panel",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, electric floor panel with yellow arcs and metal square frame. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-06-electric-floor-panel-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-06-electric-floor-panel-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "falling-icicle",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, falling icicle hazard cluster with blue shards and impact sparkle. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-07-falling-icicle-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-07-falling-icicle-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "acid-puddle",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, acid puddle hazard with bright green surface and bubbling edge. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-08-acid-puddle-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-08-acid-puddle-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "traps-hazards",
+                       "name":  "thorn-vine-snare",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, thorn vine snare trap with twisted green vines and sharp thorns. Single game trap or environmental hazard prop, readable top-down or side-view silhouette, centered asset, transparent-friendly plain light preview background, no text, no gore. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/props/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-09-thorn-vine-snare-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/hidream-o1/traps-hazards/pixel-trap-hazard-09-thorn-vine-snare-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

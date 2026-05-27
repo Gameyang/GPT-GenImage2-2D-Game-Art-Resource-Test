@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-qwen-image-skill-icons",
+    "workflow":  "qwen_image",
+    "category":  "skill-icons",
+    "publicDir":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "fireball-cast",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, fireball cast skill icon with orange orb and curved flame trail. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-01-fireball-cast-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-01-fireball-cast-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "ice-shield",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ice shield skill icon with blue shield shape and frost shards. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-02-ice-shield-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-02-ice-shield-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "thunder-strike",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, thunder strike skill icon with yellow lightning bolt and dark cloud. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-03-thunder-strike-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-03-thunder-strike-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "healing-leaf",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, healing leaf skill icon with green leaf and soft golden plus-shaped glow without text. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-04-healing-leaf-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-04-healing-leaf-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "shadow-dash",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, shadow dash skill icon with dark silhouette streak and purple blur. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-05-shadow-dash-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-05-shadow-dash-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "sword-flurry",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, sword flurry skill icon with crossed slash arcs and steel shine. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-06-sword-flurry-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-06-sword-flurry-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "summon-crystal",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, summon crystal skill icon with violet prism and circular magic glow. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-07-summon-crystal-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-07-summon-crystal-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "guard-stance",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, guard stance skill icon with shield and upward blue aura. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-08-guard-stance-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-08-guard-stance-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "skill-icons",
+                       "name":  "poison-cloud",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, poison cloud skill icon with green vapor swirl and droplet shapes. Single square skill icon symbol for a game UI, centered readable pictogram, no letters, no numbers, no watermark. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/icons/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-09-poison-cloud-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/skill-icons/pixel-skill-icon-09-poison-cloud-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

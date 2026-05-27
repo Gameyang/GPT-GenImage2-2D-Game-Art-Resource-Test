@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T19:16:05",
+    "taskId":  "20260527-comfyui-expanded-pixel-resource-batch-02",
+    "packId":  "20260527-comfyui-expanded-pixel-resource-batch-02-qwen-image-resource-nodes",
+    "workflow":  "qwen_image",
+    "category":  "resource-nodes",
+    "publicDir":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "iron-ore-vein",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, iron ore vein in dark rock with silver flecks and cracked stone. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-01-iron-ore-vein-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-01-iron-ore-vein-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "copper-ore-vein",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, copper ore vein with orange metal streaks and rough stone base. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-02-copper-ore-vein-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-02-copper-ore-vein-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "mana-crystal-node",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, mana crystal node with teal and purple shards emerging from rock. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-03-mana-crystal-node-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-03-mana-crystal-node-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "ancient-root-clump",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ancient root clump with glowing amber sap and moss. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-04-ancient-root-clump-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-04-ancient-root-clump-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "herb-bush-node",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, herb bush resource node with layered green leaves and small blue flowers. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-05-herb-bush-node-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-05-herb-bush-node-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "mushroom-patch",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, mushroom patch with red caps, small spores, and dark soil. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-06-mushroom-patch-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-06-mushroom-patch-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "shell-coral-node",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, shell coral node with pink coral branches and pearl shell. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-07-shell-coral-node-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-07-shell-coral-node-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "snowberry-shrub",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, snowberry shrub with white berries and frosty leaves. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-08-snowberry-shrub-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-08-snowberry-shrub-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "resource-nodes",
+                       "name":  "scrap-metal-pile",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, scrap metal pile with gears, plates, bolts, and copper wire. Single harvestable resource node for a crafting game, centered environmental pickup prop, transparent-friendly plain light preview background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/resources/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-09-scrap-metal-pile-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-expanded-pixel-resource-batch-02/qwen-image/resource-nodes/pixel-resource-node-09-scrap-metal-pile-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}
