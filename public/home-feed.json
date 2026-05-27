@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-078",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 078",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-078/pixel-scene-fc-hd2d-053-a-bullet-pattern-duel-against-a-crystal-mo-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 053: FC HD-2D Scene 053"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-078/pixel-scene-fc-hd2d-054-a-mech-launch-bay-where-an-original-compac-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 054: FC HD-2D Scene 054"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-078/pixel-scene-fc-hd2d-055-an-underwater-submarine-duel-among-ruins-w-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 055: FC HD-2D Scene 055"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-078/pixel-scene-fc-hd2d-056-a-scrolling-desert-convoy-attack-with-hove-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 056: FC HD-2D Scene 056"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-078",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-077",
                       "date":  "2026-05-28",
                       "type":  "gallery",
