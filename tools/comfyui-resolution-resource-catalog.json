@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "taskId": "20260527-comfyui-weapon-shop-ui-resolution-batch-01",
+  "categories": [
+    {
+      "slug": "weapons",
+      "assetFolder": "equipment",
+      "singular": "weapon",
+      "title": "Weapons",
+      "feedTag": "Weapon",
+      "linkLabel": "View weapon PNG assets",
+      "aspect": "square",
+      "promptTail": "Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for 64x64 and 128x128 downscaling, transparent-friendly plain light preview background, no text, no UI frame.",
+      "assets": [
+        { "name": "iron-longsword", "subject": "iron longsword with simple crossguard, leather grip, and bright edge highlight" },
+        { "name": "crescent-axe", "subject": "crescent battle axe with red tassel, steel blade, and dark wood handle" },
+        { "name": "oak-shortbow", "subject": "oak shortbow with green wrap, simple string, and compact arrow bundle" },
+        { "name": "crystal-dagger", "subject": "crystal dagger with purple blade, silver handle, and tiny glow facets" },
+        { "name": "storm-hammer", "subject": "storm hammer with square head, blue rune glow, and wrapped grip" },
+        { "name": "sun-spear", "subject": "sun spear with gold leaf blade, red ribbon, and slim shaft" },
+        { "name": "pirate-cutlass", "subject": "pirate cutlass with brass guard, curved weathered blade, and blue cloth wrap" },
+        { "name": "arcane-orb-staff", "subject": "arcane orb staff with floating blue sphere, carved wood shaft, and silver prongs" },
+        { "name": "clockwork-crossbow", "subject": "clockwork crossbow with brass gear limbs, dark wooden stock, and compact bolt" }
+      ]
+    },
+    {
+      "slug": "shop-ui",
+      "assetFolder": "ui",
+      "singular": "shop-ui",
+      "title": "Game Shop UI",
+      "feedTag": "Shop UI",
+      "linkLabel": "View game shop UI PNG assets",
+      "aspect": "square",
+      "promptTail": "Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark.",
+      "assets": [
+        { "name": "adventurer-general-store", "subject": "adventurer general store UI with parchment window, item grid, coin pouch icon, and simple buy slot shapes" },
+        { "name": "blacksmith-weapon-shop", "subject": "blacksmith weapon shop UI with dark iron frame, sword slot icons, coin placeholders, and warm forge trim" },
+        { "name": "alchemist-potion-shop", "subject": "alchemist potion shop UI with green glass frame, bottle item slots, ingredient tray, and round coin icons" },
+        { "name": "forest-ranger-supply-shop", "subject": "forest ranger supply shop UI with green cloth panels, arrow slot icons, herb pouch icons, and wood trim" },
+        { "name": "frost-armory-shop", "subject": "frost armory shop UI with icy blue frame, armor slot shapes, crystal coin placeholders, and snowflake accents" },
+        { "name": "pirate-cargo-shop", "subject": "pirate cargo shop UI with wood plank panels, rope border, treasure item slots, and gold coin icons" },
+        { "name": "arcane-relic-shop", "subject": "arcane relic shop UI with violet frame, floating gem slots, magic item shelf shapes, and glowing coin placeholders" },
+        { "name": "neon-tech-market", "subject": "neon tech market UI with dark panels, cyan slot highlights, gadget item shapes, and clean segmented controls without text" },
+        { "name": "festival-food-stall-shop", "subject": "festival food stall shop UI with warm striped canopy frame, food item slots, token icons, and bright friendly colors" }
+      ]
+    }
+  ]
+}

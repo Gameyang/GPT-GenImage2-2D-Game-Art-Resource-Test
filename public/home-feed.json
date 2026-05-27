@@ -15,6 +15,258 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260527-comfyui-weapon-shop-ui-resolution-batch-01-128x128-shop-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "128x128 Pixel Art Game Shop UI Set 01",
+                      "text":  "Nine original public-safe 128x128 pixel art game shop ui generated through local ComfyUI and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: adventurer general store"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: blacksmith weapon shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: alchemist potion shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: forest ranger supply shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: frost armory shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: pirate cargo shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: arcane relic shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-08-neon-tech-market-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: neon tech market"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art shop-ui asset: festival food stall shop"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/shop-ui",
+                      "linkLabel":  "View game shop UI PNG assets",
+                      "tags":  [
+                                   "Shop UI",
+                                   "128x128",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-weapon-shop-ui-resolution-batch-01-64x64-shop-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "64x64 Pixel Art Game Shop UI Set 01",
+                      "text":  "Nine original public-safe 64x64 pixel art game shop ui generated through local ComfyUI and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-01-adventurer-general-store-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: adventurer general store"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: blacksmith weapon shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: alchemist potion shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: forest ranger supply shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-05-frost-armory-shop-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: frost armory shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: pirate cargo shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-07-arcane-relic-shop-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: arcane relic shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-08-neon-tech-market-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: neon tech market"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art shop-ui asset: festival food stall shop"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui",
+                      "linkLabel":  "View game shop UI PNG assets",
+                      "tags":  [
+                                   "Shop UI",
+                                   "64x64",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-weapon-shop-ui-resolution-batch-01-128x128-weapons",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "128x128 Pixel Art Weapons Set 01",
+                      "text":  "Nine original public-safe 128x128 pixel art weapons generated through local ComfyUI and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-01-iron-longsword-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: iron longsword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-02-crescent-axe-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: crescent axe"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-03-oak-shortbow-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: oak shortbow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-04-crystal-dagger-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: crystal dagger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-05-storm-hammer-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: storm hammer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-06-sun-spear-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: sun spear"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-07-pirate-cutlass-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: pirate cutlass"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-08-arcane-orb-staff-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: arcane orb staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons/pixel-weapon-09-clockwork-crossbow-128x128-z-image-feed.webp",
+                                        "alt":  "128x128 Z-Image pixel art weapon asset: clockwork crossbow"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/equipment/20260527-comfyui-weapon-shop-ui-resolution-batch-01/128x128/weapons",
+                      "linkLabel":  "View weapon PNG assets",
+                      "tags":  [
+                                   "Weapon",
+                                   "128x128",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-weapon-shop-ui-resolution-batch-01-64x64-weapons",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "64x64 Pixel Art Weapons Set 01",
+                      "text":  "Nine original public-safe 64x64 pixel art weapons generated through local ComfyUI and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-01-iron-longsword-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: iron longsword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-02-crescent-axe-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: crescent axe"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-03-oak-shortbow-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: oak shortbow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-04-crystal-dagger-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: crystal dagger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-05-storm-hammer-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: storm hammer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-06-sun-spear-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: sun spear"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-07-pirate-cutlass-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: pirate cutlass"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-08-arcane-orb-staff-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: arcane orb staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons/pixel-weapon-09-clockwork-crossbow-64x64-z-image-feed.webp",
+                                        "alt":  "64x64 Z-Image pixel art weapon asset: clockwork crossbow"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/equipment/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/weapons",
+                      "linkLabel":  "View weapon PNG assets",
+                      "tags":  [
+                                   "Weapon",
+                                   "64x64",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260527-comfyui-expanded-pixel-resource-batch-02-hidream-o1-quest-objects",
                       "date":  "2026-05-27",
                       "type":  "gallery",

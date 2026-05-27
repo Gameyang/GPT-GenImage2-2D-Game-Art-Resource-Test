@@ -1,0 +1,123 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T23:12:42",
+    "taskId":  "20260527-comfyui-weapon-shop-ui-resolution-batch-01",
+    "packId":  "20260527-comfyui-weapon-shop-ui-resolution-batch-01-64x64-shop-ui",
+    "workflow":  "pokemon",
+    "workflowTitle":  "Z-Image",
+    "category":  "shop-ui",
+    "resolution":  "64x64",
+    "sourceSize":  "512x512",
+    "publicDir":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "adventurer-general-store",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, adventurer general store UI with parchment window, item grid, coin pouch icon, and simple buy slot shapes. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-01-adventurer-general-store-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-01-adventurer-general-store-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "blacksmith-weapon-shop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, blacksmith weapon shop UI with dark iron frame, sword slot icons, coin placeholders, and warm forge trim. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "alchemist-potion-shop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, alchemist potion shop UI with green glass frame, bottle item slots, ingredient tray, and round coin icons. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "forest-ranger-supply-shop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, forest ranger supply shop UI with green cloth panels, arrow slot icons, herb pouch icons, and wood trim. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "frost-armory-shop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, frost armory shop UI with icy blue frame, armor slot shapes, crystal coin placeholders, and snowflake accents. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-05-frost-armory-shop-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-05-frost-armory-shop-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "pirate-cargo-shop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, pirate cargo shop UI with wood plank panels, rope border, treasure item slots, and gold coin icons. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "arcane-relic-shop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, arcane relic shop UI with violet frame, floating gem slots, magic item shelf shapes, and glowing coin placeholders. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-07-arcane-relic-shop-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-07-arcane-relic-shop-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "neon-tech-market",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, neon tech market UI with dark panels, cyan slot highlights, gadget item shapes, and clean segmented controls without text. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-08-neon-tech-market-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-08-neon-tech-market-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "shop-ui",
+                       "name":  "festival-food-stall-shop",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, festival food stall shop UI with warm striped canopy frame, food item slots, token icons, and bright friendly colors. Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 64x64 and 128x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                       "sourceSize":  512,
+                       "resolution":  64,
+                       "publicAsset":  "public/assets/ui/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-64x64-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-weapon-shop-ui-resolution-batch-01/64x64/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-64x64-z-image-feed.webp",
+                       "status":  "generated",
+                       "error":  null
+                   }
+               ]
+}
