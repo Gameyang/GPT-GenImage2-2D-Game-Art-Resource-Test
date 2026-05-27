@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-087",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 087",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-087/pixel-scene-fc-hd2d-073-a-marble-maze-viewed-as-an-hd-2d-tabletop-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 073: FC HD-2D Scene 073"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-087/pixel-scene-fc-hd2d-074-a-clockwork-bomb-defusing-factory-with-rou-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 074: FC HD-2D Scene 074"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-087/pixel-scene-fc-hd2d-075-an-elemental-matching-shrine-where-tiles-o-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 075: FC HD-2D Scene 075"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-087/pixel-scene-fc-hd2d-076-a-magical-book-puzzle-room-with-floating-p-v02-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 076: FC HD-2D Scene 076"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-087",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-086",
                       "date":  "2026-05-28",
                       "type":  "gallery",
