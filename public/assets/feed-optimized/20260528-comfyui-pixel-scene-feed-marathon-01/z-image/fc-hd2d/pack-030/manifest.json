@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T02:22:31",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-030",
+    "packNumber":  30,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-030",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "057",
+                       "title":  "FC HD-2D Scene 057",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A space station core assault, with rotating rings, glass walkways, bright power conduits, and a tiny fighter near the center., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "ff92a21b-ee6c-488e-912e-eebf53cf90d3",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-030/pixel-scene-fc-hd2d-057-a-space-station-core-assault-with-rotating-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-030/pixel-scene-fc-hd2d-057-a-space-station-core-assault-with-rotating-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  57240
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "058",
+                       "title":  "FC HD-2D Scene 058",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A bio-organic planet surface shooter scene with fleshy terrain abstracted into original forms, glowing spores, and alien rain., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "ff569549-7def-4fb7-a605-a8c4433674e0",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-030/pixel-scene-fc-hd2d-058-a-bio-organic-planet-surface-shooter-scene-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-030/pixel-scene-fc-hd2d-058-a-bio-organic-planet-surface-shooter-scene-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  23822
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "059",
+                       "title":  "FC HD-2D Scene 059",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A moon city defense scene with domes, laser beams, crater dust, and tiny ships weaving around a central tower., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "bfef81d6-b420-4878-bc5d-1bd394a5fcfb",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-030/pixel-scene-fc-hd2d-059-a-moon-city-defense-scene-with-domes-laser-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-030/pixel-scene-fc-hd2d-059-a-moon-city-defense-scene-with-domes-laser-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  31706
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "060",
+                       "title":  "FC HD-2D Scene 060",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A warp gate activation scene where a small ship enters a huge ring of pixel light, with star trails and layered nebula clouds., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "5a17c323-efa3-40c6-952c-4a3edd5e9a28",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-030/pixel-scene-fc-hd2d-060-a-warp-gate-activation-scene-where-a-small-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-030/pixel-scene-fc-hd2d-060-a-warp-gate-activation-scene-where-a-small-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  37450
+                                }
+                   }
+               ]
+}
