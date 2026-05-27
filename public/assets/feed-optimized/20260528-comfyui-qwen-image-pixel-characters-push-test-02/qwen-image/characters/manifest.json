@@ -1,0 +1,73 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T00:16:37",
+    "taskId":  "20260528-comfyui-qwen-image-pixel-characters-push-test-02",
+    "packId":  "20260528-comfyui-qwen-image-pixel-characters-push-test-02-qwen-image-characters",
+    "workflow":  "qwen_image",
+    "category":  "characters",
+    "publicDir":  null,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-02/qwen-image/characters",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "sunblade-knight",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, heroic sunblade knight with bronze armor, red scarf, short sword, compact shield. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  null,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-02/qwen-image/characters/pixel-character-01-sunblade-knight-qwen-image-feed.webp",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-qwen-image-pixel-characters-push-test-02-qwen-image-characters/pixel-character-01-sunblade-knight-qwen-image_00003_.png",
+                       "publicPngDeleted":  true,
+                       "rawPngDeleted":  true,
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "moonlit-ranger",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, moonlit forest ranger with green cloak, short bow, leather quiver, calm stance. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  null,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-02/qwen-image/characters/pixel-character-02-moonlit-ranger-qwen-image-feed.webp",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-qwen-image-pixel-characters-push-test-02-qwen-image-characters/pixel-character-02-moonlit-ranger-qwen-image_00003_.png",
+                       "publicPngDeleted":  true,
+                       "rawPngDeleted":  true,
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "ember-apprentice-mage",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ember apprentice mage with orange robe, tiny flame familiar, wooden staff. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  null,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-02/qwen-image/characters/pixel-character-03-ember-apprentice-mage-qwen-image-feed.webp",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-qwen-image-pixel-characters-push-test-02-qwen-image-characters/pixel-character-03-ember-apprentice-mage-qwen-image_00003_.png",
+                       "publicPngDeleted":  true,
+                       "rawPngDeleted":  true,
+                       "status":  "generated",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "clockwork-tinkerer",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, clockwork tinkerer engineer with brass goggles, tool belt, small backpack device. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  null,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-02/qwen-image/characters/pixel-character-04-clockwork-tinkerer-qwen-image-feed.webp",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-qwen-image-pixel-characters-push-test-02-qwen-image-characters/pixel-character-04-clockwork-tinkerer-qwen-image_00003_.png",
+                       "publicPngDeleted":  true,
+                       "rawPngDeleted":  true,
+                       "status":  "generated",
+                       "error":  null
+                   }
+               ]
+}
