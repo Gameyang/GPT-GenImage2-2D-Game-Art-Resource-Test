@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T01:45:35",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-019",
+    "packNumber":  19,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-019",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "037",
+                       "title":  "FC HD-2D Scene 037",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "An abandoned moon base research hall with low gravity debris, flickering panels without readable text, and a distant alien sunrise., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "7e90f435-f74b-4143-ba9e-d5b2fb32d0dd",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-019/pixel-scene-fc-hd2d-037-an-abandoned-moon-base-research-hall-with-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-019/pixel-scene-fc-hd2d-037-an-abandoned-moon-base-research-hall-with-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  96316
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "038",
+                       "title":  "FC HD-2D Scene 038",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A gravity-flipped hallway where the explorer runs across the ceiling while crates, sparks, and droplets float in midair., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "6a0fbe7a-57f7-4392-80bf-f675a61af01e",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-019/pixel-scene-fc-hd2d-038-a-gravity-flipped-hallway-where-the-explor-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-019/pixel-scene-fc-hd2d-038-a-gravity-flipped-hallway-where-the-explor-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  69648
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "039",
+                       "title":  "FC HD-2D Scene 039",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A magma core control room with spinning turbines, heat haze, basalt platforms, and a hero about to disable the reactor., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "2ec40f5e-24d8-4fa9-8ba7-efd44c5798b5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-019/pixel-scene-fc-hd2d-039-a-magma-core-control-room-with-spinning-tu-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-019/pixel-scene-fc-hd2d-039-a-magma-core-control-room-with-spinning-tu-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  92744
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "040",
+                       "title":  "FC HD-2D Scene 040",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A sunrise surface scene after escape, with the explorer watching a ruined underground door collapse behind them in golden light., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "5864df47-3d98-4dd3-a407-d10b1a725cef",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-019/pixel-scene-fc-hd2d-040-a-sunrise-surface-scene-after-escape-with-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-019/pixel-scene-fc-hd2d-040-a-sunrise-surface-scene-after-escape-with-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  84732
+                                }
+                   }
+               ]
+}
