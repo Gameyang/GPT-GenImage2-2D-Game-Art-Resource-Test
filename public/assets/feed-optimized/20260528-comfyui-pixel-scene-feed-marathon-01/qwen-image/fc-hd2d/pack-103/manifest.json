@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T06:31:23",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-103",
+    "packNumber":  103,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-103",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "005",
+                       "title":  "FC HD-2D Scene 005",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A frozen mountain slope where a scarfed hero slides past ice pillars toward a warm beacon shrine under aurora light., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "821773af-24a0-457a-be96-659e81d14f6f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-103/pixel-scene-fc-hd2d-005-a-frozen-mountain-slope-where-a-scarfed-he-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-103/pixel-scene-fc-hd2d-005-a-frozen-mountain-slope-where-a-scarfed-he-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  104280
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "006",
+                       "title":  "FC HD-2D Scene 006",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "An underground crystal cavern filled with floating gem platforms, ancient pipes, small waterfalls, and a hidden exit glowing behind a curtain of mist., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "51b5ff07-e9e8-4325-bcf2-8b6cf4dc2835",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-103/pixel-scene-fc-hd2d-006-an-underground-crystal-cavern-filled-with-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-103/pixel-scene-fc-hd2d-006-an-underground-crystal-cavern-filled-with-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  104688
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "007",
+                       "title":  "FC HD-2D Scene 007",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A stormy skyship deck battle where a small hero dodges wind, ropes, and clockwork drones while clouds roll below the hull., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "0fa2966a-517a-4e90-aa9f-a46132c94485",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-103/pixel-scene-fc-hd2d-007-a-stormy-skyship-deck-battle-where-a-small-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-103/pixel-scene-fc-hd2d-007-a-stormy-skyship-deck-battle-where-a-small-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  126814
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "008",
+                       "title":  "FC HD-2D Scene 008",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A sewer escape scene with rising water, broken ladders, glowing algae, and a brave hero sprinting toward a round exit hatch., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "c905def1-6af3-46c3-af4b-9e0d3fffe8a5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-103/pixel-scene-fc-hd2d-008-a-sewer-escape-scene-with-rising-water-bro-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-103/pixel-scene-fc-hd2d-008-a-sewer-escape-scene-with-rising-water-bro-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  97460
+                                }
+                   }
+               ]
+}
