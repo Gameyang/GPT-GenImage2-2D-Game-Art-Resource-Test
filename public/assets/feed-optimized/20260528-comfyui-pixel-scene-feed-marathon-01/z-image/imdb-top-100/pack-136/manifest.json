@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T08:23:35",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-136",
+    "packNumber":  136,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-136",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "069",
+                       "title":  "Inglourious Basterds (2009)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, old cinema interior engulfed in stylized orange light while resistance silhouettes watch from the projection booth, smoke, film reels, revenge-thriller tension, no readable marquee, no gore. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "b46a4019-ae14-4009-a4ae-e791e9692b59",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-136/pixel-scene-imdb-top-100-069-inglourious-basterds-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-136/pixel-scene-imdb-top-100-069-inglourious-basterds-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  20894
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "070",
+                       "title":  "12th Fail (2023)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, determined student studying under a streetlamp with worn books and exam papers rendered blank, crowded city night around him, humble blue and warm yellow palette, grit and hope. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "16203eae-c482-4434-b21f-fb56fb038d8d",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-136/pixel-scene-imdb-top-100-070-12th-fail-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-136/pixel-scene-imdb-top-100-070-12th-fail-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  16962
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "071",
+                       "title":  "Aliens (1986)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, armored space rescuer moving through a blue industrial corridor with a child behind them and alien brood shadows ahead, motion-sensor glow as abstract dots, no exact creature or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "5b042144-75fc-47d4-8ed3-beef799b38a1",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-136/pixel-scene-imdb-top-100-071-aliens-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-136/pixel-scene-imdb-top-100-071-aliens-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  24662
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "072",
+                       "title":  "High and Low (1963)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, modern hilltop mansion overlooking a dense city below, businessman silhouette trapped between phone, window, and moral choice, black-and-white contrast, crime-thriller tension, no readable documents. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "9ed09bd9-97ce-4145-8a58-b9fb76870be9",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-136/pixel-scene-imdb-top-100-072-high-and-low-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-136/pixel-scene-imdb-top-100-072-high-and-low-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  23560
+                                }
+                   }
+               ]
+}
