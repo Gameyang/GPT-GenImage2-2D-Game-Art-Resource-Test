@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T02:29:18",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-032",
+    "packNumber":  32,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-032",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "061",
+                       "title":  "Avengers: Endgame (2019)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, ruined cosmic battlefield with many heroic silhouettes emerging through glowing circular portals, one armored figure raising a hand against an enormous enemy army, no logos, no exact costumes, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "e35cd9fd-e603-4ae5-b2d1-7cabcb8b075c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-032/pixel-scene-imdb-top-100-061-avengers-endgame-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-032/pixel-scene-imdb-top-100-061-avengers-endgame-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  28932
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "062",
+                       "title":  "The Lives of Others (2006)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, surveillance attic filled with headphones, reel recorder, and a lonely watcher silhouette above a softly lit apartment below, muted gray-green East Berlin mood, no readable documents. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "189e32e3-c055-41b8-a710-d6740649b73a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-032/pixel-scene-imdb-top-100-062-the-lives-of-others-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-032/pixel-scene-imdb-top-100-062-the-lives-of-others-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  11554
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "063",
+                       "title":  "Spider-Man: Into the Spider-Verse (2018)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, masked teenage hero leaping upside down between neon skyscrapers, comic halftone energy translated into pixel dithering, bright magenta and cyan palette, no exact suit design, no logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "5e05f857-f72f-4c64-b3ee-70bf6895cbbd",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-032/pixel-scene-imdb-top-100-063-spider-man-into-the-spider-verse-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-032/pixel-scene-imdb-top-100-063-spider-man-into-the-spider-verse-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  69168
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "064",
+                       "title":  "Sunset Boulevard (1950)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, decaying Hollywood mansion pool at night, faded silent-film star silhouette at a balcony, noir searchlights and palm shadows, black-and-white glamour turning eerie, no readable studio signs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "edc93a1f-443e-48fc-8968-0dc68676d781",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-032/pixel-scene-imdb-top-100-064-sunset-boulevard-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-032/pixel-scene-imdb-top-100-064-sunset-boulevard-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  33786
+                                }
+                   }
+               ]
+}
