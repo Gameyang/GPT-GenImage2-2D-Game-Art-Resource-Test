@@ -10,7 +10,7 @@
       "feedTag": "Weapon",
       "linkLabel": "View weapon PNG assets",
       "aspect": "square",
-      "promptTail": "Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for 64x64 and 128x128 downscaling, transparent-friendly plain light preview background, no text, no UI frame.",
+      "promptTail": "Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame.",
       "assets": [
         { "name": "iron-longsword", "subject": "iron longsword with simple crossguard, leather grip, and bright edge highlight" },
         { "name": "crescent-axe", "subject": "crescent battle axe with red tassel, steel blade, and dark wood handle" },
@@ -31,7 +31,7 @@
       "feedTag": "Shop UI",
       "linkLabel": "View game shop UI PNG assets",
       "aspect": "square",
-      "promptTail": "Complete game shop UI panel mockup, large blocky layout readable after 64x64 and 128x128 downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark.",
+      "promptTail": "Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark.",
       "assets": [
         { "name": "adventurer-general-store", "subject": "adventurer general store UI with parchment window, item grid, coin pouch icon, and simple buy slot shapes" },
         { "name": "blacksmith-weapon-shop", "subject": "blacksmith weapon shop UI with dark iron frame, sword slot icons, coin placeholders, and warm forge trim" },
