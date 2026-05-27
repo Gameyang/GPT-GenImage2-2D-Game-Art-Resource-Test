@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-052",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 052",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-052/pixel-scene-imdb-top-100-001-the-shawshank-redemption-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 001: The Shawshank Redemption (1994)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-052/pixel-scene-imdb-top-100-002-the-godfather-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 002: The Godfather (1972)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-052/pixel-scene-imdb-top-100-003-the-dark-knight-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 003: The Dark Knight (2008)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-052/pixel-scene-imdb-top-100-004-the-godfather-part-ii-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 004: The Godfather Part II (1974)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-052",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-051",
                       "date":  "2026-05-28",
                       "type":  "gallery",
