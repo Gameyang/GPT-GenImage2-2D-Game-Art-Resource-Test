@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-131",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 131",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-131/pixel-scene-fc-hd2d-061-a-neon-back-alley-showdown-with-wet-paveme-v03-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 061: FC HD-2D Scene 061"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-131/pixel-scene-fc-hd2d-062-a-rain-soaked-dojo-courtyard-duel-with-pap-v03-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 062: FC HD-2D Scene 062"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-131/pixel-scene-fc-hd2d-063-a-dramatic-arcade-style-ring-fight-under-c-v03-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 063: FC HD-2D Scene 063"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-131/pixel-scene-fc-hd2d-064-a-harbor-warehouse-brawl-with-stacked-crat-v03-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 064: FC HD-2D Scene 064"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-131",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-130",
                       "date":  "2026-05-28",
                       "type":  "gallery",
