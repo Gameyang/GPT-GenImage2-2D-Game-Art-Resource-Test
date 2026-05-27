@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T02:42:57",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-036",
+    "packNumber":  36,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-036",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "069",
+                       "title":  "Inglourious Basterds (2009)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, old cinema interior engulfed in stylized orange light while resistance silhouettes watch from the projection booth, smoke, film reels, revenge-thriller tension, no readable marquee, no gore. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "b03cbdff-097c-49a3-8e00-00cb4c0b76c0",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-036/pixel-scene-imdb-top-100-069-inglourious-basterds-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-036/pixel-scene-imdb-top-100-069-inglourious-basterds-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  17558
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "070",
+                       "title":  "12th Fail (2023)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, determined student studying under a streetlamp with worn books and exam papers rendered blank, crowded city night around him, humble blue and warm yellow palette, grit and hope. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "1bab2b6f-11ea-4f0d-9c2c-ac4ad36b79a5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-036/pixel-scene-imdb-top-100-070-12th-fail-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-036/pixel-scene-imdb-top-100-070-12th-fail-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  15282
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "071",
+                       "title":  "Aliens (1986)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, armored space rescuer moving through a blue industrial corridor with a child behind them and alien brood shadows ahead, motion-sensor glow as abstract dots, no exact creature or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "c4737256-d292-4410-ae5b-f6aecae8d6d4",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-036/pixel-scene-imdb-top-100-071-aliens-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-036/pixel-scene-imdb-top-100-071-aliens-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  23238
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "072",
+                       "title":  "High and Low (1963)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, modern hilltop mansion overlooking a dense city below, businessman silhouette trapped between phone, window, and moral choice, black-and-white contrast, crime-thriller tension, no readable documents. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "1613f673-f6d4-4aff-8a12-872aea559ba9",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-036/pixel-scene-imdb-top-100-072-high-and-low-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-036/pixel-scene-imdb-top-100-072-high-and-low-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  22886
+                                }
+                   }
+               ]
+}
