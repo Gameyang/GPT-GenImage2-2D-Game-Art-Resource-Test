@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T08:10:07",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-132",
+    "packNumber":  132,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-132",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "061",
+                       "title":  "Avengers: Endgame (2019)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, ruined cosmic battlefield with many heroic silhouettes emerging through glowing circular portals, one armored figure raising a hand against an enormous enemy army, no logos, no exact costumes, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "bb6aa981-efc9-4f58-af4d-742be2ed9cc9",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-132/pixel-scene-imdb-top-100-061-avengers-endgame-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-132/pixel-scene-imdb-top-100-061-avengers-endgame-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  28798
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "062",
+                       "title":  "The Lives of Others (2006)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, surveillance attic filled with headphones, reel recorder, and a lonely watcher silhouette above a softly lit apartment below, muted gray-green East Berlin mood, no readable documents. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "a5a9e7cc-a5d1-44eb-9708-a3f8346e945a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-132/pixel-scene-imdb-top-100-062-the-lives-of-others-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-132/pixel-scene-imdb-top-100-062-the-lives-of-others-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  8444
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "063",
+                       "title":  "Spider-Man: Into the Spider-Verse (2018)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, masked teenage hero leaping upside down between neon skyscrapers, comic halftone energy translated into pixel dithering, bright magenta and cyan palette, no exact suit design, no logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "29f7bf8a-1200-496a-8c65-78c79eff0b5a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-132/pixel-scene-imdb-top-100-063-spider-man-into-the-spider-verse-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-132/pixel-scene-imdb-top-100-063-spider-man-into-the-spider-verse-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  36520
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "064",
+                       "title":  "Sunset Boulevard (1950)",
+                       "variant":  3,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, decaying Hollywood mansion pool at night, faded silent-film star silhouette at a balcony, noir searchlights and palm shadows, black-and-white glamour turning eerie, no readable studio signs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "1c1b46fe-455f-4d69-afea-f3167813ca36",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-132/pixel-scene-imdb-top-100-064-sunset-boulevard-v03-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-132/pixel-scene-imdb-top-100-064-sunset-boulevard-v03-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  34058
+                                }
+                   }
+               ]
+}
