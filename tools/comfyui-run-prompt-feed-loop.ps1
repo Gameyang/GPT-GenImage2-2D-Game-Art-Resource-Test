@@ -679,9 +679,22 @@ function Invoke-GitPublish {
         "tools/comfyui-run-prompt-feed-loop.ps1"
     )
 
-    & git add -- @paths
-    if ($LASTEXITCODE -ne 0) {
-        throw "git add failed."
+    $previousErrorActionPreference = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try {
+        $gitAddOutput = & git add -- @paths 2>&1
+        $gitAddExitCode = $LASTEXITCODE
+    }
+    finally {
+        $ErrorActionPreference = $previousErrorActionPreference
+    }
+    if ($gitAddExitCode -ne 0) {
+        throw "git add failed. $($gitAddOutput -join [Environment]::NewLine)"
+    }
+    foreach ($line in @($gitAddOutput)) {
+        if (-not [string]::IsNullOrWhiteSpace([string]$line)) {
+            Write-Host $line
+        }
     }
 
     $staged = @(& git diff --cached --name-only)
@@ -699,18 +712,49 @@ function Invoke-GitPublish {
         return [PSCustomObject]@{ committed = $false; pushed = $false; warning = "no staged changes" }
     }
 
-    & git commit -m $CommitMessage
-    if ($LASTEXITCODE -ne 0) {
-        throw "git commit failed."
+    $previousErrorActionPreference = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try {
+        $gitCommitOutput = & git commit -m $CommitMessage 2>&1
+        $gitCommitExitCode = $LASTEXITCODE
+    }
+    finally {
+        $ErrorActionPreference = $previousErrorActionPreference
+    }
+    if ($gitCommitExitCode -ne 0) {
+        throw "git commit failed. $($gitCommitOutput -join [Environment]::NewLine)"
+    }
+    foreach ($line in @($gitCommitOutput)) {
+        if (-not [string]::IsNullOrWhiteSpace([string]$line)) {
+            Write-Host $line
+        }
     }
 
     if ($NoGitPush.IsPresent) {
         return [PSCustomObject]@{ committed = $true; pushed = $false; warning = "NoGitPush set" }
     }
 
-    & git push
-    if ($LASTEXITCODE -ne 0) {
+    $previousErrorActionPreference = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try {
+        $gitPushOutput = & git push 2>&1
+        $gitPushExitCode = $LASTEXITCODE
+    }
+    finally {
+        $ErrorActionPreference = $previousErrorActionPreference
+    }
+    if ($gitPushExitCode -ne 0) {
+        foreach ($line in @($gitPushOutput)) {
+            if (-not [string]::IsNullOrWhiteSpace([string]$line)) {
+                Write-Warning $line
+            }
+        }
         return [PSCustomObject]@{ committed = $true; pushed = $false; warning = "git push failed" }
+    }
+    foreach ($line in @($gitPushOutput)) {
+        if (-not [string]::IsNullOrWhiteSpace([string]$line)) {
+            Write-Host $line
+        }
     }
 
     return [PSCustomObject]@{ committed = $true; pushed = $true; warning = "" }
