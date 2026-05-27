@@ -837,6 +837,9 @@ try {
         if ($SkipExisting.IsPresent -and (Test-ReadyPack -ManifestPath $packManifestPath -ExpectedMedia $ImagesPerPack)) {
             Write-Host "Skipping ready existing pack: $packId"
             $completedPacks++
+            $generatedPngCount += $ImagesPerPack
+            $deletedRawPngCount += $ImagesPerPack
+            $webpCount += $ImagesPerPack
             $packIndex++
             continue
         }
