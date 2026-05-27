@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T03:23:58",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-048",
+    "packNumber":  48,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-048",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "093",
+                       "title":  "Return of the Jedi (1983)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, forest moon celebration and distant space battle lights above giant trees, rebel silhouettes around warm fires, small furry villagers abstracted into original shapes, no logos or exact creature designs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "d871957d-ff3d-4589-92fb-76e5e324e8f7",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-048/pixel-scene-imdb-top-100-093-return-of-the-jedi-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-048/pixel-scene-imdb-top-100-093-return-of-the-jedi-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  22232
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "094",
+                       "title":  "Requiem for a Dream (2000)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, four fragmented city interiors split by hard black dividers, characters falling into abstract neon spirals, pills and screens as non-readable shapes, anxious psychological mood, no explicit drug use detail. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "bcea2130-bd6b-4015-8057-180e18c87cc8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-048/pixel-scene-imdb-top-100-094-requiem-for-a-dream-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-048/pixel-scene-imdb-top-100-094-requiem-for-a-dream-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  40360
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "095",
+                       "title":  "Toy Story 3 (2010)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, group of toys holding hands before an intense orange industrial glow, conveyor shapes abstracted, emotional farewell tension, no exact toy designs, no logos, no readable labels. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "8395bf31-2233-4a1c-9e89-e3916890d25c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-048/pixel-scene-imdb-top-100-095-toy-story-3-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-048/pixel-scene-imdb-top-100-095-toy-story-3-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  20020
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "096",
+                       "title":  "Ikiru (1952)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, old man silhouette on a playground swing in falling snow, newly built park around him, black-and-white palette with soft lantern glow, quiet acceptance and purpose, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "8e33b7ee-b559-4e5c-a7e6-96b7c84e5ea9",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-048/pixel-scene-imdb-top-100-096-ikiru-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-048/pixel-scene-imdb-top-100-096-ikiru-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  26790
+                                }
+                   }
+               ]
+}
