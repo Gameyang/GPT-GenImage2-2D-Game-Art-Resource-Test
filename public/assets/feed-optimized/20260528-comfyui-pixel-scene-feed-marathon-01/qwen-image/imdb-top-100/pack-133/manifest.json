@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T08:13:56",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-133",
+    "packNumber":  133,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-133",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "065",
+                       "title":  "Witness for the Prosecution (1957)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, dramatic courtroom reveal with barristers, witness stand, and judge silhouettes under high windows, spotlight on a crucial anonymous witness, black-and-white legal thriller palette, no readable papers. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e9c1f2a6-7bf1-4c04-a9eb-1efc2f408af6",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-133/pixel-scene-imdb-top-100-065-witness-for-the-prosecution-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-133/pixel-scene-imdb-top-100-065-witness-for-the-prosecution-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  74490
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "066",
+                       "title":  "Paths of Glory (1957)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, muddy trench corridor with a weary officer walking past exhausted soldiers, overcast sky, stark black-and-white palette, antiwar grief, no gore, no flags or readable markings. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "f58a41d4-21c2-4ef2-9b22-e72e5fcce415",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-133/pixel-scene-imdb-top-100-066-paths-of-glory-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-133/pixel-scene-imdb-top-100-066-paths-of-glory-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  95902
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "067",
+                       "title":  "The Shining (1980)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, long hotel corridor with bold geometric carpet patterns abstracted into pixel tiles, tricycle silhouette at vanishing point, warm lights and cold shadows, psychological horror, no readable room numbers. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "66892868-c434-4d28-8b0d-90886c2794b2",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-133/pixel-scene-imdb-top-100-067-the-shining-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-133/pixel-scene-imdb-top-100-067-the-shining-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  88718
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "068",
+                       "title":  "The Great Dictator (1940)",
+                       "variant":  3,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, satirical tyrant silhouette dancing with a floating globe balloon in an empty grand hall, black-and-white silent-comedy feel, absurd power fantasy, no real-world hate symbols, no exact likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 3: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "a0a298ac-1ee4-42b9-a23a-72057ffe2ede",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-133/pixel-scene-imdb-top-100-068-the-great-dictator-v03-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-133/pixel-scene-imdb-top-100-068-the-great-dictator-v03-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  88896
+                                }
+                   }
+               ]
+}
