@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T00:46:32",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-002",
+    "packNumber":  2,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-002",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "001",
+                       "title":  "FC HD-2D Scene 001",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A bright platform hero leaps over a collapsing brick aqueduct at sunset while glowing crystal shards arc through the air and a distant fortress rises beyond layered hills., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "dab154d6-783c-4f9c-bc9d-d8e1aeb27891",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-002/pixel-scene-fc-hd2d-001-a-bright-platform-hero-leaps-over-a-collap-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-002/pixel-scene-fc-hd2d-001-a-bright-platform-hero-leaps-over-a-collap-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  26286
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "002",
+                       "title":  "FC HD-2D Scene 002",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A tiny adventurer climbs a giant forest canopy using mossy platforms, fireflies, and swinging vines, with sunbeams cutting through volumetric mist., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "9e81e32e-fd01-498b-a7ed-08c2c8723b36",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-002/pixel-scene-fc-hd2d-002-a-tiny-adventurer-climbs-a-giant-forest-ca-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-002/pixel-scene-fc-hd2d-002-a-tiny-adventurer-climbs-a-giant-forest-ca-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  28602
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "003",
+                       "title":  "FC HD-2D Scene 003",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A haunted clock tower platform scene with enormous brass gears, torn curtains, moonlit windows, and a lone hero balancing on a narrow stone ledge., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "0b9f48df-a06f-4111-b717-eca2e6aa93b1",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-002/pixel-scene-fc-hd2d-003-a-haunted-clock-tower-platform-scene-with-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-002/pixel-scene-fc-hd2d-003-a-haunted-clock-tower-platform-scene-with-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  31180
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "004",
+                       "title":  "FC HD-2D Scene 004",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "A lava castle drawbridge cracking apart above molten rivers, with an original armored furnace guardian looming in the background., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "e53fd0b2-384c-4473-a742-bc111b20b5a0",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-002/pixel-scene-fc-hd2d-004-a-lava-castle-drawbridge-cracking-apart-ab-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-002/pixel-scene-fc-hd2d-004-a-lava-castle-drawbridge-cracking-apart-ab-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  42244
+                                }
+                   }
+               ]
+}
