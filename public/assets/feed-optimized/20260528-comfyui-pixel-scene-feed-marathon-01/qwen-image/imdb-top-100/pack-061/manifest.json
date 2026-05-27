@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T04:08:57",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-061",
+    "packNumber":  61,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-061",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "021",
+                       "title":  "It\u0027s a Wonderful Life (1946)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, snowy small-town bridge at night with a desperate man looking toward warm lights below, faint angelic glow in the sky, black-and-white palette with soft gold accents, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "b58da394-0360-465d-82bc-0392ae089187",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-061/pixel-scene-imdb-top-100-021-it-s-a-wonderful-life-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-061/pixel-scene-imdb-top-100-021-it-s-a-wonderful-life-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  113126
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "022",
+                       "title":  "The Silence of the Lambs (1991)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, tense prison interview room divided by thick glass, young investigator silhouette facing a calm seated prisoner, moth wing motif in the shadows, clinical blue-green lighting, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "74133129-38d3-425f-85a3-8fae46e5a3eb",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-061/pixel-scene-imdb-top-100-022-the-silence-of-the-lambs-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-061/pixel-scene-imdb-top-100-022-the-silence-of-the-lambs-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  72228
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "023",
+                       "title":  "Seven Samurai (1954)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, samurai defenders standing in pouring rain before a muddy village gate, peasants sheltered behind them, black-and-white pixel palette, dynamic diagonal rain, honorable last-stand mood. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "52b43ebd-2f75-4da2-b807-f1ee1f983371",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-061/pixel-scene-imdb-top-100-023-seven-samurai-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-061/pixel-scene-imdb-top-100-023-seven-samurai-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  150674
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "024",
+                       "title":  "Saving Private Ryan (1998)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, stormy beach landing with soldiers as small anonymous silhouettes moving through smoke, landing craft in surf, muted gray-green palette, no gore, no flags or readable markings. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "5c8bf0b0-9007-425a-839f-f4de9f11bbc8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-061/pixel-scene-imdb-top-100-024-saving-private-ryan-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-061/pixel-scene-imdb-top-100-024-saving-private-ryan-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  82178
+                                }
+                   }
+               ]
+}
