@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-094",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 094",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-094/pixel-scene-fc-hd2d-085-a-soccer-stadium-last-shot-moment-with-a-g-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 085: FC HD-2D Scene 085"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-094/pixel-scene-fc-hd2d-086-a-baseball-diamond-under-summer-floodlight-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 086: FC HD-2D Scene 086"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-094/pixel-scene-fc-hd2d-087-a-boxing-gym-final-round-scene-with-ropes-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 087: FC HD-2D Scene 087"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-094/pixel-scene-fc-hd2d-088-a-tennis-clay-court-sunset-rally-with-the-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 088: FC HD-2D Scene 088"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-094",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-093",
                       "date":  "2026-05-28",
                       "type":  "gallery",
