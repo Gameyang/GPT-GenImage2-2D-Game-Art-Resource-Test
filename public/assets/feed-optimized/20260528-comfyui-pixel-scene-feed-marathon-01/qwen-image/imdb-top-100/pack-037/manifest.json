@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T02:46:52",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-037",
+    "packNumber":  37,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-037",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "073",
+                       "title":  "Good Will Hunting (1997)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, autumn park bench beside a pond where two anonymous figures sit in difficult conversation, golden leaves, Boston-like skyline softened in distance, quiet emotional breakthrough, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "4283e7d5-edb0-4df9-8c02-ca65ead20ec2",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-037/pixel-scene-imdb-top-100-073-good-will-hunting-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-037/pixel-scene-imdb-top-100-073-good-will-hunting-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  124466
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "074",
+                       "title":  "Avengers: Infinity War (2018)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, cosmic battlefield at sunset with scattered hero silhouettes facing a giant armored invader beneath a purple sky, glowing stones as abstract colored lights, no logos, no exact costume copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "17ccd5df-9b8c-4c86-ac05-92abbe00bbcd",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-037/pixel-scene-imdb-top-100-074-avengers-infinity-war-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-037/pixel-scene-imdb-top-100-074-avengers-infinity-war-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  118752
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "075",
+                       "title":  "The Dark Knight Rises (2012)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, masked city guardian climbing from a cracked underground pit toward daylight, broken stone, rope, dust beams, rebirth motif, no exact suit design, no logo, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "d4cc37d0-6efa-4aac-8b1a-dd992a35daa5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-037/pixel-scene-imdb-top-100-075-the-dark-knight-rises-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-037/pixel-scene-imdb-top-100-075-the-dark-knight-rises-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  103420
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "076",
+                       "title":  "Coco (2017)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, marigold bridge leading to a glowing spirit city, young musician silhouette with guitar-like shape, paper banners without text, warm orange and violet palette, family memory, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "7e2080a1-27b8-4165-9024-74f87db1fbf6",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-037/pixel-scene-imdb-top-100-076-coco-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-037/pixel-scene-imdb-top-100-076-coco-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  110712
+                                }
+                   }
+               ]
+}
