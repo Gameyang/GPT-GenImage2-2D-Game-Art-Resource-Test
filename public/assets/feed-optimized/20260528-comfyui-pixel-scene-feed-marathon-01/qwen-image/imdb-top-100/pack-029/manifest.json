@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T02:19:37",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-029",
+    "packNumber":  29,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-029",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "057",
+                       "title":  "WALL-E (2008)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, tiny boxy cleanup robot holding a fragile green sprout on a mountain of compacted trash under star-filled sky, warm eye lights, hopeful post-apocalyptic mood, no exact robot copy or logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "048cb127-e1b8-4684-bdbb-850543cba7e3",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-029/pixel-scene-imdb-top-100-057-wall-e-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-029/pixel-scene-imdb-top-100-057-wall-e-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  124602
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "058",
+                       "title":  "Memento (2000)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, motel room floor covered with blank instant-photo cards, tattoos represented as abstract marks with no readable writing, confused man silhouette reflected backward in mirrors, cool noir palette. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "39d7c616-6789-43fb-834b-873c3877d8a2",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-029/pixel-scene-imdb-top-100-058-memento-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-029/pixel-scene-imdb-top-100-058-memento-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  104272
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "059",
+                       "title":  "Dune: Part Two (2024)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, robed desert rider surfing beside a colossal sandworm cresting from golden dunes, twin moons, spice haze, epic scale, limited ochre and deep blue palette, no exact costume or emblem copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "c299f21c-bdeb-48ba-87fa-df8027f97a25",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-029/pixel-scene-imdb-top-100-059-dune-part-two-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-029/pixel-scene-imdb-top-100-059-dune-part-two-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  85362
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "060",
+                       "title":  "Raiders of the Lost Ark (1981)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, pulp adventurer silhouette reaching for a glowing golden idol in a vine-covered temple chamber, pressure plates as blank stone shapes, torchlight, adventure suspense, no exact costume or logo. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "64a7d748-e01f-4fdc-9596-50022197c477",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-029/pixel-scene-imdb-top-100-060-raiders-of-the-lost-ark-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-029/pixel-scene-imdb-top-100-060-raiders-of-the-lost-ark-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  129038
+                                }
+                   }
+               ]
+}
