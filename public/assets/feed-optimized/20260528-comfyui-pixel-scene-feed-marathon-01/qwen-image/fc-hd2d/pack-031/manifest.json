@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T02:26:23",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-031",
+    "packNumber":  31,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-031",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "061",
+                       "title":  "FC HD-2D Scene 061",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A neon back alley showdown with wet pavement, trash cans, steam vents, and two original street fighters facing a gang of silhouettes., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "e622bda8-42f1-49e3-bbbe-929e8349cb4a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-031/pixel-scene-fc-hd2d-061-a-neon-back-alley-showdown-with-wet-paveme-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-031/pixel-scene-fc-hd2d-061-a-neon-back-alley-showdown-with-wet-paveme-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  98786
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "062",
+                       "title":  "FC HD-2D Scene 062",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A rain-soaked dojo courtyard duel, with paper lanterns, bamboo shadows, puddle reflections, and a fighter in a unique training outfit., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "b1795e8c-fe59-48b2-abab-21afce2d60f5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-031/pixel-scene-fc-hd2d-062-a-rain-soaked-dojo-courtyard-duel-with-pap-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-031/pixel-scene-fc-hd2d-062-a-rain-soaked-dojo-courtyard-duel-with-pap-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  94292
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "063",
+                       "title":  "FC HD-2D Scene 063",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A dramatic arcade-style ring fight under colored lights, with a boxer-like original hero, cheering silhouettes, and pixel confetti., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "b17df943-b49c-4ac5-a74b-3dd6ce8101c9",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-031/pixel-scene-fc-hd2d-063-a-dramatic-arcade-style-ring-fight-under-c-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-031/pixel-scene-fc-hd2d-063-a-dramatic-arcade-style-ring-fight-under-c-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  73284
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "064",
+                       "title":  "FC HD-2D Scene 064",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A harbor warehouse brawl with stacked crates, swinging hooks, spilled water, and a boss silhouette standing under a lamp., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot.",
+                       "promptId":  "bdef4e65-f058-4668-a73e-ec3e2cdae4c6",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-031/pixel-scene-fc-hd2d-064-a-harbor-warehouse-brawl-with-stacked-crat-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-031/pixel-scene-fc-hd2d-064-a-harbor-warehouse-brawl-with-stacked-crat-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  82150
+                                }
+                   }
+               ]
+}
