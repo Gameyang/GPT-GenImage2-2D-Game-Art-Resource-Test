@@ -13,6 +13,7 @@ param(
     [switch]$SkipExisting,
     [switch]$ContinueOnError,
     [switch]$NoFeedUpdate,
+    [switch]$WebpOnlyDeletePng,
     [switch]$DryRun
 )
 
@@ -339,6 +340,69 @@ function Add-OrReplaceFeedPost {
     $Feed.posts = @($Post) + $remaining
 }
 
+function ConvertTo-EnglishCount {
+    param([Parameter(Mandatory = $true)][int]$Count)
+
+    switch ($Count) {
+        1 { return "One" }
+        2 { return "Two" }
+        3 { return "Three" }
+        4 { return "Four" }
+        5 { return "Five" }
+        6 { return "Six" }
+        7 { return "Seven" }
+        8 { return "Eight" }
+        9 { return "Nine" }
+        default { return [string]$Count }
+    }
+}
+
+function Assert-WebpOutput {
+    param([Parameter(Mandatory = $true)][string]$Path)
+
+    if (-not (Test-Path -LiteralPath $Path)) {
+        throw "Expected WebP output was not created: $Path"
+    }
+
+    $item = Get-Item -LiteralPath $Path
+    if ($item.Length -le 0) {
+        throw "Expected WebP output is empty: $Path"
+    }
+}
+
+function Remove-TaskPng {
+    param(
+        [Parameter(Mandatory = $true)][string]$Path,
+        [Parameter(Mandatory = $true)][string]$AllowedRoot,
+        [Parameter(Mandatory = $true)][string]$TaskMarker
+    )
+
+    if (-not (Test-Path -LiteralPath $Path)) {
+        return $false
+    }
+
+    $full = [System.IO.Path]::GetFullPath($Path)
+    $root = [System.IO.Path]::GetFullPath($AllowedRoot)
+    if (-not $root.EndsWith([System.IO.Path]::DirectorySeparatorChar)) {
+        $root += [System.IO.Path]::DirectorySeparatorChar
+    }
+
+    if (-not $full.StartsWith($root, [System.StringComparison]::OrdinalIgnoreCase)) {
+        throw "Refusing to delete PNG outside task root: $full"
+    }
+
+    if ([System.IO.Path]::GetExtension($full).ToLowerInvariant() -ne ".png") {
+        throw "Refusing to delete non-PNG file: $full"
+    }
+
+    if ($full -notlike "*$TaskMarker*") {
+        throw "Refusing to delete PNG without task marker '$TaskMarker': $full"
+    }
+
+    Remove-Item -LiteralPath $full -Force
+    return $true
+}
+
 $script:CatalogCategories = @{}
 $definitions = Get-AssetDefinitions
 if (-not [string]::IsNullOrWhiteSpace($CatalogPath)) {
@@ -380,6 +444,8 @@ if (-not [string]::IsNullOrWhiteSpace($CatalogPath)) {
 }
 $results = New-Object System.Collections.Generic.List[object]
 $posts = New-Object System.Collections.Generic.List[object]
+$deletedPublicPngCount = 0
+$deletedRawPngCount = 0
 
 foreach ($workflow in $Workflows) {
     $workflowConfig = Get-WorkflowConfig -Workflow $workflow
@@ -415,6 +481,9 @@ foreach ($workflow in $Workflows) {
                 height = $height
                 publicAsset = Get-RelativePathText -BasePath $repoRoot -Path $publicPath
                 feedAsset = Get-RelativePathText -BasePath (Join-Path $repoRoot "public") -Path $webpPath
+                rawSourceAsset = $null
+                publicPngDeleted = $false
+                rawPngDeleted = $false
                 status = "pending"
                 error = $null
             }
@@ -428,12 +497,24 @@ foreach ($workflow in $Workflows) {
 
             if ($SkipExisting.IsPresent -and (Test-Path -LiteralPath $publicPath)) {
                 if (Test-Path -LiteralPath $webpPath) {
+                    Assert-WebpOutput -Path $webpPath
+                    if ($WebpOnlyDeletePng.IsPresent -and (Remove-TaskPng -Path $publicPath -AllowedRoot $publicDir -TaskMarker $TaskId)) {
+                        $deletedPublicPngCount++
+                        $result.publicPngDeleted = $true
+                        $result.publicAsset = $null
+                    }
                     $result.status = "skipped-existing"
                 }
                 else {
                     try {
                         Write-Host "Optimizing existing [$workflow][$category] $indexText $($asset.name)"
                         Invoke-SharpWebp -InputPath $publicPath -OutputPath $webpPath -Aspect $categoryConfig.aspect -Quality $Quality -Effort $Effort
+                        Assert-WebpOutput -Path $webpPath
+                        if ($WebpOnlyDeletePng.IsPresent -and (Remove-TaskPng -Path $publicPath -AllowedRoot $publicDir -TaskMarker $TaskId)) {
+                            $deletedPublicPngCount++
+                            $result.publicPngDeleted = $true
+                            $result.publicAsset = $null
+                        }
                         $result.status = "optimized-existing"
                     }
                     catch {
@@ -480,8 +561,21 @@ foreach ($workflow in $Workflows) {
                     }
 
                     $downloadedFull = [System.IO.Path]::GetFullPath((Join-Path $repoRoot ([string]$downloadedFiles[0])))
+                    $result.rawSourceAsset = Get-RelativePathText -BasePath $repoRoot -Path $downloadedFull
                     Copy-Item -LiteralPath $downloadedFull -Destination $publicPath -Force
                     Invoke-SharpWebp -InputPath $publicPath -OutputPath $webpPath -Aspect $categoryConfig.aspect -Quality $Quality -Effort $Effort
+                    Assert-WebpOutput -Path $webpPath
+                    if ($WebpOnlyDeletePng.IsPresent) {
+                        if (Remove-TaskPng -Path $publicPath -AllowedRoot $publicDir -TaskMarker $TaskId) {
+                            $deletedPublicPngCount++
+                            $result.publicPngDeleted = $true
+                            $result.publicAsset = $null
+                        }
+                        if (Remove-TaskPng -Path $downloadedFull -AllowedRoot $rawDir -TaskMarker $packId) {
+                            $deletedRawPngCount++
+                            $result.rawPngDeleted = $true
+                        }
+                    }
                     $result.status = "generated"
                 }
                 catch {
@@ -507,7 +601,8 @@ foreach ($workflow in $Workflows) {
         }
 
         if (-not $DryRun.IsPresent) {
-            $manifestPath = Join-Path $publicDir "manifest.json"
+            $manifestDir = if ($WebpOnlyDeletePng.IsPresent) { $feedDir } else { $publicDir }
+            $manifestPath = Join-Path $manifestDir "manifest.json"
             Write-JsonFile -Path $manifestPath -Value ([PSCustomObject]@{
                 schemaVersion = 1
                 generatedAt = (Get-Date).ToString("s")
@@ -515,23 +610,32 @@ foreach ($workflow in $Workflows) {
                 packId = $packId
                 workflow = $workflow
                 category = $category
-                publicDir = Get-RelativePathText -BasePath $repoRoot -Path $publicDir
+                publicDir = if ($WebpOnlyDeletePng.IsPresent) { $null } else { Get-RelativePathText -BasePath $repoRoot -Path $publicDir }
                 feedDir = Get-RelativePathText -BasePath $repoRoot -Path $feedDir
+                webpOnlyDeletePng = $WebpOnlyDeletePng.IsPresent
                 assets = $packResults.ToArray()
             })
         }
 
         if ($media.Count -gt 0) {
             $postId = $packId
+            $countText = ConvertTo-EnglishCount -Count $media.Count
+            $postUrl = if ($WebpOnlyDeletePng.IsPresent) {
+                "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/$TaskId/$($workflowConfig.slug)/$category"
+            }
+            else {
+                "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/$($categoryConfig.assetFolder)/$TaskId/$($workflowConfig.slug)/$category"
+            }
+            $postLinkLabel = if ($WebpOnlyDeletePng.IsPresent) { "View optimized WebP assets" } else { $categoryConfig.linkLabel }
             $post = [PSCustomObject]@{
                 id = $postId
                 date = (Get-Date -Format "yyyy-MM-dd")
                 type = "gallery"
                 title = "$($workflowConfig.title) Pixel Art $($categoryConfig.title) Set 01"
-                text = "Nine original public-safe pixel art $($categoryConfig.title.ToLowerInvariant()) generated through the local ComfyUI $($workflowConfig.title) workflow for marketplace-style game resource ideation."
+                text = "$countText original public-safe pixel art $($categoryConfig.title.ToLowerInvariant()) generated through the local ComfyUI $($workflowConfig.title) workflow for marketplace-style game resource ideation."
                 media = $media.ToArray()
-                url = "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/$($categoryConfig.assetFolder)/$TaskId/$($workflowConfig.slug)/$category"
-                linkLabel = $categoryConfig.linkLabel
+                url = $postUrl
+                linkLabel = $postLinkLabel
                 tags = @($categoryConfig.feedTag, $workflowConfig.title, "Pixel Art", "Non-commercial")
             }
             $posts.Add($post) | Out-Null
@@ -556,6 +660,7 @@ Write-JsonFile -Path $batchManifestPath -Value ([PSCustomObject]@{
     workflows = $Workflows
     categories = $Categories
     maxItemsPerPack = $MaxItemsPerPack
+    webpOnlyDeletePng = $WebpOnlyDeletePng.IsPresent
     feedUpdated = (-not $DryRun.IsPresent -and -not $NoFeedUpdate.IsPresent -and $posts.Count -gt 0)
     totals = [PSCustomObject]@{
         total = $results.Count
@@ -564,6 +669,8 @@ Write-JsonFile -Path $batchManifestPath -Value ([PSCustomObject]@{
         optimizedExisting = @($results | Where-Object { $_.status -eq "optimized-existing" }).Count
         failed = @($results | Where-Object { $_.status -eq "failed" }).Count
         dryRun = @($results | Where-Object { $_.status -eq "dry-run" }).Count
+        deletedPublicPng = $deletedPublicPngCount
+        deletedRawPng = $deletedRawPngCount
     }
     results = $results.ToArray()
     posts = $posts.ToArray()

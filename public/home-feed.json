@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-qwen-image-pixel-characters-push-test-01-qwen-image-characters",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Art Characters Set 01",
+                      "text":  "Four original public-safe pixel art characters generated through the local ComfyUI Qwen Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-01/qwen-image/characters/pixel-character-01-sunblade-knight-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: sunblade knight"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-01/qwen-image/characters/pixel-character-02-moonlit-ranger-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: moonlit ranger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-01/qwen-image/characters/pixel-character-03-ember-apprentice-mage-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: ember apprentice mage"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-01/qwen-image/characters/pixel-character-04-clockwork-tinkerer-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: clockwork tinkerer"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-qwen-image-pixel-characters-push-test-01/qwen-image/characters",
+                      "linkLabel":  "View optimized WebP assets",
+                      "tags":  [
+                                   "Character",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-hidream-o1-123x128-shop-ui",
                       "date":  "2026-05-27",
                       "type":  "gallery",
