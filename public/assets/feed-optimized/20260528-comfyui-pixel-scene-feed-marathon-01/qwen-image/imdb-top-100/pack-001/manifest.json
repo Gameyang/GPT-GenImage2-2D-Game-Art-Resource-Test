@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T00:40:55",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-001",
+    "packNumber":  1,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-001",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "001",
+                       "title":  "The Shawshank Redemption (1994)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, a lone prisoner in a rain-soaked stone yard raising both arms toward a break in storm clouds, distant prison walls behind him, blue-gray night palette with silver rain highlights, emotional liberation, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  null,
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-001/pixel-scene-imdb-top-100-001-the-shawshank-redemption-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-001/pixel-scene-imdb-top-100-001-the-shawshank-redemption-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  107268
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "002",
+                       "title":  "The Godfather (1972)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, a shadowed old-world office where a powerful crime patriarch listens across a heavy wooden desk, amber lamp light, blinds cutting the darkness, family portrait shapes without readable detail, quiet menace, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "779ef793-72f3-4516-a2ce-b4c0194e6e1f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-001/pixel-scene-imdb-top-100-002-the-godfather-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-001/pixel-scene-imdb-top-100-002-the-godfather-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  75458
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "003",
+                       "title":  "The Dark Knight (2008)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, a masked vigilante silhouette on a skyscraper ledge above a chaotic neon city, storm clouds and searchlights, cool blue palette with orange fire glows far below, heroic noir mood, no logo or exact costume copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "9a366134-77d8-4619-a4a0-5f5c98fd8c66",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-001/pixel-scene-imdb-top-100-003-the-dark-knight-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-001/pixel-scene-imdb-top-100-003-the-dark-knight-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  121600
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "004",
+                       "title":  "The Godfather Part II (1974)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, a lonely lakeside boathouse at dawn, a guarded crime boss in dark silhouette seated apart from his family empire, cold mist, muted teal and sepia colors, tragic power and isolation, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "eaa6d0d5-7aa7-461c-a668-34a2f2e8ea14",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-001/pixel-scene-imdb-top-100-004-the-godfather-part-ii-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-001/pixel-scene-imdb-top-100-004-the-godfather-part-ii-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  93314
+                                }
+                   }
+               ]
+}
