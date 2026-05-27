@@ -15,6 +15,69 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-hidream-o1-123x128-shop-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 123x128 Pixel Art Game Shop UI Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art game shop ui generated through the local ComfyUI HiDream O1 workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: adventurer general store"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: blacksmith weapon shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: alchemist potion shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: forest ranger supply shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: frost armory shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: pirate cargo shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: arcane relic shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: neon tech market"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: festival food stall shop"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui",
+                      "linkLabel":  "View game shop UI PNG assets",
+                      "tags":  [
+                                   "Shop UI",
+                                   "123x128",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-hidream-o1-123x128-weapons",
                       "date":  "2026-05-27",
                       "type":  "gallery",

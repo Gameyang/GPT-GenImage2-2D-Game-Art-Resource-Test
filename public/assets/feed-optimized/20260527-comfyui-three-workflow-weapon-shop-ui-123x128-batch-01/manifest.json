@@ -1,0 +1,1218 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T23:51:31",
+    "taskId":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01",
+    "workflows":  [
+                      "qwen_image",
+                      "pokemon",
+                      "hidream_o1"
+                  ],
+    "categories":  [
+                       "weapons",
+                       "shop-ui"
+                   ],
+    "sizes":  [
+                  "123x128"
+              ],
+    "maxItemsPerPack":  9,
+    "feedUpdated":  true,
+    "totals":  {
+                   "total":  54,
+                   "generated":  54,
+                   "skippedExisting":  0,
+                   "optimizedExisting":  0,
+                   "failed":  0
+               },
+    "results":  [
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "iron-longsword",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, iron longsword with simple crossguard, leather grip, and bright edge highlight. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "crescent-axe",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, crescent battle axe with red tassel, steel blade, and dark wood handle. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "oak-shortbow",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, oak shortbow with green wrap, simple string, and compact arrow bundle. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "crystal-dagger",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, crystal dagger with purple blade, silver handle, and tiny glow facets. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "storm-hammer",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, storm hammer with square head, blue rune glow, and wrapped grip. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "sun-spear",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, sun spear with gold leaf blade, red ribbon, and slim shaft. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-06-sun-spear-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-06-sun-spear-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "pirate-cutlass",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, pirate cutlass with brass guard, curved weathered blade, and blue cloth wrap. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "arcane-orb-staff",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, arcane orb staff with floating blue sphere, carved wood shaft, and silver prongs. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "weapons",
+                        "name":  "clockwork-crossbow",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, clockwork crossbow with brass gear limbs, dark wooden stock, and compact bolt. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "adventurer-general-store",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, adventurer general store UI with parchment window, item grid, coin pouch icon, and simple buy slot shapes. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "blacksmith-weapon-shop",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, blacksmith weapon shop UI with dark iron frame, sword slot icons, coin placeholders, and warm forge trim. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "alchemist-potion-shop",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, alchemist potion shop UI with green glass frame, bottle item slots, ingredient tray, and round coin icons. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "forest-ranger-supply-shop",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, forest ranger supply shop UI with green cloth panels, arrow slot icons, herb pouch icons, and wood trim. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "frost-armory-shop",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, frost armory shop UI with icy blue frame, armor slot shapes, crystal coin placeholders, and snowflake accents. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "pirate-cargo-shop",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, pirate cargo shop UI with wood plank panels, rope border, treasure item slots, and gold coin icons. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "arcane-relic-shop",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, arcane relic shop UI with violet frame, floating gem slots, magic item shelf shapes, and glowing coin placeholders. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "neon-tech-market",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, neon tech market UI with dark panels, cyan slot highlights, gadget item shapes, and clean segmented controls without text. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "qwen_image",
+                        "workflowSlug":  "qwen-image",
+                        "category":  "shop-ui",
+                        "name":  "festival-food-stall-shop",
+                        "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG production quality, festival food stall shop UI with warm striped canopy frame, food item slots, token icons, and bright friendly colors. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "1024x1024",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-qwen-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-qwen-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "iron-longsword",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, iron longsword with simple crossguard, leather grip, and bright edge highlight. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "crescent-axe",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, crescent battle axe with red tassel, steel blade, and dark wood handle. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "oak-shortbow",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, oak shortbow with green wrap, simple string, and compact arrow bundle. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "crystal-dagger",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, crystal dagger with purple blade, silver handle, and tiny glow facets. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "storm-hammer",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, storm hammer with square head, blue rune glow, and wrapped grip. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "sun-spear",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, sun spear with gold leaf blade, red ribbon, and slim shaft. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-06-sun-spear-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-06-sun-spear-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "pirate-cutlass",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, pirate cutlass with brass guard, curved weathered blade, and blue cloth wrap. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "arcane-orb-staff",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, arcane orb staff with floating blue sphere, carved wood shaft, and silver prongs. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "weapons",
+                        "name":  "clockwork-crossbow",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, clockwork crossbow with brass gear limbs, dark wooden stock, and compact bolt. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "adventurer-general-store",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, adventurer general store UI with parchment window, item grid, coin pouch icon, and simple buy slot shapes. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "blacksmith-weapon-shop",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, blacksmith weapon shop UI with dark iron frame, sword slot icons, coin placeholders, and warm forge trim. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "alchemist-potion-shop",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, alchemist potion shop UI with green glass frame, bottle item slots, ingredient tray, and round coin icons. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "forest-ranger-supply-shop",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, forest ranger supply shop UI with green cloth panels, arrow slot icons, herb pouch icons, and wood trim. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "frost-armory-shop",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, frost armory shop UI with icy blue frame, armor slot shapes, crystal coin placeholders, and snowflake accents. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "pirate-cargo-shop",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, pirate cargo shop UI with wood plank panels, rope border, treasure item slots, and gold coin icons. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "arcane-relic-shop",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, arcane relic shop UI with violet frame, floating gem slots, magic item shelf shapes, and glowing coin placeholders. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "neon-tech-market",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, neon tech market UI with dark panels, cyan slot highlights, gadget item shapes, and clean segmented controls without text. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "pokemon",
+                        "workflowSlug":  "z-image",
+                        "category":  "shop-ui",
+                        "name":  "festival-food-stall-shop",
+                        "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, chunky pixel clusters, polished marketplace preview quality, festival food stall shop UI with warm striped canopy frame, food item slots, token icons, and bright friendly colors. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "512x512",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-z-image.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-z-image-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "iron-longsword",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, iron longsword with simple crossguard, leather grip, and bright edge highlight. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "crescent-axe",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, crescent battle axe with red tassel, steel blade, and dark wood handle. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "oak-shortbow",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, oak shortbow with green wrap, simple string, and compact arrow bundle. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "crystal-dagger",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, crystal dagger with purple blade, silver handle, and tiny glow facets. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "storm-hammer",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, storm hammer with square head, blue rune glow, and wrapped grip. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "sun-spear",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, sun spear with gold leaf blade, red ribbon, and slim shaft. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-06-sun-spear-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-06-sun-spear-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "pirate-cutlass",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, pirate cutlass with brass guard, curved weathered blade, and blue cloth wrap. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "arcane-orb-staff",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, arcane orb staff with floating blue sphere, carved wood shaft, and silver prongs. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "weapons",
+                        "name":  "clockwork-crossbow",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, clockwork crossbow with brass gear limbs, dark wooden stock, and compact bolt. Single weapon equipment icon for a 2D RPG, centered object, large readable silhouette for small game-ready export sizes, transparent-friendly plain light preview background, no text, no UI frame. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "adventurer-general-store",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, adventurer general store UI with parchment window, item grid, coin pouch icon, and simple buy slot shapes. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "blacksmith-weapon-shop",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, blacksmith weapon shop UI with dark iron frame, sword slot icons, coin placeholders, and warm forge trim. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "alchemist-potion-shop",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, alchemist potion shop UI with green glass frame, bottle item slots, ingredient tray, and round coin icons. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "forest-ranger-supply-shop",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, forest ranger supply shop UI with green cloth panels, arrow slot icons, herb pouch icons, and wood trim. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "frost-armory-shop",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, frost armory shop UI with icy blue frame, armor slot shapes, crystal coin placeholders, and snowflake accents. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "pirate-cargo-shop",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, pirate cargo shop UI with wood plank panels, rope border, treasure item slots, and gold coin icons. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "arcane-relic-shop",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, arcane relic shop UI with violet frame, floating gem slots, magic item shelf shapes, and glowing coin placeholders. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "neon-tech-market",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, neon tech market UI with dark panels, cyan slot highlights, gadget item shapes, and clean segmented controls without text. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    },
+                    {
+                        "workflow":  "hidream_o1",
+                        "workflowSlug":  "hidream-o1",
+                        "category":  "shop-ui",
+                        "name":  "festival-food-stall-shop",
+                        "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, festival food stall shop UI with warm striped canopy frame, food item slots, token icons, and bright friendly colors. Complete game shop UI panel mockup, large blocky layout readable after small game-ready export downscaling, item slots, coin placeholders, buy and sell panel shapes, icon-only interface, no readable letters, no numbers, no logos, no watermark. Designed as an original public-safe game asset source for exact 123x128 exported variants. Keep the design clean, centered, high quality, no watermark.",
+                        "sourceSize":  "768x768",
+                        "width":  123,
+                        "height":  128,
+                        "size":  "123x128",
+                        "publicAsset":  "public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-hidream-o1.png",
+                        "feedAsset":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-hidream-o1-feed.webp",
+                        "status":  "generated",
+                        "error":  null
+                    }
+                ],
+    "posts":  [
+                  {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-qwen-image-123x128-weapons",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Qwen Image 123x128 Pixel Art Weapons Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art weapons generated through the local ComfyUI Qwen Image workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: iron longsword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: crescent axe"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: oak shortbow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: crystal dagger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: storm hammer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-06-sun-spear-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: sun spear"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: pirate cutlass"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: arcane orb staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art weapon asset: clockwork crossbow"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/weapons",
+                      "linkLabel":  "View weapon PNG assets",
+                      "tags":  [
+                                   "Weapon",
+                                   "123x128",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-qwen-image-123x128-shop-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Qwen Image 123x128 Pixel Art Game Shop UI Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art game shop ui generated through the local ComfyUI Qwen Image workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: adventurer general store"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: blacksmith weapon shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: alchemist potion shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: forest ranger supply shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: frost armory shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: pirate cargo shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: arcane relic shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: neon tech market"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-qwen-image-feed.webp",
+                                        "alt":  "123x128 Qwen Image pixel art shop-ui asset: festival food stall shop"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/qwen-image/123x128/shop-ui",
+                      "linkLabel":  "View game shop UI PNG assets",
+                      "tags":  [
+                                   "Shop UI",
+                                   "123x128",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-z-image-123x128-weapons",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Z-Image 123x128 Pixel Art Weapons Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art weapons generated through the local ComfyUI Z-Image workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: iron longsword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: crescent axe"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: oak shortbow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: crystal dagger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: storm hammer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-06-sun-spear-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: sun spear"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: pirate cutlass"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: arcane orb staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art weapon asset: clockwork crossbow"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/weapons",
+                      "linkLabel":  "View weapon PNG assets",
+                      "tags":  [
+                                   "Weapon",
+                                   "123x128",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-z-image-123x128-shop-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Z-Image 123x128 Pixel Art Game Shop UI Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art game shop ui generated through the local ComfyUI Z-Image workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: adventurer general store"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: blacksmith weapon shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: alchemist potion shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: forest ranger supply shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: frost armory shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: pirate cargo shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: arcane relic shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: neon tech market"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-z-image-feed.webp",
+                                        "alt":  "123x128 Z-Image pixel art shop-ui asset: festival food stall shop"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/z-image/123x128/shop-ui",
+                      "linkLabel":  "View game shop UI PNG assets",
+                      "tags":  [
+                                   "Shop UI",
+                                   "123x128",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-hidream-o1-123x128-weapons",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 123x128 Pixel Art Weapons Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art weapons generated through the local ComfyUI HiDream O1 workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-01-iron-longsword-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: iron longsword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-02-crescent-axe-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: crescent axe"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-03-oak-shortbow-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: oak shortbow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-04-crystal-dagger-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: crystal dagger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-05-storm-hammer-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: storm hammer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-06-sun-spear-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: sun spear"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-07-pirate-cutlass-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: pirate cutlass"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-08-arcane-orb-staff-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: arcane orb staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons/pixel-weapon-09-clockwork-crossbow-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art weapon asset: clockwork crossbow"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/equipment/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/weapons",
+                      "linkLabel":  "View weapon PNG assets",
+                      "tags":  [
+                                   "Weapon",
+                                   "123x128",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01-hidream-o1-123x128-shop-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 123x128 Pixel Art Game Shop UI Set 01",
+                      "text":  "Nine original public-safe 123x128 pixel art game shop ui generated through the local ComfyUI HiDream O1 workflow and exported as exact game-ready PNG variants with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-01-adventurer-general-store-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: adventurer general store"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-02-blacksmith-weapon-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: blacksmith weapon shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-03-alchemist-potion-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: alchemist potion shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-04-forest-ranger-supply-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: forest ranger supply shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-05-frost-armory-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: frost armory shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-06-pirate-cargo-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: pirate cargo shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-07-arcane-relic-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: arcane relic shop"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-08-neon-tech-market-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: neon tech market"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui/pixel-shop-ui-09-festival-food-stall-shop-123x128-hidream-o1-feed.webp",
+                                        "alt":  "123x128 HiDream O1 pixel art shop-ui asset: festival food stall shop"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/hidream-o1/123x128/shop-ui",
+                      "linkLabel":  "View game shop UI PNG assets",
+                      "tags":  [
+                                   "Shop UI",
+                                   "123x128",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  }
+              ]
+}

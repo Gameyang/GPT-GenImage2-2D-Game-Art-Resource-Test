@@ -23,16 +23,19 @@
 ## Verification
 
 - Passed: ComfyUI health and empty queue check.
-- Pending: dry-run script validation.
-- Pending: generate 54 public PNG assets.
-- Pending: generate 54 optimized WebP feed previews.
-- Pending: parse `public/home-feed.json` and verify 6 task posts with 54 media entries.
-- Pending: verify all feed media paths resolve under `public/`.
-- Pending: verify PNG dimensions are exactly `123x128`.
-- Pending: verify WebP dimensions are exactly `123x128`.
-- Pending: verify home repo source JSON files parse.
-- Pending: git commit and push.
+- Passed: dry-run script validation, 54 planned outputs.
+- Passed: generated 54 public PNG assets.
+- Passed: generated 54 optimized WebP feed previews.
+- Passed: parsed `public/home-feed.json` and verified 6 task posts with 54 media entries.
+- Passed: verified all feed media paths resolve under `public/` and point to `.webp` files.
+- Passed: verified PNG dimensions are exactly `123x128`.
+- Passed: verified WebP dimensions are exactly `123x128`.
+- Passed: confirmed `D:\Gameyang\home` worktree is clean for home feed source registration context.
+- Passed: real-time git pushes completed as feed sets finished:
+  - `dbe9200` published `qwen_image` and `pokemon` / Z-Image weapon and shop UI feed sets.
+  - `6e8bf64` published `hidream_o1` weapon feed set.
+  - Final task-close commit publishes the `hidream_o1` shop UI feed set.
 
 ## Follow-ups
 
-- None yet.
+- Raw ComfyUI sources remain under `raw/generated/20260527-comfyui-three-workflow-weapon-shop-ui-123x128-batch-01/` and were intentionally not staged.
