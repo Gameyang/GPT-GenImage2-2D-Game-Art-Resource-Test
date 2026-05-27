@@ -1,783 +1,1713 @@
 {
-  "schemaVersion": 1,
-  "project": {
-    "id": "gpt-genimage2-2d-game-art-resource-test",
-    "title": "GPT GenImage2 2D Game Art Resource Test",
-    "description": "A personal non-commercial AI learning project for testing GPT GenImage2 2D game art resources, including side-view characters, animation previews, and platform backgrounds.",
-    "pageUrl": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test",
-    "sourceUrl": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test",
-    "tags": [
-      "AI",
-      "Game Art",
-      "Pixel Art",
-      "Non-commercial"
-    ]
-  },
-  "posts": [
-    {
-      "id": "20260527-pixel-art-vehicles-interactables-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Vehicles and Interactables 01",
-      "text": "Nine public-safe transparent vehicle and interactive object resources for platformer, RPG, crafting, travel, and sci-fi fantasy prototypes.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-01-merchant-wagon-feed.webp",
-          "alt": "Pixel-art merchant wagon vehicle resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-02-wooden-rowboat-feed.webp",
-          "alt": "Pixel-art wooden rowboat vehicle resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-03-minecart-feed.webp",
-          "alt": "Pixel-art minecart vehicle resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-04-sky-skiff-feed.webp",
-          "alt": "Pixel-art sky skiff vehicle resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-05-portal-gate-feed.webp",
-          "alt": "Pixel-art portal gate interactive object resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-06-elevator-platform-feed.webp",
-          "alt": "Pixel-art mechanical elevator platform resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-07-cannon-turret-feed.webp",
-          "alt": "Pixel-art cannon turret interactive object resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-08-hover-bike-feed.webp",
-          "alt": "Pixel-art hover bike vehicle resource"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-09-teleport-pad-feed.webp",
-          "alt": "Pixel-art teleport pad interactive object resource"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Vehicles",
-        "Interactables",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260527-pixel-art-crafting-resources-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Crafting Resources 01",
-      "text": "Nine public-safe transparent crafting resource pickups for survival, RPG, crafting, and economy prototype loops.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-01-wood-bundle-feed.webp",
-          "alt": "Pixel-art wood bundle crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-02-stone-chunks-feed.webp",
-          "alt": "Pixel-art stone chunks crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-03-iron-ore-feed.webp",
-          "alt": "Pixel-art iron ore crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-04-crystal-shards-feed.webp",
-          "alt": "Pixel-art crystal shards crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-05-herb-bundle-feed.webp",
-          "alt": "Pixel-art herb bundle crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-06-mushroom-cluster-feed.webp",
-          "alt": "Pixel-art mushroom cluster crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-07-cloth-roll-feed.webp",
-          "alt": "Pixel-art cloth roll crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-08-leather-hide-feed.webp",
-          "alt": "Pixel-art leather hide crafting resource pickup"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-09-gear-parts-feed.webp",
-          "alt": "Pixel-art gear parts crafting resource pickup"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/resources/20260527-pixel-art-crafting-resources-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Resources",
-        "Crafting",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260527-pixel-art-hero-characters-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Hero Character Pack 01",
-      "text": "Nine public-safe transparent playable hero character concepts for RPG and platformer prototypes, paired with the enemy character pack.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-01-vanguard-knight-feed.webp",
-          "alt": "Pixel-art vanguard knight playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-02-forest-ranger-feed.webp",
-          "alt": "Pixel-art forest ranger playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-03-arcane-mage-feed.webp",
-          "alt": "Pixel-art arcane mage playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-04-shadow-rogue-feed.webp",
-          "alt": "Pixel-art shadow rogue playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-05-sun-cleric-feed.webp",
-          "alt": "Pixel-art sun cleric playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-06-clockwork-engineer-feed.webp",
-          "alt": "Pixel-art clockwork engineer playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-07-martial-monk-feed.webp",
-          "alt": "Pixel-art martial monk playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-08-sea-corsair-feed.webp",
-          "alt": "Pixel-art sea corsair playable hero character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-09-crystal-lancer-feed.webp",
-          "alt": "Pixel-art crystal lancer playable hero character"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-pixel-art-hero-characters-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Hero",
-        "Character",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260527-pixel-art-vfx-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Combat VFX Pack 01",
-      "text": "Nine public-safe transparent pixel-art VFX sprites for combat, spell, movement, defense, and pickup feedback.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-01-fire-burst-feed.webp",
-          "alt": "Pixel-art fire burst impact VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-02-ice-shard-impact-feed.webp",
-          "alt": "Pixel-art ice shard impact VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-03-lightning-strike-feed.webp",
-          "alt": "Pixel-art lightning strike VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-04-healing-aura-feed.webp",
-          "alt": "Pixel-art healing aura VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-05-poison-cloud-feed.webp",
-          "alt": "Pixel-art poison cloud VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-06-smoke-poof-feed.webp",
-          "alt": "Pixel-art smoke poof VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-07-sword-slash-arc-feed.webp",
-          "alt": "Pixel-art sword slash arc VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-08-shield-barrier-feed.webp",
-          "alt": "Pixel-art shield barrier VFX sprite"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-09-loot-sparkle-feed.webp",
-          "alt": "Pixel-art loot sparkle pickup VFX sprite"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/effects/20260527-pixel-art-vfx-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "VFX",
-        "Combat",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260527-pixel-art-stage-backgrounds-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Stage Backgrounds 01",
-      "text": "Nine public-safe wide pixel-art stage backgrounds for platformer, RPG, cyberpunk, fantasy, and cozy game prototype ideas.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-01-ancient-forest-ruins-feed.webp",
-          "alt": "Pixel-art ancient forest ruins stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-02-lava-forge-depths-feed.webp",
-          "alt": "Pixel-art lava forge depths stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-03-sky-castle-approach-feed.webp",
-          "alt": "Pixel-art sky castle approach stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-04-neon-rain-alley-feed.webp",
-          "alt": "Pixel-art neon rain alley stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-05-ice-cavern-shrine-feed.webp",
-          "alt": "Pixel-art ice cavern shrine stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-06-desert-sunken-temple-feed.webp",
-          "alt": "Pixel-art desert sunken temple stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-07-swamp-witch-hamlet-feed.webp",
-          "alt": "Pixel-art swamp hamlet stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-08-underwater-ruins-feed.webp",
-          "alt": "Pixel-art underwater ruins stage background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-09-cozy-town-night-feed.webp",
-          "alt": "Pixel-art cozy town night hub background"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01",
-      "linkLabel": "View PNG backgrounds",
-      "tags": [
-        "Background",
-        "Stage",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260527-pixel-art-town-buildings-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Town Building Pack 01",
-      "text": "Nine public-safe town and shop building exteriors for fantasy RPG, management, and cozy game prototypes.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-01-blacksmith-shop-feed.webp",
-          "alt": "Pixel-art blacksmith shop building with forge chimney"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-02-alchemist-cottage-feed.webp",
-          "alt": "Pixel-art alchemist cottage building with potion details"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-03-cozy-inn-feed.webp",
-          "alt": "Pixel-art cozy fantasy inn building with warm windows"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-04-adventurer-guild-hall-feed.webp",
-          "alt": "Pixel-art adventurer guild hall building with banners"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-05-magic-bookshop-feed.webp",
-          "alt": "Pixel-art magic bookshop building with crystals and curved roof"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-06-market-stall-feed.webp",
-          "alt": "Pixel-art colorful market stall with crates and produce"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-07-fisher-hut-feed.webp",
-          "alt": "Pixel-art coastal fisher hut building with nets and dock planks"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-08-clockwork-workshop-feed.webp",
-          "alt": "Pixel-art clockwork workshop building with brass pipes and gears"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-09-windmill-farmhouse-feed.webp",
-          "alt": "Pixel-art windmill farmhouse building with wheat bundles"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/buildings/20260527-pixel-art-town-buildings-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Buildings",
-        "Town",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260527-pixel-art-skill-icons-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Skill and Item Icons 01",
-      "text": "Nine public-safe pixel-art UI icons for RPG and action prototypes, covering spells, skills, key items, map, and currency resources.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-01-fireball-spell-feed.webp",
-          "alt": "Pixel-art fireball spell icon with framed fantasy UI panel"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-02-ice-shield-spell-feed.webp",
-          "alt": "Pixel-art ice shield protection spell icon"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-03-thunder-strike-spell-feed.webp",
-          "alt": "Pixel-art thunder strike spell icon"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-04-healing-leaf-spell-feed.webp",
-          "alt": "Pixel-art healing leaf spell icon"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-05-poison-dagger-skill-feed.webp",
-          "alt": "Pixel-art poison dagger skill icon"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-06-dash-boots-skill-feed.webp",
-          "alt": "Pixel-art dash boots skill icon"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-07-arcane-key-item-feed.webp",
-          "alt": "Pixel-art arcane key item icon"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-08-treasure-map-item-feed.webp",
-          "alt": "Pixel-art treasure map item icon"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-09-golden-coin-stack-item-feed.webp",
-          "alt": "Pixel-art golden coin stack currency icon"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/icons/20260527-pixel-art-skill-icons-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Icons",
-        "UI",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260526-pixel-art-platformer-tiles-pack-01",
-      "date": "2026-05-27",
-      "type": "gallery",
-      "title": "Pixel Art Platformer Tile Chunks 01",
-      "text": "Nine public-safe side-view platformer terrain chunks across grass, dungeon, desert, ice, lava, swamp, sky, cyber, and crystal biomes.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-01-grass-cliff-platform-feed.webp",
-          "alt": "Pixel-art grass cliff platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-02-dungeon-brick-platform-feed.webp",
-          "alt": "Pixel-art dungeon brick platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-03-desert-ruin-platform-feed.webp",
-          "alt": "Pixel-art desert ruin platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-04-ice-cavern-platform-feed.webp",
-          "alt": "Pixel-art ice cavern platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-05-lava-forge-platform-feed.webp",
-          "alt": "Pixel-art lava forge platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-06-swamp-root-platform-feed.webp",
-          "alt": "Pixel-art swamp root platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-07-sky-cloud-platform-feed.webp",
-          "alt": "Pixel-art sky cloud platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-08-cyber-metal-platform-feed.webp",
-          "alt": "Pixel-art cyber metal platform tile chunk"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-09-crystal-cave-platform-feed.webp",
-          "alt": "Pixel-art crystal cave platform tile chunk"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Tiles",
-        "Platformer",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260526-pixel-art-enemy-pack-01",
-      "date": "2026-05-26",
-      "type": "gallery",
-      "title": "Pixel Art Enemy Character Pack 01",
-      "text": "Nine public-safe pixel-art enemy character resources for platformer and RPG prototypes, curated as transparent PNG assets with lossless WebP feed previews.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-01-cave-slime-feed.webp",
-          "alt": "Pixel-art cave slime enemy with translucent blue body"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-02-rusty-skeleton-guard-feed.webp",
-          "alt": "Pixel-art rusty skeleton guard enemy with shield and short sword"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-03-forest-mushroom-stomper-feed.webp",
-          "alt": "Pixel-art forest mushroom stomper enemy with leaf pads"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-04-clockwork-scout-drone-feed.webp",
-          "alt": "Pixel-art brass clockwork scout drone enemy with lens eye"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-05-ember-bat-feed.webp",
-          "alt": "Pixel-art ember bat enemy with fiery wings"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-06-ice-goblin-spearman-feed.webp",
-          "alt": "Pixel-art ice goblin spearman enemy with fur hood"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-07-stone-mini-golem-feed.webp",
-          "alt": "Pixel-art stone mini golem enemy with glowing core"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-08-swamp-lantern-wisp-feed.webp",
-          "alt": "Pixel-art swamp lantern wisp enemy with green-blue flame"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-09-bandit-knife-runner-feed.webp",
-          "alt": "Pixel-art hooded bandit knife runner enemy"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260526-pixel-art-enemy-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Enemy",
-        "Character",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260526-pixel-art-marketplace-pack-01",
-      "date": "2026-05-26",
-      "type": "gallery",
-      "title": "Pixel Art Marketplace Prop Pack 01",
-      "text": "Nine public-safe fantasy RPG prop resources generated for a personal non-commercial AI learning workflow, curated as transparent PNG assets with lossless WebP feed previews.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-01-ancient-treasure-chest-feed.webp",
-          "alt": "Pixel-art ancient treasure chest prop with brass trim and gemstone lock"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-02-alchemist-potion-crate-feed.webp",
-          "alt": "Pixel-art alchemist potion crate prop with bottles and wrapped supplies"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-03-glowing-runestone-altar-feed.webp",
-          "alt": "Pixel-art glowing runestone altar prop with blue carved runes"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-04-blacksmith-anvil-tools-feed.webp",
-          "alt": "Pixel-art blacksmith anvil prop with hammer, tongs, and metal ingots"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-05-weapon-rack-adventurer-feed.webp",
-          "alt": "Pixel-art adventurer weapon rack prop with sword, spear, shield, and bow"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-06-magic-crystal-cluster-feed.webp",
-          "alt": "Pixel-art magic crystal cluster prop with teal and amber facets"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-07-dungeon-iron-door-feed.webp",
-          "alt": "Pixel-art dungeon iron door prop with rivets and reinforced wooden panels"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-08-merchant-supply-barrel-feed.webp",
-          "alt": "Pixel-art merchant supply barrel prop with rope, map, pouch, and lantern"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-09-rare-loot-pile-feed.webp",
-          "alt": "Pixel-art rare loot pile prop with coins, gems, scroll, dagger, and pouch"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/props/20260526-pixel-art-marketplace-pack-01",
-      "linkLabel": "View transparent PNG assets",
-      "tags": [
-        "Props",
-        "Pixel Art",
-        "Fantasy RPG"
-      ]
-    },
-    {
-      "id": "20260525-sideview-8x4-motion-sheets",
-      "date": "2026-05-26",
-      "type": "gif",
-      "title": "Side-view 8x4 Motion Sheet Playbacks",
-      "text": "Four semi-realistic side-view characters exported from 8x4 motion sheets into 32-frame idle, run, attack, and jump playback loops.",
-      "media": [
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-01-vanguard-swordswoman-v2-feed.webp",
-          "alt": "Vanguard swordswoman 8x4 motion sheet playback"
-        },
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-02-desert-ranger-archer-feed.webp",
-          "alt": "Desert ranger archer 8x4 motion sheet playback"
-        },
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-03-arcane-herbalist-mage-feed.webp",
-          "alt": "Arcane herbalist mage 8x4 motion sheet playback"
-        },
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-04-clockwork-shield-engineer-feed.webp",
-          "alt": "Clockwork shield engineer 8x4 motion sheet playback"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260525-sideview-8x4-motion-sheets",
-      "tags": [
-        "Character",
-        "Animation",
-        "Sprite Sheet"
-      ]
-    },
-    {
-      "id": "20260525-sideview-platform-backgrounds",
-      "date": "2026-05-25",
-      "type": "gallery",
-      "title": "Side-view Platform Backgrounds",
-      "text": "Fantasy platform stage backgrounds generated as wide horizontal 2.5D pixel-art resources.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-01-ancient-dungeon-causeway-feed.webp",
-          "alt": "Ancient dungeon causeway side-view platform background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-02-overgrown-temple-approach-feed.webp",
-          "alt": "Overgrown temple approach side-view platform background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-03-lava-forge-undercroft-feed.webp",
-          "alt": "Lava forge undercroft side-view platform background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-04-coastal-cavern-dock-feed.webp",
-          "alt": "Coastal cavern dock side-view platform background"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-05-sky-castle-battlement-feed.webp",
-          "alt": "Sky castle battlement side-view platform background"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260525-home-feed-webp-optimized-assets",
-      "tags": [
-        "Background",
-        "Platformer",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "20260525-sideview-character-concepts",
-      "date": "2026-05-25",
-      "type": "gallery",
-      "title": "Side-view Pixel Character Concepts",
-      "text": "A publishable character concept set for side-view game prototypes, covering melee, ranged, magic, guard, rogue, and courier roles.",
-      "media": [
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-01-adventurer-swordsman-feed.webp",
-          "alt": "Adventurer swordsman side-view pixel character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-02-desert-scout-archer-feed.webp",
-          "alt": "Desert scout archer side-view pixel character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-03-forest-herbalist-mage-feed.webp",
-          "alt": "Forest herbalist mage side-view pixel character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-05-armored-shield-guard-feed.webp",
-          "alt": "Armored shield guard side-view pixel character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-06-nimble-rogue-thief-feed.webp",
-          "alt": "Nimble rogue thief side-view pixel character"
-        },
-        {
-          "type": "image",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-10-sea-courier-runner-feed.webp",
-          "alt": "Sea courier runner side-view pixel character"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260525-home-feed-webp-optimized-assets",
-      "tags": [
-        "Character",
-        "Concept",
-        "Pixel Art"
-      ]
-    },
-    {
-      "id": "20260525-sideview-animation-playbacks",
-      "date": "2026-05-25",
-      "type": "gif",
-      "title": "Side-view Character Animation WebP Previews",
-      "text": "Animated WebP previews compressed from generated animation sheets for quick visual review in the public feed.",
-      "media": [
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-01-adventurer-swordsman-feed.webp",
-          "alt": "Adventurer swordsman animation playback WebP"
-        },
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-02-desert-scout-archer-feed.webp",
-          "alt": "Desert scout archer animation playback WebP"
-        },
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-03-forest-herbalist-mage-feed.webp",
-          "alt": "Forest herbalist mage animation playback WebP"
-        },
-        {
-          "type": "gif",
-          "url": "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-08-ice-lancer-knight-feed.webp",
-          "alt": "Ice lancer knight animation playback WebP"
-        }
-      ],
-      "url": "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260525-home-feed-webp-optimized-assets",
-      "tags": [
-        "Animation",
-        "WebP",
-        "Sprite"
-      ]
-    }
-  ]
+    "schemaVersion":  1,
+    "project":  {
+                    "id":  "gpt-genimage2-2d-game-art-resource-test",
+                    "title":  "GPT GenImage2 2D Game Art Resource Test",
+                    "description":  "A personal non-commercial AI learning project for testing GPT GenImage2 2D game art resources, including side-view characters, animation previews, and platform backgrounds.",
+                    "pageUrl":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test",
+                    "sourceUrl":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test",
+                    "tags":  [
+                                 "AI",
+                                 "Game Art",
+                                 "Pixel Art",
+                                 "Non-commercial"
+                             ]
+                },
+    "posts":  [
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-hidream-o1-inventory-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 Pixel Art Inventory UI Set 01",
+                      "text":  "Nine original public-safe pixel art inventory ui generated through the local ComfyUI HiDream O1 workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-01-adventurer-backpack-panel-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: adventurer backpack panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-02-arcane-library-inventory-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: arcane library inventory"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-03-blacksmith-stash-screen-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: blacksmith stash screen"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-04-alchemist-kit-panel-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: alchemist kit panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-05-neon-runner-loadout-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: neon runner loadout"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-06-pirate-cargo-inventory-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: pirate cargo inventory"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-07-forest-ranger-pouch-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: forest ranger pouch"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-08-frost-armory-panel-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: frost armory panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui/pixel-inventory-ui-09-merchant-shop-grid-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art inventory-ui asset: merchant shop grid"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/inventory-ui",
+                      "linkLabel":  "View inventory UI PNG assets",
+                      "tags":  [
+                                   "Inventory UI",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-hidream-o1-items",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 Pixel Art Items Set 01",
+                      "text":  "Nine original public-safe pixel art items generated through the local ComfyUI HiDream O1 workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-01-sunsteel-sword-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: sunsteel sword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-02-moonwood-bow-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: moonwood bow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-03-ember-staff-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: ember staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-04-guardian-shield-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: guardian shield"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-05-healing-potion-crate-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: healing potion crate"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-06-arcane-key-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: arcane key"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-07-mana-crystal-cache-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: mana crystal cache"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-08-dash-boots-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: dash boots"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items/pixel-item-09-merchant-coin-stack-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art item asset: merchant coin stack"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/items",
+                      "linkLabel":  "View item PNG assets",
+                      "tags":  [
+                                   "Item",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-hidream-o1-backgrounds",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 Pixel Art Backgrounds Set 01",
+                      "text":  "Nine original public-safe pixel art backgrounds generated through the local ComfyUI HiDream O1 workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-01-ancient-forest-ruins-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: ancient forest ruins"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-02-lava-forge-depths-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: lava forge depths"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-03-sky-castle-approach-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: sky castle approach"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-04-neon-rain-alley-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: neon rain alley"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-05-ice-cavern-shrine-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: ice cavern shrine"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-06-desert-sunken-temple-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: desert sunken temple"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-07-swamp-witch-hamlet-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: swamp witch hamlet"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-08-underwater-ruins-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: underwater ruins"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds/pixel-background-09-cozy-town-night-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art background asset: cozy town night"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/backgrounds",
+                      "linkLabel":  "View background PNG assets",
+                      "tags":  [
+                                   "Background",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-hidream-o1-monsters",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 Pixel Art Monsters Set 01",
+                      "text":  "Nine original public-safe pixel art monsters generated through the local ComfyUI HiDream O1 workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-01-mossy-slime-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: mossy slime"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-02-rustbone-sentry-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: rustbone sentry"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-03-mushroom-stomper-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: mushroom stomper"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-04-gearwing-drone-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: gearwing drone"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-05-ember-bat-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: ember bat"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-06-ice-imp-scout-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: ice imp scout"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-07-rune-stone-golem-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: rune stone golem"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-08-lantern-wisp-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: lantern wisp"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-09-shadow-bandit-runner-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art monster asset: shadow bandit runner"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters",
+                      "linkLabel":  "View monster PNG assets",
+                      "tags":  [
+                                   "Monster",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-hidream-o1-characters",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "HiDream O1 Pixel Art Characters Set 01",
+                      "text":  "Nine original public-safe pixel art characters generated through the local ComfyUI HiDream O1 workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-01-sunblade-knight-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: sunblade knight"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-02-moonlit-ranger-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: moonlit ranger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-03-ember-apprentice-mage-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: ember apprentice mage"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-04-clockwork-tinkerer-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: clockwork tinkerer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-05-marsh-healer-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: marsh healer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-06-frost-lancer-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: frost lancer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-07-storm-monk-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: storm monk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-08-coral-corsair-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: coral corsair"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-09-crystal-summoner-hidream-o1-feed.webp",
+                                        "alt":  "HiDream O1 pixel art character asset: crystal summoner"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters",
+                      "linkLabel":  "View character PNG assets",
+                      "tags":  [
+                                   "Character",
+                                   "HiDream O1",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-z-image-inventory-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Art Inventory UI Set 01",
+                      "text":  "Nine original public-safe pixel art inventory ui generated through the local ComfyUI Z-Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-01-adventurer-backpack-panel-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: adventurer backpack panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-02-arcane-library-inventory-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: arcane library inventory"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-03-blacksmith-stash-screen-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: blacksmith stash screen"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-04-alchemist-kit-panel-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: alchemist kit panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-05-neon-runner-loadout-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: neon runner loadout"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-06-pirate-cargo-inventory-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: pirate cargo inventory"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-07-forest-ranger-pouch-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: forest ranger pouch"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-08-frost-armory-panel-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: frost armory panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui/pixel-inventory-ui-09-merchant-shop-grid-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art inventory-ui asset: merchant shop grid"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-marketplace-game-resource-batch-01/z-image/inventory-ui",
+                      "linkLabel":  "View inventory UI PNG assets",
+                      "tags":  [
+                                   "Inventory UI",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-z-image-items",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Art Items Set 01",
+                      "text":  "Nine original public-safe pixel art items generated through the local ComfyUI Z-Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-01-sunsteel-sword-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: sunsteel sword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-02-moonwood-bow-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: moonwood bow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-03-ember-staff-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: ember staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-04-guardian-shield-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: guardian shield"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-05-healing-potion-crate-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: healing potion crate"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-06-arcane-key-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: arcane key"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-07-mana-crystal-cache-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: mana crystal cache"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-08-dash-boots-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: dash boots"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items/pixel-item-09-merchant-coin-stack-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art item asset: merchant coin stack"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/z-image/items",
+                      "linkLabel":  "View item PNG assets",
+                      "tags":  [
+                                   "Item",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-z-image-backgrounds",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Art Backgrounds Set 01",
+                      "text":  "Nine original public-safe pixel art backgrounds generated through the local ComfyUI Z-Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-01-ancient-forest-ruins-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: ancient forest ruins"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-02-lava-forge-depths-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: lava forge depths"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-03-sky-castle-approach-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: sky castle approach"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-04-neon-rain-alley-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: neon rain alley"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-05-ice-cavern-shrine-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: ice cavern shrine"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-06-desert-sunken-temple-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: desert sunken temple"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-07-swamp-witch-hamlet-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: swamp witch hamlet"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-08-underwater-ruins-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: underwater ruins"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds/pixel-background-09-cozy-town-night-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art background asset: cozy town night"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/z-image/backgrounds",
+                      "linkLabel":  "View background PNG assets",
+                      "tags":  [
+                                   "Background",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-z-image-monsters",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Art Monsters Set 01",
+                      "text":  "Nine original public-safe pixel art monsters generated through the local ComfyUI Z-Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-01-mossy-slime-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: mossy slime"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-02-rustbone-sentry-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: rustbone sentry"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-03-mushroom-stomper-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: mushroom stomper"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-04-gearwing-drone-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: gearwing drone"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-05-ember-bat-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: ember bat"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-06-ice-imp-scout-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: ice imp scout"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-07-rune-stone-golem-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: rune stone golem"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-08-lantern-wisp-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: lantern wisp"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters/pixel-monster-09-shadow-bandit-runner-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art monster asset: shadow bandit runner"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/monsters",
+                      "linkLabel":  "View monster PNG assets",
+                      "tags":  [
+                                   "Monster",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-z-image-characters",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Art Characters Set 01",
+                      "text":  "Nine original public-safe pixel art characters generated through the local ComfyUI Z-Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-01-sunblade-knight-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: sunblade knight"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-02-moonlit-ranger-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: moonlit ranger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-03-ember-apprentice-mage-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: ember apprentice mage"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-04-clockwork-tinkerer-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: clockwork tinkerer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-05-marsh-healer-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: marsh healer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-06-frost-lancer-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: frost lancer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-07-storm-monk-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: storm monk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-08-coral-corsair-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: coral corsair"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-09-crystal-summoner-z-image-feed.webp",
+                                        "alt":  "Z-Image pixel art character asset: crystal summoner"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters",
+                      "linkLabel":  "View character PNG assets",
+                      "tags":  [
+                                   "Character",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-inventory-ui",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Art Inventory UI Set 01",
+                      "text":  "Nine original public-safe pixel art inventory ui generated through the local ComfyUI Qwen Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-01-adventurer-backpack-panel-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: adventurer backpack panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-02-arcane-library-inventory-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: arcane library inventory"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-03-blacksmith-stash-screen-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: blacksmith stash screen"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-04-alchemist-kit-panel-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: alchemist kit panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-05-neon-runner-loadout-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: neon runner loadout"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-06-pirate-cargo-inventory-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: pirate cargo inventory"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-07-forest-ranger-pouch-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: forest ranger pouch"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-08-frost-armory-panel-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: frost armory panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui/pixel-inventory-ui-09-merchant-shop-grid-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art inventory-ui asset: merchant shop grid"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/ui/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/inventory-ui",
+                      "linkLabel":  "View inventory UI PNG assets",
+                      "tags":  [
+                                   "Inventory UI",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-items",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Art Items Set 01",
+                      "text":  "Nine original public-safe pixel art items generated through the local ComfyUI Qwen Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-01-sunsteel-sword-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: sunsteel sword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-02-moonwood-bow-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: moonwood bow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-03-ember-staff-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: ember staff"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-04-guardian-shield-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: guardian shield"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-05-healing-potion-crate-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: healing potion crate"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-06-arcane-key-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: arcane key"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-07-mana-crystal-cache-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: mana crystal cache"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-08-dash-boots-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: dash boots"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-09-merchant-coin-stack-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art item asset: merchant coin stack"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items",
+                      "linkLabel":  "View item PNG assets",
+                      "tags":  [
+                                   "Item",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-backgrounds",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Art Backgrounds Set 01",
+                      "text":  "Nine original public-safe pixel art backgrounds generated through the local ComfyUI Qwen Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-01-ancient-forest-ruins-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: ancient forest ruins"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-02-lava-forge-depths-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: lava forge depths"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-03-sky-castle-approach-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: sky castle approach"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-04-neon-rain-alley-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: neon rain alley"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-05-ice-cavern-shrine-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: ice cavern shrine"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-06-desert-sunken-temple-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: desert sunken temple"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-07-swamp-witch-hamlet-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: swamp witch hamlet"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-08-underwater-ruins-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: underwater ruins"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-09-cozy-town-night-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art background asset: cozy town night"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds",
+                      "linkLabel":  "View background PNG assets",
+                      "tags":  [
+                                   "Background",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-monsters",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Art Monsters Set 01",
+                      "text":  "Nine original public-safe pixel art monsters generated through the local ComfyUI Qwen Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-01-mossy-slime-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: mossy slime"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-02-rustbone-sentry-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: rustbone sentry"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-03-mushroom-stomper-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: mushroom stomper"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-04-gearwing-drone-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: gearwing drone"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-05-ember-bat-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: ember bat"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-06-ice-imp-scout-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: ice imp scout"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-07-rune-stone-golem-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: rune stone golem"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-08-lantern-wisp-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: lantern wisp"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters/pixel-monster-09-shadow-bandit-runner-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art monster asset: shadow bandit runner"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/monsters",
+                      "linkLabel":  "View monster PNG assets",
+                      "tags":  [
+                                   "Monster",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-characters",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Art Characters Set 01",
+                      "text":  "Nine original public-safe pixel art characters generated through the local ComfyUI Qwen Image workflow for marketplace-style game resource ideation.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-01-sunblade-knight-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: sunblade knight"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-02-moonlit-ranger-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: moonlit ranger"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-03-ember-apprentice-mage-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: ember apprentice mage"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-04-clockwork-tinkerer-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: clockwork tinkerer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-05-marsh-healer-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: marsh healer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-06-frost-lancer-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: frost lancer"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-07-storm-monk-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: storm monk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-08-coral-corsair-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: coral corsair"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-09-crystal-summoner-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image pixel art character asset: crystal summoner"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters",
+                      "linkLabel":  "View character PNG assets",
+                      "tags":  [
+                                   "Character",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-pixel-art-vehicles-interactables-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Vehicles and Interactables 01",
+                      "text":  "Nine public-safe transparent vehicle and interactive object resources for platformer, RPG, crafting, travel, and sci-fi fantasy prototypes.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-01-merchant-wagon-feed.webp",
+                                        "alt":  "Pixel-art merchant wagon vehicle resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-02-wooden-rowboat-feed.webp",
+                                        "alt":  "Pixel-art wooden rowboat vehicle resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-03-minecart-feed.webp",
+                                        "alt":  "Pixel-art minecart vehicle resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-04-sky-skiff-feed.webp",
+                                        "alt":  "Pixel-art sky skiff vehicle resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-05-portal-gate-feed.webp",
+                                        "alt":  "Pixel-art portal gate interactive object resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-06-elevator-platform-feed.webp",
+                                        "alt":  "Pixel-art mechanical elevator platform resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-07-cannon-turret-feed.webp",
+                                        "alt":  "Pixel-art cannon turret interactive object resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-08-hover-bike-feed.webp",
+                                        "alt":  "Pixel-art hover bike vehicle resource"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vehicles-interactables-pack-01/pixel-vehicle-09-teleport-pad-feed.webp",
+                                        "alt":  "Pixel-art teleport pad interactive object resource"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/vehicles/20260527-pixel-art-vehicles-interactables-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Vehicles",
+                                   "Interactables",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-pixel-art-crafting-resources-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Crafting Resources 01",
+                      "text":  "Nine public-safe transparent crafting resource pickups for survival, RPG, crafting, and economy prototype loops.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-01-wood-bundle-feed.webp",
+                                        "alt":  "Pixel-art wood bundle crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-02-stone-chunks-feed.webp",
+                                        "alt":  "Pixel-art stone chunks crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-03-iron-ore-feed.webp",
+                                        "alt":  "Pixel-art iron ore crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-04-crystal-shards-feed.webp",
+                                        "alt":  "Pixel-art crystal shards crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-05-herb-bundle-feed.webp",
+                                        "alt":  "Pixel-art herb bundle crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-06-mushroom-cluster-feed.webp",
+                                        "alt":  "Pixel-art mushroom cluster crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-07-cloth-roll-feed.webp",
+                                        "alt":  "Pixel-art cloth roll crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-08-leather-hide-feed.webp",
+                                        "alt":  "Pixel-art leather hide crafting resource pickup"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-crafting-resources-pack-01/pixel-resource-09-gear-parts-feed.webp",
+                                        "alt":  "Pixel-art gear parts crafting resource pickup"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/resources/20260527-pixel-art-crafting-resources-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Resources",
+                                   "Crafting",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-pixel-art-hero-characters-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Hero Character Pack 01",
+                      "text":  "Nine public-safe transparent playable hero character concepts for RPG and platformer prototypes, paired with the enemy character pack.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-01-vanguard-knight-feed.webp",
+                                        "alt":  "Pixel-art vanguard knight playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-02-forest-ranger-feed.webp",
+                                        "alt":  "Pixel-art forest ranger playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-03-arcane-mage-feed.webp",
+                                        "alt":  "Pixel-art arcane mage playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-04-shadow-rogue-feed.webp",
+                                        "alt":  "Pixel-art shadow rogue playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-05-sun-cleric-feed.webp",
+                                        "alt":  "Pixel-art sun cleric playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-06-clockwork-engineer-feed.webp",
+                                        "alt":  "Pixel-art clockwork engineer playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-07-martial-monk-feed.webp",
+                                        "alt":  "Pixel-art martial monk playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-08-sea-corsair-feed.webp",
+                                        "alt":  "Pixel-art sea corsair playable hero character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-hero-characters-pack-01/pixel-hero-09-crystal-lancer-feed.webp",
+                                        "alt":  "Pixel-art crystal lancer playable hero character"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260527-pixel-art-hero-characters-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Hero",
+                                   "Character",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-pixel-art-vfx-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Combat VFX Pack 01",
+                      "text":  "Nine public-safe transparent pixel-art VFX sprites for combat, spell, movement, defense, and pickup feedback.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-01-fire-burst-feed.webp",
+                                        "alt":  "Pixel-art fire burst impact VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-02-ice-shard-impact-feed.webp",
+                                        "alt":  "Pixel-art ice shard impact VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-03-lightning-strike-feed.webp",
+                                        "alt":  "Pixel-art lightning strike VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-04-healing-aura-feed.webp",
+                                        "alt":  "Pixel-art healing aura VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-05-poison-cloud-feed.webp",
+                                        "alt":  "Pixel-art poison cloud VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-06-smoke-poof-feed.webp",
+                                        "alt":  "Pixel-art smoke poof VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-07-sword-slash-arc-feed.webp",
+                                        "alt":  "Pixel-art sword slash arc VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-08-shield-barrier-feed.webp",
+                                        "alt":  "Pixel-art shield barrier VFX sprite"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-vfx-pack-01/pixel-vfx-09-loot-sparkle-feed.webp",
+                                        "alt":  "Pixel-art loot sparkle pickup VFX sprite"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/effects/20260527-pixel-art-vfx-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "VFX",
+                                   "Combat",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-pixel-art-stage-backgrounds-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Stage Backgrounds 01",
+                      "text":  "Nine public-safe wide pixel-art stage backgrounds for platformer, RPG, cyberpunk, fantasy, and cozy game prototype ideas.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-01-ancient-forest-ruins-feed.webp",
+                                        "alt":  "Pixel-art ancient forest ruins stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-02-lava-forge-depths-feed.webp",
+                                        "alt":  "Pixel-art lava forge depths stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-03-sky-castle-approach-feed.webp",
+                                        "alt":  "Pixel-art sky castle approach stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-04-neon-rain-alley-feed.webp",
+                                        "alt":  "Pixel-art neon rain alley stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-05-ice-cavern-shrine-feed.webp",
+                                        "alt":  "Pixel-art ice cavern shrine stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-06-desert-sunken-temple-feed.webp",
+                                        "alt":  "Pixel-art desert sunken temple stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-07-swamp-witch-hamlet-feed.webp",
+                                        "alt":  "Pixel-art swamp hamlet stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-08-underwater-ruins-feed.webp",
+                                        "alt":  "Pixel-art underwater ruins stage background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-stage-backgrounds-pack-01/pixel-bg-09-cozy-town-night-feed.webp",
+                                        "alt":  "Pixel-art cozy town night hub background"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/backgrounds/20260527-pixel-art-stage-backgrounds-pack-01",
+                      "linkLabel":  "View PNG backgrounds",
+                      "tags":  [
+                                   "Background",
+                                   "Stage",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-pixel-art-town-buildings-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Town Building Pack 01",
+                      "text":  "Nine public-safe town and shop building exteriors for fantasy RPG, management, and cozy game prototypes.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-01-blacksmith-shop-feed.webp",
+                                        "alt":  "Pixel-art blacksmith shop building with forge chimney"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-02-alchemist-cottage-feed.webp",
+                                        "alt":  "Pixel-art alchemist cottage building with potion details"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-03-cozy-inn-feed.webp",
+                                        "alt":  "Pixel-art cozy fantasy inn building with warm windows"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-04-adventurer-guild-hall-feed.webp",
+                                        "alt":  "Pixel-art adventurer guild hall building with banners"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-05-magic-bookshop-feed.webp",
+                                        "alt":  "Pixel-art magic bookshop building with crystals and curved roof"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-06-market-stall-feed.webp",
+                                        "alt":  "Pixel-art colorful market stall with crates and produce"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-07-fisher-hut-feed.webp",
+                                        "alt":  "Pixel-art coastal fisher hut building with nets and dock planks"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-08-clockwork-workshop-feed.webp",
+                                        "alt":  "Pixel-art clockwork workshop building with brass pipes and gears"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-town-buildings-pack-01/pixel-building-09-windmill-farmhouse-feed.webp",
+                                        "alt":  "Pixel-art windmill farmhouse building with wheat bundles"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/buildings/20260527-pixel-art-town-buildings-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Buildings",
+                                   "Town",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260527-pixel-art-skill-icons-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Skill and Item Icons 01",
+                      "text":  "Nine public-safe pixel-art UI icons for RPG and action prototypes, covering spells, skills, key items, map, and currency resources.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-01-fireball-spell-feed.webp",
+                                        "alt":  "Pixel-art fireball spell icon with framed fantasy UI panel"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-02-ice-shield-spell-feed.webp",
+                                        "alt":  "Pixel-art ice shield protection spell icon"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-03-thunder-strike-spell-feed.webp",
+                                        "alt":  "Pixel-art thunder strike spell icon"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-04-healing-leaf-spell-feed.webp",
+                                        "alt":  "Pixel-art healing leaf spell icon"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-05-poison-dagger-skill-feed.webp",
+                                        "alt":  "Pixel-art poison dagger skill icon"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-06-dash-boots-skill-feed.webp",
+                                        "alt":  "Pixel-art dash boots skill icon"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-07-arcane-key-item-feed.webp",
+                                        "alt":  "Pixel-art arcane key item icon"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-08-treasure-map-item-feed.webp",
+                                        "alt":  "Pixel-art treasure map item icon"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260527-pixel-art-skill-icons-pack-01/pixel-icon-09-golden-coin-stack-item-feed.webp",
+                                        "alt":  "Pixel-art golden coin stack currency icon"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/icons/20260527-pixel-art-skill-icons-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Icons",
+                                   "UI",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260526-pixel-art-platformer-tiles-pack-01",
+                      "date":  "2026-05-27",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Platformer Tile Chunks 01",
+                      "text":  "Nine public-safe side-view platformer terrain chunks across grass, dungeon, desert, ice, lava, swamp, sky, cyber, and crystal biomes.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-01-grass-cliff-platform-feed.webp",
+                                        "alt":  "Pixel-art grass cliff platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-02-dungeon-brick-platform-feed.webp",
+                                        "alt":  "Pixel-art dungeon brick platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-03-desert-ruin-platform-feed.webp",
+                                        "alt":  "Pixel-art desert ruin platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-04-ice-cavern-platform-feed.webp",
+                                        "alt":  "Pixel-art ice cavern platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-05-lava-forge-platform-feed.webp",
+                                        "alt":  "Pixel-art lava forge platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-06-swamp-root-platform-feed.webp",
+                                        "alt":  "Pixel-art swamp root platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-07-sky-cloud-platform-feed.webp",
+                                        "alt":  "Pixel-art sky cloud platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-08-cyber-metal-platform-feed.webp",
+                                        "alt":  "Pixel-art cyber metal platform tile chunk"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-platformer-tiles-pack-01/pixel-tile-09-crystal-cave-platform-feed.webp",
+                                        "alt":  "Pixel-art crystal cave platform tile chunk"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/tiles/20260526-pixel-art-platformer-tiles-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Tiles",
+                                   "Platformer",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260526-pixel-art-enemy-pack-01",
+                      "date":  "2026-05-26",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Enemy Character Pack 01",
+                      "text":  "Nine public-safe pixel-art enemy character resources for platformer and RPG prototypes, curated as transparent PNG assets with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-01-cave-slime-feed.webp",
+                                        "alt":  "Pixel-art cave slime enemy with translucent blue body"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-02-rusty-skeleton-guard-feed.webp",
+                                        "alt":  "Pixel-art rusty skeleton guard enemy with shield and short sword"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-03-forest-mushroom-stomper-feed.webp",
+                                        "alt":  "Pixel-art forest mushroom stomper enemy with leaf pads"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-04-clockwork-scout-drone-feed.webp",
+                                        "alt":  "Pixel-art brass clockwork scout drone enemy with lens eye"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-05-ember-bat-feed.webp",
+                                        "alt":  "Pixel-art ember bat enemy with fiery wings"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-06-ice-goblin-spearman-feed.webp",
+                                        "alt":  "Pixel-art ice goblin spearman enemy with fur hood"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-07-stone-mini-golem-feed.webp",
+                                        "alt":  "Pixel-art stone mini golem enemy with glowing core"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-08-swamp-lantern-wisp-feed.webp",
+                                        "alt":  "Pixel-art swamp lantern wisp enemy with green-blue flame"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-enemy-pack-01/pixel-enemy-09-bandit-knife-runner-feed.webp",
+                                        "alt":  "Pixel-art hooded bandit knife runner enemy"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260526-pixel-art-enemy-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Enemy",
+                                   "Character",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260526-pixel-art-marketplace-pack-01",
+                      "date":  "2026-05-26",
+                      "type":  "gallery",
+                      "title":  "Pixel Art Marketplace Prop Pack 01",
+                      "text":  "Nine public-safe fantasy RPG prop resources generated for a personal non-commercial AI learning workflow, curated as transparent PNG assets with lossless WebP feed previews.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-01-ancient-treasure-chest-feed.webp",
+                                        "alt":  "Pixel-art ancient treasure chest prop with brass trim and gemstone lock"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-02-alchemist-potion-crate-feed.webp",
+                                        "alt":  "Pixel-art alchemist potion crate prop with bottles and wrapped supplies"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-03-glowing-runestone-altar-feed.webp",
+                                        "alt":  "Pixel-art glowing runestone altar prop with blue carved runes"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-04-blacksmith-anvil-tools-feed.webp",
+                                        "alt":  "Pixel-art blacksmith anvil prop with hammer, tongs, and metal ingots"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-05-weapon-rack-adventurer-feed.webp",
+                                        "alt":  "Pixel-art adventurer weapon rack prop with sword, spear, shield, and bow"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-06-magic-crystal-cluster-feed.webp",
+                                        "alt":  "Pixel-art magic crystal cluster prop with teal and amber facets"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-07-dungeon-iron-door-feed.webp",
+                                        "alt":  "Pixel-art dungeon iron door prop with rivets and reinforced wooden panels"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-08-merchant-supply-barrel-feed.webp",
+                                        "alt":  "Pixel-art merchant supply barrel prop with rope, map, pouch, and lantern"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260526-pixel-art-marketplace-pack-01/pixel-prop-09-rare-loot-pile-feed.webp",
+                                        "alt":  "Pixel-art rare loot pile prop with coins, gems, scroll, dagger, and pouch"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/props/20260526-pixel-art-marketplace-pack-01",
+                      "linkLabel":  "View transparent PNG assets",
+                      "tags":  [
+                                   "Props",
+                                   "Pixel Art",
+                                   "Fantasy RPG"
+                               ]
+                  },
+                  {
+                      "id":  "20260525-sideview-8x4-motion-sheets",
+                      "date":  "2026-05-26",
+                      "type":  "gif",
+                      "title":  "Side-view 8x4 Motion Sheet Playbacks",
+                      "text":  "Four semi-realistic side-view characters exported from 8x4 motion sheets into 32-frame idle, run, attack, and jump playback loops.",
+                      "media":  [
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-01-vanguard-swordswoman-v2-feed.webp",
+                                        "alt":  "Vanguard swordswoman 8x4 motion sheet playback"
+                                    },
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-02-desert-ranger-archer-feed.webp",
+                                        "alt":  "Desert ranger archer 8x4 motion sheet playback"
+                                    },
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-03-arcane-herbalist-mage-feed.webp",
+                                        "alt":  "Arcane herbalist mage 8x4 motion sheet playback"
+                                    },
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260526-home-feed-sideview-8x4-motion-sheets/playback-sideview-8x4-motion-04-clockwork-shield-engineer-feed.webp",
+                                        "alt":  "Clockwork shield engineer 8x4 motion sheet playback"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/characters/20260525-sideview-8x4-motion-sheets",
+                      "tags":  [
+                                   "Character",
+                                   "Animation",
+                                   "Sprite Sheet"
+                               ]
+                  },
+                  {
+                      "id":  "20260525-sideview-platform-backgrounds",
+                      "date":  "2026-05-25",
+                      "type":  "gallery",
+                      "title":  "Side-view Platform Backgrounds",
+                      "text":  "Fantasy platform stage backgrounds generated as wide horizontal 2.5D pixel-art resources.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-01-ancient-dungeon-causeway-feed.webp",
+                                        "alt":  "Ancient dungeon causeway side-view platform background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-02-overgrown-temple-approach-feed.webp",
+                                        "alt":  "Overgrown temple approach side-view platform background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-03-lava-forge-undercroft-feed.webp",
+                                        "alt":  "Lava forge undercroft side-view platform background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-04-coastal-cavern-dock-feed.webp",
+                                        "alt":  "Coastal cavern dock side-view platform background"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/background-sideview-05-sky-castle-battlement-feed.webp",
+                                        "alt":  "Sky castle battlement side-view platform background"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260525-home-feed-webp-optimized-assets",
+                      "tags":  [
+                                   "Background",
+                                   "Platformer",
+                                   "Fantasy"
+                               ]
+                  },
+                  {
+                      "id":  "20260525-sideview-character-concepts",
+                      "date":  "2026-05-25",
+                      "type":  "gallery",
+                      "title":  "Side-view Pixel Character Concepts",
+                      "text":  "A publishable character concept set for side-view game prototypes, covering melee, ranged, magic, guard, rogue, and courier roles.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-01-adventurer-swordsman-feed.webp",
+                                        "alt":  "Adventurer swordsman side-view pixel character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-02-desert-scout-archer-feed.webp",
+                                        "alt":  "Desert scout archer side-view pixel character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-03-forest-herbalist-mage-feed.webp",
+                                        "alt":  "Forest herbalist mage side-view pixel character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-05-armored-shield-guard-feed.webp",
+                                        "alt":  "Armored shield guard side-view pixel character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-06-nimble-rogue-thief-feed.webp",
+                                        "alt":  "Nimble rogue thief side-view pixel character"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/character-sideview-10-sea-courier-runner-feed.webp",
+                                        "alt":  "Sea courier runner side-view pixel character"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260525-home-feed-webp-optimized-assets",
+                      "tags":  [
+                                   "Character",
+                                   "Concept",
+                                   "Pixel Art"
+                               ]
+                  },
+                  {
+                      "id":  "20260525-sideview-animation-playbacks",
+                      "date":  "2026-05-25",
+                      "type":  "gif",
+                      "title":  "Side-view Character Animation WebP Previews",
+                      "text":  "Animated WebP previews compressed from generated animation sheets for quick visual review in the public feed.",
+                      "media":  [
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-01-adventurer-swordsman-feed.webp",
+                                        "alt":  "Adventurer swordsman animation playback WebP"
+                                    },
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-02-desert-scout-archer-feed.webp",
+                                        "alt":  "Desert scout archer animation playback WebP"
+                                    },
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-03-forest-herbalist-mage-feed.webp",
+                                        "alt":  "Forest herbalist mage animation playback WebP"
+                                    },
+                                    {
+                                        "type":  "gif",
+                                        "url":  "assets/feed-optimized/20260525-home-feed-webp-optimized-assets/playback-08-ice-lancer-knight-feed.webp",
+                                        "alt":  "Ice lancer knight animation playback WebP"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260525-home-feed-webp-optimized-assets",
+                      "tags":  [
+                                   "Animation",
+                                   "WebP",
+                                   "Sprite"
+                               ]
+                  }
+              ]
 }

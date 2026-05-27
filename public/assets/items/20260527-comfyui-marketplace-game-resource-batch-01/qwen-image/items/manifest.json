@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T15:37:42",
+    "taskId":  "20260527-comfyui-marketplace-game-resource-batch-01",
+    "packId":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-items",
+    "workflow":  "qwen_image",
+    "category":  "items",
+    "publicDir":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "sunsteel-sword",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, sunsteel short sword with gold guard, red grip, bright gem pommel. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-01-sunsteel-sword-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-01-sunsteel-sword-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "moonwood-bow",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, moonwood bow with silver tips, green string, leaf-carved handle. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-02-moonwood-bow-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-02-moonwood-bow-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "ember-staff",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ember mage staff with small flame crystal, carved wooden shaft. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-03-ember-staff-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-03-ember-staff-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "guardian-shield",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, round guardian shield with blue enamel, brass rim, simple crest icon. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-04-guardian-shield-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-04-guardian-shield-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "healing-potion-crate",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, small healing potion crate with red bottles, corks, rope handle. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-05-healing-potion-crate-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-05-healing-potion-crate-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "arcane-key",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, arcane key with violet crystal teeth, silver bow, tiny sparkle. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-06-arcane-key-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-06-arcane-key-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "mana-crystal-cache",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, cluster of mana crystals in teal and purple with small stone base. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-07-mana-crystal-cache-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-07-mana-crystal-cache-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "dash-boots",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, leather dash boots with wing charms, blue straps, dust trail hint. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-08-dash-boots-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-08-dash-boots-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "items",
+                       "name":  "merchant-coin-stack",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, stack of gold merchant coins with tiny pouch and two loose gems. Single inventory item icon object, centered, readable at small size, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/items/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-09-merchant-coin-stack-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/items/pixel-item-09-merchant-coin-stack-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

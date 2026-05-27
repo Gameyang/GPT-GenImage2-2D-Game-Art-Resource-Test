@@ -130,6 +130,18 @@ function Set-NodeInput {
     }
 }
 
+function Remove-PromptNode {
+    param(
+        [Parameter(Mandatory = $true)]$PromptObject,
+        [Parameter(Mandatory = $true)][string]$Node
+    )
+
+    $property = $PromptObject.PSObject.Properties[$Node]
+    if ($null -ne $property) {
+        $PromptObject.PSObject.Properties.Remove($Node)
+    }
+}
+
 function Get-NodeInput {
     param(
         [Parameter(Mandatory = $true)]$PromptObject,
@@ -405,6 +417,40 @@ if (-not [string]::IsNullOrWhiteSpace($InputImage)) {
 }
 elseif ($null -ne $inputImageMap) {
     Set-NodeInput -PromptObject $workflowPrompt -Node $inputImageMap.switchNode -InputName $inputImageMap.switchInput -Value $inputImageMap.disabledValue
+}
+
+if ($workflowName -eq "hidream_o1" -and $null -eq $inputImageFull) {
+    Set-NodeInput -PromptObject $workflowPrompt -Node "110" -InputName "text" -Value $Prompt
+    Set-NodeInput -PromptObject $workflowPrompt -Node "108" -InputName "positive" -Value ([object[]]@("110", 0))
+    Set-NodeInput -PromptObject $workflowPrompt -Node "108" -InputName "negative" -Value ([object[]]@("188", 0))
+    Set-NodeInput -PromptObject $workflowPrompt -Node "108" -InputName "latent_image" -Value ([object[]]@("156", 0))
+
+    foreach ($nodeToRemove in @(
+        "104",
+        "152",
+        "153",
+        "154",
+        "155",
+        "157",
+        "171",
+        "172",
+        "176",
+        "177",
+        "213",
+        "218",
+        "219",
+        "221",
+        "175:164",
+        "175:165",
+        "175:166",
+        "175:167",
+        "175:170",
+        "175:198",
+        "175:201",
+        "175:202"
+    )) {
+        Remove-PromptNode -PromptObject $workflowPrompt -Node $nodeToRemove
+    }
 }
 
 $statePath = Join-Path $repoRoot ".tools/comfyui-runner-state.json"

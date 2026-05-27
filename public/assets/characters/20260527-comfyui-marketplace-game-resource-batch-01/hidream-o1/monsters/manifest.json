@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T15:37:42",
+    "taskId":  "20260527-comfyui-marketplace-game-resource-batch-01",
+    "packId":  "20260527-comfyui-marketplace-game-resource-batch-01-hidream-o1-monsters",
+    "workflow":  "hidream_o1",
+    "category":  "monsters",
+    "publicDir":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "mossy-slime",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, mossy cave slime enemy with blue body, leaf cap, tiny glowing core. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-01-mossy-slime-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-01-mossy-slime-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "rustbone-sentry",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, rustbone skeleton sentry with cracked shield, short sword, red eye glow. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-02-rustbone-sentry-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-02-rustbone-sentry-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "mushroom-stomper",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, forest mushroom stomper enemy with stout legs, spotted cap, angry face. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-03-mushroom-stomper-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-03-mushroom-stomper-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "gearwing-drone",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, gearwing scout drone enemy with brass body, lens eye, small propellers. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-04-gearwing-drone-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-04-gearwing-drone-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "ember-bat",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ember bat enemy with dark wings, orange flame edges, sharp ears. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-05-ember-bat-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-05-ember-bat-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "ice-imp-scout",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ice imp scout enemy with fur hood, tiny spear, pale blue claws. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-06-ice-imp-scout-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-06-ice-imp-scout-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "rune-stone-golem",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, small rune stone golem enemy with glowing teal chest core and heavy fists. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-07-rune-stone-golem-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-07-rune-stone-golem-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "lantern-wisp",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, swamp lantern wisp enemy with floating green flame, small metal lantern frame. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-08-lantern-wisp-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-08-lantern-wisp-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "monsters",
+                       "name":  "shadow-bandit-runner",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, shadow bandit runner enemy with hood, dagger, nimble crouched stance. Single enemy creature concept, full body, centered pose, clear attack silhouette, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-09-shadow-bandit-runner-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/monsters/pixel-monster-09-shadow-bandit-runner-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T15:37:42",
+    "taskId":  "20260527-comfyui-marketplace-game-resource-batch-01",
+    "packId":  "20260527-comfyui-marketplace-game-resource-batch-01-hidream-o1-characters",
+    "workflow":  "hidream_o1",
+    "category":  "characters",
+    "publicDir":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters",
+    "assets":  [
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "sunblade-knight",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, heroic sunblade knight with bronze armor, red scarf, short sword, compact shield. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-01-sunblade-knight-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-01-sunblade-knight-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "moonlit-ranger",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, moonlit forest ranger with green cloak, short bow, leather quiver, calm stance. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-02-moonlit-ranger-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-02-moonlit-ranger-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "ember-apprentice-mage",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, ember apprentice mage with orange robe, tiny flame familiar, wooden staff. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-03-ember-apprentice-mage-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-03-ember-apprentice-mage-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "clockwork-tinkerer",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, clockwork tinkerer engineer with brass goggles, tool belt, small backpack device. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-04-clockwork-tinkerer-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-04-clockwork-tinkerer-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "marsh-healer",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, marsh healer druid with teal cloak, herb pouch, glowing leaf charm. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-05-marsh-healer-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-05-marsh-healer-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "frost-lancer",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, frost lancer guard with icy spear, blue mantle, silver shoulder plates. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-06-frost-lancer-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-06-frost-lancer-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "storm-monk",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, storm monk brawler with wrapped fists, navy sash, crackling charm beads. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-07-storm-monk-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-07-storm-monk-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "coral-corsair",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, coral corsair sailor with curved cutlass, sea-green coat, shell trinkets. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-08-coral-corsair-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-08-coral-corsair-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "hidream_o1",
+                       "category":  "characters",
+                       "name":  "crystal-summoner",
+                       "prompt":  "High-resolution premium pixel art game resource, original non-branded marketplace asset, detailed but readable forms, refined lighting, crisp 2D production art quality, crystal summoner with violet robes, floating prism focus, ornate boots. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  768,
+                       "height":  768,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-09-crystal-summoner-hidream-o1.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/hidream-o1/characters/pixel-character-09-crystal-summoner-hidream-o1-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

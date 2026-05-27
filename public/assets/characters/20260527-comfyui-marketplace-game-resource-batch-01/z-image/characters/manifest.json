@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T15:37:42",
+    "taskId":  "20260527-comfyui-marketplace-game-resource-batch-01",
+    "packId":  "20260527-comfyui-marketplace-game-resource-batch-01-z-image-characters",
+    "workflow":  "pokemon",
+    "category":  "characters",
+    "publicDir":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters",
+    "assets":  [
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "sunblade-knight",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, heroic sunblade knight with bronze armor, red scarf, short sword, compact shield. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-01-sunblade-knight-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-01-sunblade-knight-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "moonlit-ranger",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, moonlit forest ranger with green cloak, short bow, leather quiver, calm stance. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-02-moonlit-ranger-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-02-moonlit-ranger-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "ember-apprentice-mage",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, ember apprentice mage with orange robe, tiny flame familiar, wooden staff. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-03-ember-apprentice-mage-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-03-ember-apprentice-mage-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "clockwork-tinkerer",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, clockwork tinkerer engineer with brass goggles, tool belt, small backpack device. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-04-clockwork-tinkerer-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-04-clockwork-tinkerer-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "marsh-healer",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, marsh healer druid with teal cloak, herb pouch, glowing leaf charm. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-05-marsh-healer-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-05-marsh-healer-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "frost-lancer",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, frost lancer guard with icy spear, blue mantle, silver shoulder plates. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-06-frost-lancer-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-06-frost-lancer-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "storm-monk",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, storm monk brawler with wrapped fists, navy sash, crackling charm beads. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-07-storm-monk-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-07-storm-monk-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "coral-corsair",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, coral corsair sailor with curved cutlass, sea-green coat, shell trinkets. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-08-coral-corsair-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-08-coral-corsair-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "pokemon",
+                       "category":  "characters",
+                       "name":  "crystal-summoner",
+                       "prompt":  "Clean collectible-game pixel art asset, original non-branded design, bold readable forms, simple color grouping, charming proportions, polished marketplace preview quality, crystal summoner with violet robes, floating prism focus, ornate boots. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  512,
+                       "height":  512,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-09-crystal-summoner-z-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/z-image/characters/pixel-character-09-crystal-summoner-z-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

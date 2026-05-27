@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T15:37:42",
+    "taskId":  "20260527-comfyui-marketplace-game-resource-batch-01",
+    "packId":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-characters",
+    "workflow":  "qwen_image",
+    "category":  "characters",
+    "publicDir":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "sunblade-knight",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, heroic sunblade knight with bronze armor, red scarf, short sword, compact shield. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-01-sunblade-knight-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-01-sunblade-knight-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "moonlit-ranger",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, moonlit forest ranger with green cloak, short bow, leather quiver, calm stance. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-02-moonlit-ranger-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-02-moonlit-ranger-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "ember-apprentice-mage",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ember apprentice mage with orange robe, tiny flame familiar, wooden staff. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-03-ember-apprentice-mage-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-03-ember-apprentice-mage-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "clockwork-tinkerer",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, clockwork tinkerer engineer with brass goggles, tool belt, small backpack device. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-04-clockwork-tinkerer-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-04-clockwork-tinkerer-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "marsh-healer",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, marsh healer druid with teal cloak, herb pouch, glowing leaf charm. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-05-marsh-healer-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-05-marsh-healer-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "frost-lancer",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, frost lancer guard with icy spear, blue mantle, silver shoulder plates. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-06-frost-lancer-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-06-frost-lancer-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "storm-monk",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, storm monk brawler with wrapped fists, navy sash, crackling charm beads. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-07-storm-monk-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-07-storm-monk-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "coral-corsair",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, coral corsair sailor with curved cutlass, sea-green coat, shell trinkets. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-08-coral-corsair-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-08-coral-corsair-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "characters",
+                       "name":  "crystal-summoner",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, crystal summoner with violet robes, floating prism focus, ornate boots. Full body playable character concept, idle-ready pose, centered single character, transparent-friendly plain light background, no text, no UI frame. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1024,
+                       "height":  1024,
+                       "publicAsset":  "public/assets/characters/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-09-crystal-summoner-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/characters/pixel-character-09-crystal-summoner-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}

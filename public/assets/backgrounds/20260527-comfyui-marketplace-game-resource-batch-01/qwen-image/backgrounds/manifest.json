@@ -1,0 +1,120 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-27T15:37:42",
+    "taskId":  "20260527-comfyui-marketplace-game-resource-batch-01",
+    "packId":  "20260527-comfyui-marketplace-game-resource-batch-01-qwen-image-backgrounds",
+    "workflow":  "qwen_image",
+    "category":  "backgrounds",
+    "publicDir":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds",
+    "feedDir":  "public/assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds",
+    "assets":  [
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "ancient-forest-ruins",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ancient forest ruins stage with mossy stone arches, tree roots, readable ground path. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-01-ancient-forest-ruins-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-01-ancient-forest-ruins-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "lava-forge-depths",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, lava forge depths stage with glowing furnaces, chains, basalt platforms. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-02-lava-forge-depths-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-02-lava-forge-depths-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "sky-castle-approach",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, sky castle approach stage with floating stone bridge, clouds, distant towers. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-03-sky-castle-approach-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-03-sky-castle-approach-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "neon-rain-alley",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, neon rain alley stage with wet pavement, shop signs without readable text, cyber panels. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-04-neon-rain-alley-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-04-neon-rain-alley-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "ice-cavern-shrine",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, ice cavern shrine stage with blue crystals, frozen steps, soft cold glow. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-05-ice-cavern-shrine-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-05-ice-cavern-shrine-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "desert-sunken-temple",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, desert sunken temple stage with sandstone pillars, dunes, warm sunset haze. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-06-desert-sunken-temple-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-06-desert-sunken-temple-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "swamp-witch-hamlet",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, swamp witch hamlet stage with crooked huts, lanterns, shallow water. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-07-swamp-witch-hamlet-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-07-swamp-witch-hamlet-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "underwater-ruins",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, underwater ruins stage with coral, broken columns, shafts of blue light. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-08-underwater-ruins-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-08-underwater-ruins-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   },
+                   {
+                       "workflow":  "qwen_image",
+                       "category":  "backgrounds",
+                       "name":  "cozy-town-night",
+                       "prompt":  "Premium pixel art marketplace asset, original non-branded game resource, crisp readable silhouette, limited palette, clean outline, polished 2D RPG and platformer production quality, cozy town night stage with cobblestone street, warm windows, festival flags. Wide side-view stage background for a 2D game, layered parallax-ready composition, clear foreground platform area, rich midground and background depth, no characters, no text, no UI. Keep the design public-safe, original, cohesive, high quality, no watermark.",
+                       "width":  1344,
+                       "height":  768,
+                       "publicAsset":  "public/assets/backgrounds/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-09-cozy-town-night-qwen-image.png",
+                       "feedAsset":  "assets/feed-optimized/20260527-comfyui-marketplace-game-resource-batch-01/qwen-image/backgrounds/pixel-background-09-cozy-town-night-qwen-image-feed.webp",
+                       "status":  "skipped-existing",
+                       "error":  null
+                   }
+               ]
+}
