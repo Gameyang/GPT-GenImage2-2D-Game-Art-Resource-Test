@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "workflows": [
+    {
+      "name": "qwen_image",
+      "path": "workflow/qwen_image.json",
+      "defaultWidth": 1328,
+      "defaultHeight": 1328,
+      "prompt": {
+        "node": "108",
+        "input": "text"
+      },
+      "size": {
+        "node": "107",
+        "widthInput": "width",
+        "heightInput": "height"
+      },
+      "seed": {
+        "node": "106",
+        "input": "seed"
+      },
+      "filenamePrefix": {
+        "node": "123",
+        "input": "filename_prefix"
+      }
+    },
+    {
+      "name": "pokemon",
+      "path": "workflow/포켓몬.json",
+      "defaultWidth": 512,
+      "defaultHeight": 512,
+      "prompt": {
+        "node": "50",
+        "input": "text"
+      },
+      "size": {
+        "node": "96",
+        "widthInput": "width",
+        "heightInput": "height"
+      },
+      "seed": {
+        "node": "49",
+        "input": "seed"
+      },
+      "filenamePrefix": {
+        "node": "9",
+        "input": "filename_prefix"
+      }
+    },
+    {
+      "name": "hidream_o1",
+      "path": "workflow/image_hidream_o1.json",
+      "defaultWidth": 2048,
+      "defaultHeight": 2048,
+      "prompt": {
+        "node": "171",
+        "input": "value"
+      },
+      "size": {
+        "node": "156",
+        "widthInput": "width",
+        "heightInput": "height"
+      },
+      "seed": {
+        "node": "108",
+        "input": "noise_seed"
+      },
+      "filenamePrefix": {
+        "node": "227",
+        "input": "filename_prefix"
+      },
+      "inputImage": {
+        "node": "213",
+        "input": "image",
+        "switchNode": "154",
+        "switchInput": "value",
+        "enabledValue": true,
+        "disabledValue": false
+      }
+    }
+  ]
+}
