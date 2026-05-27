@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T04:11:56",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-062",
+    "packNumber":  62,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-062",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "021",
+                       "title":  "FC HD-2D Scene 021",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "A four-person fantasy party facing a huge dragon-like silhouette inside a crystal cave, seen from a dramatic low camera angle., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "c49be0ab-5fb1-4dd2-9181-c258b86e9e1b",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-062/pixel-scene-fc-hd2d-021-a-four-person-fantasy-party-facing-a-huge-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-062/pixel-scene-fc-hd2d-021-a-four-person-fantasy-party-facing-a-huge-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  34426
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "022",
+                       "title":  "FC HD-2D Scene 022",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "An overworld campfire before the final dark fortress, with tents, weapons, a starry sky, and a long road glowing under moonlight., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "5c706f48-bb28-478c-9702-73fd2a81f653",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-062/pixel-scene-fc-hd2d-022-an-overworld-campfire-before-the-final-dar-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-062/pixel-scene-fc-hd2d-022-an-overworld-campfire-before-the-final-dar-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  32092
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "023",
+                       "title":  "FC HD-2D Scene 023",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "An original fantasy airship flying above cloud kingdoms, with warm cabin lights, propellers, and distant floating castles., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "2c06e371-9662-4bca-a6eb-451ab628436b",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-062/pixel-scene-fc-hd2d-023-an-original-fantasy-airship-flying-above-c-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-062/pixel-scene-fc-hd2d-023-an-original-fantasy-airship-flying-above-c-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  24200
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "024",
+                       "title":  "FC HD-2D Scene 024",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "A castle throne betrayal scene with shattered stained glass, red carpet, guards in shadow, and a hero party framed by moonlight., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "2c10f6ce-965e-47b0-8766-f0b70e2c02a8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-062/pixel-scene-fc-hd2d-024-a-castle-throne-betrayal-scene-with-shatte-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-062/pixel-scene-fc-hd2d-024-a-castle-throne-betrayal-scene-with-shatte-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  36084
+                                }
+                   }
+               ]
+}
