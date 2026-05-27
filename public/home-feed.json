@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-045",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 045",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-045/pixel-scene-imdb-top-100-089-singin-in-the-rain-v01-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 089: Singin\u0027 in the Rain (1952)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-045/pixel-scene-imdb-top-100-090-joker-v01-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 090: Joker (2019)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-045/pixel-scene-imdb-top-100-091-once-upon-a-time-in-america-v01-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 091: Once Upon a Time in America (1984)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-045/pixel-scene-imdb-top-100-092-come-and-see-v01-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 092: Come and See (1985)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-045",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-044",
                       "date":  "2026-05-28",
                       "type":  "gallery",
