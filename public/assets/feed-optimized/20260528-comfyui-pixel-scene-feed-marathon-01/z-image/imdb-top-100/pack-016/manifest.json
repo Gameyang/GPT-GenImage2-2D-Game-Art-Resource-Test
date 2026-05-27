@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T01:34:41",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-016",
+    "packNumber":  16,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-016",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "029",
+                       "title":  "Star Wars (1977)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, young desert traveler on a dune watching twin suns set over a vast alien wasteland, small droid-like shapes nearby without exact design copy, purple-orange sky, yearning adventure mood. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "26ec6942-c862-4149-a570-8f4af98a5962",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-016/pixel-scene-imdb-top-100-029-star-wars-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-016/pixel-scene-imdb-top-100-029-star-wars-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  14322
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "030",
+                       "title":  "Back to the Future (1985)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, retro sports car racing beneath a clock tower as lightning forks across the sky, wet town square street, electric blue and warm storefront glow, no readable clock numbers or logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "33b4562e-eb44-45cf-95e1-bcf7c3599ade",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-016/pixel-scene-imdb-top-100-030-back-to-the-future-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-016/pixel-scene-imdb-top-100-030-back-to-the-future-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  33296
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "031",
+                       "title":  "Spirited Away (2001)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, young girl on a bridge before a glowing spirit bathhouse, masked spirits and lanterns as original silhouettes, dusk sky, rich reds and greens, whimsical mystery, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "8dbce45b-1583-4d6c-a2d0-0ada1556992d",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-016/pixel-scene-imdb-top-100-031-spirited-away-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-016/pixel-scene-imdb-top-100-031-spirited-away-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  21478
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "032",
+                       "title":  "The Pianist (2002)",
+                       "variant":  1,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, ruined city apartment where a thin musician silhouette plays a dusty piano under broken roof light, gray rubble and warm candle glow, quiet survival, no exact actor likeness, no gore. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "23402b98-5c03-4193-abd1-20a8273651b4",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-016/pixel-scene-imdb-top-100-032-the-pianist-v01-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-016/pixel-scene-imdb-top-100-032-the-pianist-v01-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  16470
+                                }
+                   }
+               ]
+}
