@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-138",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 138",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-138/pixel-scene-fc-hd2d-073-a-marble-maze-viewed-as-an-hd-2d-tabletop-v03-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 073: FC HD-2D Scene 073"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-138/pixel-scene-fc-hd2d-074-a-clockwork-bomb-defusing-factory-with-rou-v03-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 074: FC HD-2D Scene 074"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-138/pixel-scene-fc-hd2d-075-an-elemental-matching-shrine-where-tiles-o-v03-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 075: FC HD-2D Scene 075"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-138/pixel-scene-fc-hd2d-076-a-magical-book-puzzle-room-with-floating-p-v03-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 076: FC HD-2D Scene 076"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-138",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-137",
                       "date":  "2026-05-28",
                       "type":  "gallery",
