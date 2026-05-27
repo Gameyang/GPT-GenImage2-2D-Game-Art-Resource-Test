@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T01:11:25",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-009",
+    "packNumber":  9,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-009",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "017",
+                       "title":  "Goodfellas (1990)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, long red nightclub corridor opening into a glowing lounge, sharp-suited mob silhouettes entering like a tracking shot, smoky atmosphere, gold and crimson lights, no exact actor likeness, no signage. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "c32fbf99-74cd-451d-b655-f29d0f4d3d8b",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-009/pixel-scene-imdb-top-100-017-goodfellas-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-009/pixel-scene-imdb-top-100-017-goodfellas-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  84576
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "018",
+                       "title":  "Interstellar (2014)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, astronaut on the edge of a black ocean planet looking toward a colossal ringed wormhole in the sky, tiny spacecraft silhouette, cold blue and cosmic gold palette, awe and solitude. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "cc19e2a0-4479-4313-af73-06737676c1ff",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-009/pixel-scene-imdb-top-100-018-interstellar-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-009/pixel-scene-imdb-top-100-018-interstellar-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  109690
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "019",
+                       "title":  "One Flew Over the Cuckoo\u0027s Nest (1975)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, institutional ward with pale green walls, patients gathered around a rebellious central figure near barred windows, daylight cutting through the room, bittersweet human drama, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "2a674f0e-71bb-4779-9bbf-3ed328310939",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-009/pixel-scene-imdb-top-100-019-one-flew-over-the-cuckoo-s-nest-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-009/pixel-scene-imdb-top-100-019-one-flew-over-the-cuckoo-s-nest-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  98808
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "020",
+                       "title":  "Seven (1995)",
+                       "variant":  1,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, rain-soaked noir alley where two detectives face a mysterious unopened box shape in distant headlights, sickly green-gray palette, heavy shadow, tension without gore, no readable labels. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark.",
+                       "promptId":  "ef5cce77-42bc-4f92-ab59-2853999864b6",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-009/pixel-scene-imdb-top-100-020-seven-v01-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-009/pixel-scene-imdb-top-100-020-seven-v01-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  88856
+                                }
+                   }
+               ]
+}
