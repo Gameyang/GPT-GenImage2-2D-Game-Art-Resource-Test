@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-100",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 100",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-097-the-hunt-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 097: The Hunt (2012)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-098-incendies-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 098: Incendies (2010)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-099-eternal-sunshine-of-the-spotless-mind-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 099: Eternal Sunshine of the Spotless Mind (2004)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-100-the-apartment-v02-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 100: The Apartment (1960)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-099",
                       "date":  "2026-05-28",
                       "type":  "gallery",

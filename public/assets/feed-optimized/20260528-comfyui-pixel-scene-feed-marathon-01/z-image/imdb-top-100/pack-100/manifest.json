@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T06:20:41",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-100",
+    "packNumber":  100,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "097",
+                       "title":  "The Hunt (2012)",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, isolated teacher silhouette standing in a snowy village square while neighbors watch from warm windows, moral panic and loneliness, muted Nordic palette, no exact actor likeness, no readable signs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "a1e6574c-6a68-47c7-8fc7-15e0c57494e5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-100/pixel-scene-imdb-top-100-097-the-hunt-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-097-the-hunt-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  31204
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "098",
+                       "title":  "Incendies (2010)",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, twin travelers on a desert road before a distant burned-out village, sealed blank letter in foreground, orange heat haze and blue shadows, mystery of family history, no gore, no readable text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "ffe1af03-78a1-40ca-89d8-95c7d5a345bc",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-100/pixel-scene-imdb-top-100-098-incendies-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-098-incendies-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  18584
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "099",
+                       "title":  "Eternal Sunshine of the Spotless Mind (2004)",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, two lovers on a frozen beach as memory fragments dissolve into pixel snow, half-erased houses and stars, blue-white melancholy palette, surreal romance, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e768634a-6ae9-440d-921b-7cd827f522ad",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-100/pixel-scene-imdb-top-100-099-eternal-sunshine-of-the-spotless-mind-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-099-eternal-sunshine-of-the-spotless-mind-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  17760
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "100",
+                       "title":  "The Apartment (1960)",
+                       "variant":  2,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, endless office grid of desks with one lonely worker under a small lamp, holiday decorations as abstract shapes, black-and-white corporate melancholy, no readable paperwork, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "19db6387-ad09-408b-b189-b48a76cbb522",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-100/pixel-scene-imdb-top-100-100-the-apartment-v02-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-100/pixel-scene-imdb-top-100-100-the-apartment-v02-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  14412
+                                }
+                   }
+               ]
+}
