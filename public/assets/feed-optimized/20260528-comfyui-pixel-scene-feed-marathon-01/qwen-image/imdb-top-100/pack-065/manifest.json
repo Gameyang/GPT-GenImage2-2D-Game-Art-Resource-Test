@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T04:22:31",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-065",
+    "packNumber":  65,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-065",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "029",
+                       "title":  "Star Wars (1977)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, young desert traveler on a dune watching twin suns set over a vast alien wasteland, small droid-like shapes nearby without exact design copy, purple-orange sky, yearning adventure mood. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "2d8f8437-6384-4ae7-a4b4-0adeb5bebe84",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-065/pixel-scene-imdb-top-100-029-star-wars-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-065/pixel-scene-imdb-top-100-029-star-wars-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  85004
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "030",
+                       "title":  "Back to the Future (1985)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, retro sports car racing beneath a clock tower as lightning forks across the sky, wet town square street, electric blue and warm storefront glow, no readable clock numbers or logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "1e71c1b9-edaa-4e05-9ad9-1097daeb1cbf",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-065/pixel-scene-imdb-top-100-030-back-to-the-future-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-065/pixel-scene-imdb-top-100-030-back-to-the-future-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  144838
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "031",
+                       "title":  "Spirited Away (2001)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, young girl on a bridge before a glowing spirit bathhouse, masked spirits and lanterns as original silhouettes, dusk sky, rich reds and greens, whimsical mystery, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "21eb518e-ca82-494b-aa48-658300c4aa3e",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-065/pixel-scene-imdb-top-100-031-spirited-away-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-065/pixel-scene-imdb-top-100-031-spirited-away-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  128096
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "032",
+                       "title":  "The Pianist (2002)",
+                       "variant":  2,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, ruined city apartment where a thin musician silhouette plays a dusty piano under broken roof light, gray rubble and warm candle glow, quiet survival, no exact actor likeness, no gore. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 2: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "41ae5df0-6e29-44b0-83ff-83309df360f6",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-065/pixel-scene-imdb-top-100-032-the-pianist-v02-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-065/pixel-scene-imdb-top-100-032-the-pianist-v02-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  96440
+                                }
+                   }
+               ]
+}
