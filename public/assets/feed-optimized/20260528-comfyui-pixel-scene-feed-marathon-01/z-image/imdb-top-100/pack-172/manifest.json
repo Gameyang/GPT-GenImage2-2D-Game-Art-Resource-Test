@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T10:25:46",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-172",
+    "packNumber":  172,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-172",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "041",
+                       "title":  "Kill Bill: The Whole Bloody Affair (2011)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, stylized lone swordswoman in a bright yellow-inspired outfit facing a hall of masked opponents, high-contrast martial-arts stage lighting, non-graphic action pose, no exact costume pattern, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "4f43fa3d-0ae0-40b1-8b7b-818fe6ef005b",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-172/pixel-scene-imdb-top-100-041-kill-bill-the-whole-bloody-affair-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-172/pixel-scene-imdb-top-100-041-kill-bill-the-whole-bloody-affair-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  29678
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "042",
+                       "title":  "The Prestige (2006)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, Victorian magician stage with twin silhouettes, glowing electrical machine, top hats, birds, smoke and mirrored trapdoors, emerald and amber palette, obsession and illusion, no readable posters. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "db7bea66-5d92-4c45-a403-f23afac264cf",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-172/pixel-scene-imdb-top-100-042-the-prestige-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-172/pixel-scene-imdb-top-100-042-the-prestige-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  23758
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "043",
+                       "title":  "American History X (1998)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 serious cinematic pixel art scene, monochrome prison yard reflection about hate and redemption, anonymous shaved-headed figure separated from a younger silhouette by a hard beam of light, no extremist symbols, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "272a6405-0543-4a4a-a51b-d8a38f513775",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-172/pixel-scene-imdb-top-100-043-american-history-x-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-172/pixel-scene-imdb-top-100-043-american-history-x-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  14502
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "044",
+                       "title":  "Leon (1994)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, lonely rooftop garden at dusk with a silent guardian figure, a young protege silhouette, and a potted plant catching warm light, city apartments behind them, restrained urban melancholy, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "7aa9d7b6-85ea-4281-be65-fb2a783bbb60",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-172/pixel-scene-imdb-top-100-044-leon-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-172/pixel-scene-imdb-top-100-044-leon-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  11758
+                                }
+                   }
+               ]
+}
