@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T16:53:56",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-283",
+    "packNumber":  283,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-283",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "065",
+                       "title":  "FC HD-2D Scene 065",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A subway platform fight with arriving train lights, tiled walls without readable ads, scattered bags, and motion blur in pixel form., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "828ff3fa-7f36-45a2-9232-16cd437d127c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-283/pixel-scene-fc-hd2d-065-a-subway-platform-fight-with-arriving-trai-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-283/pixel-scene-fc-hd2d-065-a-subway-platform-fight-with-arriving-trai-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  87544
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "066",
+                       "title":  "FC HD-2D Scene 066",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A temple bridge standoff over a deep gorge, with banners, autumn leaves, and two martial artists framed by sunrise., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "308c5769-a463-453a-bc6b-acab10190476",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-283/pixel-scene-fc-hd2d-066-a-temple-bridge-standoff-over-a-deep-gorge-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-283/pixel-scene-fc-hd2d-066-a-temple-bridge-standoff-over-a-deep-gorge-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  110630
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "067",
+                       "title":  "FC HD-2D Scene 067",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A skyscraper rooftop boss encounter with antennae, storm clouds, city lights, and an original armored rival waiting near the edge., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "4d3107d8-fbcb-460f-911b-791d32335674",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-283/pixel-scene-fc-hd2d-067-a-skyscraper-rooftop-boss-encounter-with-a-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-283/pixel-scene-fc-hd2d-067-a-skyscraper-rooftop-boss-encounter-with-a-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  78970
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "068",
+                       "title":  "FC HD-2D Scene 068",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "A carnival pier fight with ferris wheel lights in the background, wooden planks, arcade booths without text, and dramatic reflections., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "5a221f15-7fea-40d8-bb47-8166fd5f794e",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-283/pixel-scene-fc-hd2d-068-a-carnival-pier-fight-with-ferris-wheel-li-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-283/pixel-scene-fc-hd2d-068-a-carnival-pier-fight-with-ferris-wheel-li-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  98970
+                                }
+                   }
+               ]
+}
