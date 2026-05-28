@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T18:08:56",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-305",
+    "packNumber":  305,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-305",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "009",
+                       "title":  "Pulp Fiction (1994)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, retro diner standoff reimagined with two sharply dressed underworld figures and a glowing jukebox, checker floor, red vinyl booths, tense freeze-frame composition, no exact actor likeness, no readable signage. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "f0ca31af-4e59-4819-805e-ed86fac654de",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-305/pixel-scene-imdb-top-100-009-pulp-fiction-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-305/pixel-scene-imdb-top-100-009-pulp-fiction-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  103450
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "010",
+                       "title":  "The Good, the Bad and the Ugly (1966)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, three western gunslinger silhouettes spaced across a circular desert cemetery, blazing sun, dust, long shadows, symmetrical standoff composition, warm ochre palette, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "667f5550-e02e-4b03-a4ff-4a952adc1dc1",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-305/pixel-scene-imdb-top-100-010-the-good-the-bad-and-the-ugly-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-305/pixel-scene-imdb-top-100-010-the-good-the-bad-and-the-ugly-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  86170
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "011",
+                       "title":  "The Lord of the Rings: The Two Towers (2002)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, rain-lashed fantasy fortress siege at night, tiny defenders along stone walls, ladders and torches below, electric blue storm light with orange sparks, readable battlefield layers, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "44aa57ab-c228-471f-9430-10ad6d68d0dd",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-305/pixel-scene-imdb-top-100-011-the-lord-of-the-rings-the-two-towers-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-305/pixel-scene-imdb-top-100-011-the-lord-of-the-rings-the-two-towers-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  120196
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "012",
+                       "title":  "Forrest Gump (1994)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, a gentle traveler seated on a public bench with a suitcase, a white feather drifting through warm southern sunlight, broad street and trees behind him, soft nostalgic palette, no exact actor likeness, no text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "6e3bbe34-bd72-4b5e-bdb8-1036e9d425ff",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-305/pixel-scene-imdb-top-100-012-forrest-gump-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-305/pixel-scene-imdb-top-100-012-forrest-gump-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  96474
+                                }
+                   }
+               ]
+}
