@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-216",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 216",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-216/pixel-scene-imdb-top-100-029-star-wars-v05-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 029: Star Wars (1977)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-216/pixel-scene-imdb-top-100-030-back-to-the-future-v05-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 030: Back to the Future (1985)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-216/pixel-scene-imdb-top-100-031-spirited-away-v05-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 031: Spirited Away (2001)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-216/pixel-scene-imdb-top-100-032-the-pianist-v05-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 032: The Pianist (2002)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-216",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-215",
                       "date":  "2026-05-28",
                       "type":  "gallery",
