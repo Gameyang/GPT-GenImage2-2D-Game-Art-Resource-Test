@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T17:41:40",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-297",
+    "packNumber":  297,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-297",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "093",
+                       "title":  "Return of the Jedi (1983)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, forest moon celebration and distant space battle lights above giant trees, rebel silhouettes around warm fires, small furry villagers abstracted into original shapes, no logos or exact creature designs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "33953f07-c557-45c6-9a32-d4ba724450d8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-297/pixel-scene-imdb-top-100-093-return-of-the-jedi-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-297/pixel-scene-imdb-top-100-093-return-of-the-jedi-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  115324
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "094",
+                       "title":  "Requiem for a Dream (2000)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, four fragmented city interiors split by hard black dividers, characters falling into abstract neon spirals, pills and screens as non-readable shapes, anxious psychological mood, no explicit drug use detail. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e2058e6a-bd87-4289-9cbb-327a9ecd8a8a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-297/pixel-scene-imdb-top-100-094-requiem-for-a-dream-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-297/pixel-scene-imdb-top-100-094-requiem-for-a-dream-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  125376
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "095",
+                       "title":  "Toy Story 3 (2010)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, group of toys holding hands before an intense orange industrial glow, conveyor shapes abstracted, emotional farewell tension, no exact toy designs, no logos, no readable labels. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "57028955-266e-443c-b7e4-cb1c33f280a7",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-297/pixel-scene-imdb-top-100-095-toy-story-3-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-297/pixel-scene-imdb-top-100-095-toy-story-3-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  101546
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "096",
+                       "title":  "Ikiru (1952)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, old man silhouette on a playground swing in falling snow, newly built park around him, black-and-white palette with soft lantern glow, quiet acceptance and purpose, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "7d978055-a551-4912-8958-7700a06d9437",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-297/pixel-scene-imdb-top-100-096-ikiru-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-297/pixel-scene-imdb-top-100-096-ikiru-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  94200
+                                }
+                   }
+               ]
+}
