@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-351",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 351",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-351/pixel-scene-fc-hd2d-001-a-bright-platform-hero-leaps-over-a-collap-v08-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 001: FC HD-2D Scene 001"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-351/pixel-scene-fc-hd2d-002-a-tiny-adventurer-climbs-a-giant-forest-ca-v08-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 002: FC HD-2D Scene 002"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-351/pixel-scene-fc-hd2d-003-a-haunted-clock-tower-platform-scene-with-v08-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 003: FC HD-2D Scene 003"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-351/pixel-scene-fc-hd2d-004-a-lava-castle-drawbridge-cracking-apart-ab-v08-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 004: FC HD-2D Scene 004"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-351",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-350",
                       "date":  "2026-05-28",
                       "type":  "gallery",
