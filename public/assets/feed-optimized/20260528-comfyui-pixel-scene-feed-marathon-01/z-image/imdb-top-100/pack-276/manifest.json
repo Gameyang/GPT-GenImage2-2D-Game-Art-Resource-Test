@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T16:29:38",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-276",
+    "packNumber":  276,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-276",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "049",
+                       "title":  "The Usual Suspects (1995)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, police lineup of five criminal silhouettes against height marks represented only as abstract lines with no numbers, harsh fluorescent light, noir shadows, mystery reveal energy, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "9476e722-6663-4e4a-b315-c515b648e1f4",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-276/pixel-scene-imdb-top-100-049-the-usual-suspects-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-276/pixel-scene-imdb-top-100-049-the-usual-suspects-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  14310
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "050",
+                       "title":  "Alien (1979)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, retro spaceship corridor with a lone crew member holding a small light toward a biomechanical alien shadow at the far end, green emergency glow, claustrophobic sci-fi horror, no exact creature copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "b0c1145f-13b1-45c3-a718-67e67e920bed",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-276/pixel-scene-imdb-top-100-050-alien-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-276/pixel-scene-imdb-top-100-050-alien-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  18400
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "051",
+                       "title":  "Django Unchained (2012)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, snow-covered western trail with two riders approaching a distant plantation silhouette, red coat accent, dramatic sunset, revenge-western mood, no exact actor likeness, no readable signs, no gore. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "90e93291-bf9e-4986-8933-beb3dd3e1f53",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-276/pixel-scene-imdb-top-100-051-django-unchained-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-276/pixel-scene-imdb-top-100-051-django-unchained-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  27844
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "052",
+                       "title":  "Rear Window (1954)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, apartment courtyard grid at night seen from a wheelchair-height window, many tiny lit rooms with private silhouettes, binocular reflection in foreground, suspense and voyeuristic composition, no readable text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "54058bb6-ed29-4543-a71b-7d31269422fb",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-276/pixel-scene-imdb-top-100-052-rear-window-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-276/pixel-scene-imdb-top-100-052-rear-window-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  18084
+                                }
+                   }
+               ]
+}
