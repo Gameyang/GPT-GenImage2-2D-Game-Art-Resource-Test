@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T09:58:41",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-164",
+    "packNumber":  164,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-164",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "025",
+                       "title":  "The Green Mile (1999)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, long prison corridor glowing with impossible warm light, guards and a gentle giant prisoner in silhouette, polished floor reflections, spiritual melancholy, no exact actor likeness, no readable cell numbers. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "12005d0f-4dd1-40f8-ac1e-f231d4fa9d5c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-164/pixel-scene-imdb-top-100-025-the-green-mile-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-164/pixel-scene-imdb-top-100-025-the-green-mile-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  24958
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "026",
+                       "title":  "City of God (2002)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, sunbaked favela alley seen through a young photographer\u0027s lens, kids and adults as stylized silhouettes, orange walls, blue sky, kinetic street energy, no real-person likeness, no readable graffiti. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e1a1d908-9478-4144-8969-6b663b1094e4",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-164/pixel-scene-imdb-top-100-026-city-of-god-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-164/pixel-scene-imdb-top-100-026-city-of-god-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  30904
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "027",
+                       "title":  "Life Is Beautiful (1997)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, father and child silhouettes turning a bleak camp yard into an imaginary game board with warm theatrical light, restrained palette, bittersweet hope, no gore, no symbols, no exact likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "bfdf415b-c2e5-4965-8502-b368453ac7e7",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-164/pixel-scene-imdb-top-100-027-life-is-beautiful-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-164/pixel-scene-imdb-top-100-027-life-is-beautiful-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  27300
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "028",
+                       "title":  "Terminator 2: Judgment Day (1991)",
+                       "variant":  4,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, molten steel factory chase with a biker guardian silhouette shielding a child from a liquid-metal figure, orange industrial glow, sparks, high readability, no exact actor likeness or franchise marks. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "a369bc52-6f28-4c5e-94c6-d0506266e74f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-164/pixel-scene-imdb-top-100-028-terminator-2-judgment-day-v04-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-164/pixel-scene-imdb-top-100-028-terminator-2-judgment-day-v04-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  34596
+                                }
+                   }
+               ]
+}
