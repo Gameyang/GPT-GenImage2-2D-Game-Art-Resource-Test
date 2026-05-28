@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T13:57:25",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-234",
+    "packNumber":  234,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-234",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "065",
+                       "title":  "FC HD-2D Scene 065",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "A subway platform fight with arriving train lights, tiled walls without readable ads, scattered bags, and motion blur in pixel form., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "018bf504-1e69-46f7-a06d-e49e8c2f8035",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-234/pixel-scene-fc-hd2d-065-a-subway-platform-fight-with-arriving-trai-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-234/pixel-scene-fc-hd2d-065-a-subway-platform-fight-with-arriving-trai-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  25686
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "066",
+                       "title":  "FC HD-2D Scene 066",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "A temple bridge standoff over a deep gorge, with banners, autumn leaves, and two martial artists framed by sunrise., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "c0f3d2ba-1fb9-4056-be31-8efff7708248",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-234/pixel-scene-fc-hd2d-066-a-temple-bridge-standoff-over-a-deep-gorge-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-234/pixel-scene-fc-hd2d-066-a-temple-bridge-standoff-over-a-deep-gorge-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  38256
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "067",
+                       "title":  "FC HD-2D Scene 067",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "A skyscraper rooftop boss encounter with antennae, storm clouds, city lights, and an original armored rival waiting near the edge., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "df08e1e5-0444-4259-840c-f815a4424bfc",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-234/pixel-scene-fc-hd2d-067-a-skyscraper-rooftop-boss-encounter-with-a-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-234/pixel-scene-fc-hd2d-067-a-skyscraper-rooftop-boss-encounter-with-a-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  24330
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "068",
+                       "title":  "FC HD-2D Scene 068",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "A carnival pier fight with ferris wheel lights in the background, wooden planks, arcade booths without text, and dramatic reflections., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "49335c75-d2c4-4b08-ab62-9bcd655306e0",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-234/pixel-scene-fc-hd2d-068-a-carnival-pier-fight-with-ferris-wheel-li-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-234/pixel-scene-fc-hd2d-068-a-carnival-pier-fight-with-ferris-wheel-li-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  33886
+                                }
+                   }
+               ]
+}
