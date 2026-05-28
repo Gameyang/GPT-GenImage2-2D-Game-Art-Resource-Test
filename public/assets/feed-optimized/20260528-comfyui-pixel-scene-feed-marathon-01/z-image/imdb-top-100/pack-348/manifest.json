@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T20:33:41",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-348",
+    "packNumber":  348,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "093",
+                       "title":  "Return of the Jedi (1983)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, forest moon celebration and distant space battle lights above giant trees, rebel silhouettes around warm fires, small furry villagers abstracted into original shapes, no logos or exact creature designs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "eb1751b3-fd61-4e4a-8e94-972fa609f247",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-348/pixel-scene-imdb-top-100-093-return-of-the-jedi-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-093-return-of-the-jedi-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  23874
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "094",
+                       "title":  "Requiem for a Dream (2000)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, four fragmented city interiors split by hard black dividers, characters falling into abstract neon spirals, pills and screens as non-readable shapes, anxious psychological mood, no explicit drug use detail. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "29bd8004-b010-4923-b7f1-d8cc44b25793",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-348/pixel-scene-imdb-top-100-094-requiem-for-a-dream-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-094-requiem-for-a-dream-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  41716
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "095",
+                       "title":  "Toy Story 3 (2010)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, group of toys holding hands before an intense orange industrial glow, conveyor shapes abstracted, emotional farewell tension, no exact toy designs, no logos, no readable labels. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "87f4440c-9441-4547-834e-4856e50bbbf2",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-348/pixel-scene-imdb-top-100-095-toy-story-3-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-095-toy-story-3-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  23920
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "096",
+                       "title":  "Ikiru (1952)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, old man silhouette on a playground swing in falling snow, newly built park around him, black-and-white palette with soft lantern glow, quiet acceptance and purpose, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "4a1a6cf8-5483-4205-bb11-ca29220659d0",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-348/pixel-scene-imdb-top-100-096-ikiru-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-096-ikiru-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  25406
+                                }
+                   }
+               ]
+}

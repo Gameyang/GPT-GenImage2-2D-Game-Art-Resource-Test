@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-348",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 348",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-093-return-of-the-jedi-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 093: Return of the Jedi (1983)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-094-requiem-for-a-dream-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 094: Requiem for a Dream (2000)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-095-toy-story-3-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 095: Toy Story 3 (2010)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348/pixel-scene-imdb-top-100-096-ikiru-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 096: Ikiru (1952)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-348",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-347",
                       "date":  "2026-05-28",
                       "type":  "gallery",
