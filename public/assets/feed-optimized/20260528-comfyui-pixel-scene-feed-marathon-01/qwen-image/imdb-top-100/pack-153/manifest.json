@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T09:21:57",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-153",
+    "packNumber":  153,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "005",
+                       "title":  "12 Angry Men (1957)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, cramped jury room around a long table, twelve distinct silhouettes arguing under hot summer light from tall windows, rotating fan, papers as blank shapes, black-and-white noir pixel palette, no readable text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "a075e5e4-98ce-4616-80c4-89905f57f21c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-153/pixel-scene-imdb-top-100-005-12-angry-men-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-005-12-angry-men-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  100680
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "006",
+                       "title":  "The Lord of the Rings: The Return of the King (2003)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, tiny fantasy companions before a ruined volcanic kingdom and a distant crowned city, ash sky turning gold, epic scale, ornate medieval silhouettes, hopeful finale energy, no exact character likenesses or symbols. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "91f582df-c904-4c8e-9025-2cabd13a7293",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-153/pixel-scene-imdb-top-100-006-the-lord-of-the-rings-the-return-of-the-ki-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-006-the-lord-of-the-rings-the-return-of-the-ki-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  125142
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "007",
+                       "title":  "Schindler\u0027s List (1993)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, mostly monochrome wartime street with one small muted red cloak accent moving through gray crowds, distant soldiers as anonymous shapes, somber composition, restrained lighting, no graphic violence, no exact frame copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "14dd0c59-f057-4780-92fc-be2dfb7af8f9",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-153/pixel-scene-imdb-top-100-007-schindler-s-list-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-007-schindler-s-list-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  98206
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "008",
+                       "title":  "The Lord of the Rings: The Fellowship of the Ring (2001)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, a small fellowship crossing a vast mountain pass in single file, snow, ancient stone ruins, dark fantasy travel mood, heroic silhouettes at different heights, high-contrast icy palette, no exact costumes or logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "98283f44-5be2-44b3-9563-d4ea05e30933",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-153/pixel-scene-imdb-top-100-008-the-lord-of-the-rings-the-fellowship-of-th-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-008-the-lord-of-the-rings-the-fellowship-of-th-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  128624
+                                }
+                   }
+               ]
+}

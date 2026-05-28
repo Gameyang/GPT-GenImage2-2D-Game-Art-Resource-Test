@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-153",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 153",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-005-12-angry-men-v04-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 005: 12 Angry Men (1957)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-006-the-lord-of-the-rings-the-return-of-the-ki-v04-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 006: The Lord of the Rings: The Return of the King (2003)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-007-schindler-s-list-v04-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 007: Schindler\u0027s List (1993)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153/pixel-scene-imdb-top-100-008-the-lord-of-the-rings-the-fellowship-of-th-v04-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 008: The Lord of the Rings: The Fellowship of the Ring (2001)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-153",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-152",
                       "date":  "2026-05-28",
                       "type":  "gallery",
