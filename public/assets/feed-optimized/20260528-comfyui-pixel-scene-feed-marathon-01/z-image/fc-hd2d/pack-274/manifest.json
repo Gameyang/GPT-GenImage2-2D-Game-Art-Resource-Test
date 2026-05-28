@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T16:22:55",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-274",
+    "packNumber":  274,
+    "status":  "ready",
+    "source":  "fc-hd2d",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-274",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "045",
+                       "title":  "FC HD-2D Scene 045",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "A waterfall fortress assault where heroes jump between wet stone platforms while searchlights cut through mist., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "ead40cd3-3ee9-4d98-a4a7-96ff4a66bcc5",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-274/pixel-scene-fc-hd2d-045-a-waterfall-fortress-assault-where-heroes-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-274/pixel-scene-fc-hd2d-045-a-waterfall-fortress-assault-where-heroes-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  31718
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "046",
+                       "title":  "FC HD-2D Scene 046",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "An alien hive entrance with ribbed organic walls, glowing spores, and two heroes preparing to breach a pulsing doorway., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "91c3194d-ea31-4930-9298-8941b92ab62e",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-274/pixel-scene-fc-hd2d-046-an-alien-hive-entrance-with-ribbed-organic-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-274/pixel-scene-fc-hd2d-046-an-alien-hive-entrance-with-ribbed-organic-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  39006
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "047",
+                       "title":  "FC HD-2D Scene 047",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "A snowfield bunker approach with barbed wire-like shapes, search lamps, blue shadows, and a stealthy squad moving through drifts., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "6a569a7c-2fa2-40b4-b052-f59ebf20a74c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-274/pixel-scene-fc-hd2d-047-a-snowfield-bunker-approach-with-barbed-wi-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-274/pixel-scene-fc-hd2d-047-a-snowfield-bunker-approach-with-barbed-wi-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  35628
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "fc-hd2d",
+                       "label":  "048",
+                       "title":  "FC HD-2D Scene 048",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "A neon train chase at night, with a hero running across carriage roofs while city lights smear into pixel streaks below., original FC-era inspired game moment reimagined as a premium HD-2D pixel-art scene illustration, not based on any real title or character, 2.5D diorama depth, layered parallax foreground and background, crisp hand-placed pixel clusters, modern real-time game engine lighting, global illumination feel, volumetric fog, bloom, rim lighting, subtle reflections, cinematic camera, dramatic readable silhouette, rich limited palette, high-resolution output with preserved pixel-art texture, no UI, no text, no logo, no watermark, no recognizable copyrighted character, no exact game screenshot. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "807d7709-a822-4623-934f-31d3aff8d2bd",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-274/pixel-scene-fc-hd2d-048-a-neon-train-chase-at-night-with-a-hero-ru-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-274/pixel-scene-fc-hd2d-048-a-neon-train-chase-at-night-with-a-hero-ru-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  33228
+                                }
+                   }
+               ]
+}
