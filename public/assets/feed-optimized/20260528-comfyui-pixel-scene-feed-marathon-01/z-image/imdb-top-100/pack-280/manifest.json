@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T16:43:10",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-280",
+    "packNumber":  280,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-280",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "057",
+                       "title":  "WALL-E (2008)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, tiny boxy cleanup robot holding a fragile green sprout on a mountain of compacted trash under star-filled sky, warm eye lights, hopeful post-apocalyptic mood, no exact robot copy or logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "a2bc89a7-deb9-4f6c-9e4a-f574955a366c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-280/pixel-scene-imdb-top-100-057-wall-e-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-280/pixel-scene-imdb-top-100-057-wall-e-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  19912
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "058",
+                       "title":  "Memento (2000)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, motel room floor covered with blank instant-photo cards, tattoos represented as abstract marks with no readable writing, confused man silhouette reflected backward in mirrors, cool noir palette. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "7ca7320f-1425-4a51-8889-86459860cd0d",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-280/pixel-scene-imdb-top-100-058-memento-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-280/pixel-scene-imdb-top-100-058-memento-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  28374
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "059",
+                       "title":  "Dune: Part Two (2024)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, robed desert rider surfing beside a colossal sandworm cresting from golden dunes, twin moons, spice haze, epic scale, limited ochre and deep blue palette, no exact costume or emblem copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "be85ac71-79ff-4231-9209-ca05b3969dfa",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-280/pixel-scene-imdb-top-100-059-dune-part-two-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-280/pixel-scene-imdb-top-100-059-dune-part-two-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  18158
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "060",
+                       "title":  "Raiders of the Lost Ark (1981)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, pulp adventurer silhouette reaching for a glowing golden idol in a vine-covered temple chamber, pressure plates as blank stone shapes, torchlight, adventure suspense, no exact costume or logo. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "200aff7d-5e29-4eee-8737-b080330d9b76",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-280/pixel-scene-imdb-top-100-060-raiders-of-the-lost-ark-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-280/pixel-scene-imdb-top-100-060-raiders-of-the-lost-ark-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  34934
+                                }
+                   }
+               ]
+}
