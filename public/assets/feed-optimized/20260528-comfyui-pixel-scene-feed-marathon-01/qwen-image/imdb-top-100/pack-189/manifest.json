@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T11:24:33",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-189",
+    "packNumber":  189,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-189",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "077",
+                       "title":  "Amadeus (1984)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, candlelit composing room with a brilliant musician silhouette at a keyboard and a jealous rival shadow near the doorway, blank music pages, gold and black palette, genius and envy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "534be2f7-218b-4f13-bb7a-b2e69be250a2",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-189/pixel-scene-imdb-top-100-077-amadeus-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-189/pixel-scene-imdb-top-100-077-amadeus-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  95650
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "078",
+                       "title":  "Toy Story (1995)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, toys coming alive in a child\u0027s bedroom at twilight, cowboy-like doll and space-toy silhouette on a bedspread, playful scale, warm plastic colors, no exact toy design, no logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "62a8332b-e1f1-4f00-a792-1982face864c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-189/pixel-scene-imdb-top-100-078-toy-story-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-189/pixel-scene-imdb-top-100-078-toy-story-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  82544
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "079",
+                       "title":  "Project Hail Mary (2026)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, lone astronaut inside a deep-space science lab discovering an alien visitor silhouette beyond a glass observation window, unfamiliar star system outside, sterile whites and cosmic blues, first-contact wonder, no text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "25268828-9743-41c7-ac6f-0fb3bcdb63a6",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-189/pixel-scene-imdb-top-100-079-project-hail-mary-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-189/pixel-scene-imdb-top-100-079-project-hail-mary-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  128754
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "080",
+                       "title":  "Your Name. (2016)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, two teenagers reaching toward each other across a split sky while a comet breaks into glowing fragments above town and city silhouettes, twilight magenta and blue palette, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "eace258e-4980-40e1-9635-493b119d54fd",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-189/pixel-scene-imdb-top-100-080-your-name-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-189/pixel-scene-imdb-top-100-080-your-name-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  94906
+                                }
+                   }
+               ]
+}
