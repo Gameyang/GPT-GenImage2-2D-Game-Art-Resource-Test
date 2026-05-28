@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T14:09:33",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-237",
+    "packNumber":  237,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-237",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "073",
+                       "title":  "Good Will Hunting (1997)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, autumn park bench beside a pond where two anonymous figures sit in difficult conversation, golden leaves, Boston-like skyline softened in distance, quiet emotional breakthrough, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "02779574-1c3b-4f35-9d12-eec9b15e692f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-237/pixel-scene-imdb-top-100-073-good-will-hunting-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-237/pixel-scene-imdb-top-100-073-good-will-hunting-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  121342
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "074",
+                       "title":  "Avengers: Infinity War (2018)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, cosmic battlefield at sunset with scattered hero silhouettes facing a giant armored invader beneath a purple sky, glowing stones as abstract colored lights, no logos, no exact costume copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "240b34ad-df23-48a1-a66d-f7df2dd04d19",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-237/pixel-scene-imdb-top-100-074-avengers-infinity-war-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-237/pixel-scene-imdb-top-100-074-avengers-infinity-war-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  116672
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "075",
+                       "title":  "The Dark Knight Rises (2012)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, masked city guardian climbing from a cracked underground pit toward daylight, broken stone, rope, dust beams, rebirth motif, no exact suit design, no logo, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "5004ce7e-d9ba-467e-990f-965d7466334b",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-237/pixel-scene-imdb-top-100-075-the-dark-knight-rises-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-237/pixel-scene-imdb-top-100-075-the-dark-knight-rises-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  109674
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "076",
+                       "title":  "Coco (2017)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, marigold bridge leading to a glowing spirit city, young musician silhouette with guitar-like shape, paper banners without text, warm orange and violet palette, family memory, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "5d0ca7df-b269-41e2-8835-b2f986cbc87a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-237/pixel-scene-imdb-top-100-076-coco-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-237/pixel-scene-imdb-top-100-076-coco-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  110574
+                                }
+                   }
+               ]
+}
