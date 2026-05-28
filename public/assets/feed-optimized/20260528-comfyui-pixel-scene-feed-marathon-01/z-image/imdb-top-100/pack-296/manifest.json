@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T17:37:45",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-296",
+    "packNumber":  296,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-296",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "089",
+                       "title":  "Singin\u0027 in the Rain (1952)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, joyful dancer swinging around a lamppost in heavy rain on a golden-lit street, puddle reflections, musical motion arcs, classic Technicolor-inspired pixel palette, no exact performer likeness, no signage. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "1aa1df64-0bfc-49b5-a45c-254027c82fad",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-296/pixel-scene-imdb-top-100-089-singin-in-the-rain-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-296/pixel-scene-imdb-top-100-089-singin-in-the-rain-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  35534
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "090",
+                       "title":  "Joker (2019)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, anonymous clown-faced performer dancing alone on steep city stairs at dusk, theatrical red suit suggested in broad shapes, gritty urban palette, social alienation mood, no exact makeup or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "32cb5a6c-06e9-49c6-9a74-632fa781a818",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-296/pixel-scene-imdb-top-100-090-joker-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-296/pixel-scene-imdb-top-100-090-joker-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  17216
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "091",
+                       "title":  "Once Upon a Time in America (1984)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, 1920s city street seen through a hazy memory, young gang silhouettes beneath an elevated bridge, warm streetlamps and deep shadows, nostalgia and regret, no exact actor likeness, no readable storefronts. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "318c912d-3acd-4db4-8ea1-0990379b52c8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-296/pixel-scene-imdb-top-100-091-once-upon-a-time-in-america-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-296/pixel-scene-imdb-top-100-091-once-upon-a-time-in-america-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  16046
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "092",
+                       "title":  "Come and See (1985)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, devastated rural field after battle with a young witness silhouette in the foreground, smoke far away, bleak gray-brown palette, antiwar horror without gore, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "3fb7dec1-08ff-41e3-aca6-d55f7cc439e8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-296/pixel-scene-imdb-top-100-092-come-and-see-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-296/pixel-scene-imdb-top-100-092-come-and-see-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  14988
+                                }
+                   }
+               ]
+}
