@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T12:59:48",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-217",
+    "packNumber":  217,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-217",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "033",
+                       "title":  "Gladiator (2000)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, armored arena fighter standing in golden dust before a roaring coliseum crowd rendered as pixel silhouettes, sunbeams, sand, dramatic heroic pose, no exact armor or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "a1e86351-cc4c-442b-b09f-5fa4fdf47b89",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-217/pixel-scene-imdb-top-100-033-gladiator-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-217/pixel-scene-imdb-top-100-033-gladiator-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  120586
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "034",
+                       "title":  "Parasite (2019)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, steep urban stairway during torrential rain, wealthy modern house glowing high above while a cramped lower street floods below, class contrast through architecture and light, no exact house copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "cd0b4e28-8f77-45f2-a4dd-0306ee736842",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-217/pixel-scene-imdb-top-100-034-parasite-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-217/pixel-scene-imdb-top-100-034-parasite-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  143624
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "035",
+                       "title":  "Grave of the Fireflies (1988)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, two young siblings resting in a dark field under hundreds of fireflies, distant wartime city glow on the horizon, delicate blue-black palette, tenderness and loss, no graphic violence. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "f63f55b6-c812-47ea-943a-670e5335ecb0",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-217/pixel-scene-imdb-top-100-035-grave-of-the-fireflies-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-217/pixel-scene-imdb-top-100-035-grave-of-the-fireflies-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  103900
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "036",
+                       "title":  "Psycho (1960)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, lonely roadside motel under a violent storm, one lit bathroom window and a looming house on the hill, stark black-and-white horror palette, suspenseful shadow play, no gore, no text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "53c3b7c2-fbe0-49f5-9456-dc49d6cb0d0c",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-217/pixel-scene-imdb-top-100-036-psycho-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-217/pixel-scene-imdb-top-100-036-psycho-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  80706
+                                }
+                   }
+               ]
+}
