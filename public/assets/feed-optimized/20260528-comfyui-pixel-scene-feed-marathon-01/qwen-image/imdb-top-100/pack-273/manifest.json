@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T16:20:01",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-273",
+    "packNumber":  273,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-273",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "045",
+                       "title":  "Spider-Man: Across the Spider-Verse (2023)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, masked teen acrobat leaping across layered multiverse city panels, saturated comic colors converted to crisp pixel clusters, abstract web-like motion trails, no exact suit design, no logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "fcc7c42c-036a-45e6-84e6-2c92e69eeb6d",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-273/pixel-scene-imdb-top-100-045-spider-man-across-the-spider-verse-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-273/pixel-scene-imdb-top-100-045-spider-man-across-the-spider-verse-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  181362
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "046",
+                       "title":  "Cinema Paradiso (1988)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, small-town cinema projection booth where a child silhouette watches a beam of light fill a crowded theater, dust motes, warm nostalgia, no readable movie posters or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "80b63888-6421-4757-a62f-860280313e84",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-273/pixel-scene-imdb-top-100-046-cinema-paradiso-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-273/pixel-scene-imdb-top-100-046-cinema-paradiso-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  80386
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "047",
+                       "title":  "Casablanca (1942)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, foggy wartime airport farewell with two lovers and a trench-coated officer as silhouettes near a prop plane, black-and-white palette with soft lamp glow, romantic sacrifice, no exact likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "af65057d-184b-46f2-b4c7-2dcfc9eb4c8d",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-273/pixel-scene-imdb-top-100-047-casablanca-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-273/pixel-scene-imdb-top-100-047-casablanca-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  40258
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "048",
+                       "title":  "The Intouchables (2011)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, nighttime Paris road with a speeding luxury car and two unlikely friends laughing as silhouettes, blue city lights, warm dashboard glow, freedom and friendship mood, no brand badges. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "83a24f1a-58ff-4af2-bcc5-420d0211dadf",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-273/pixel-scene-imdb-top-100-048-the-intouchables-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-273/pixel-scene-imdb-top-100-048-the-intouchables-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  100632
+                                }
+                   }
+               ]
+}
