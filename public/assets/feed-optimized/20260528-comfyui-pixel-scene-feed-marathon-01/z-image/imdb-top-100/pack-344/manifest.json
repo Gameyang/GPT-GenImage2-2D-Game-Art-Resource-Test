@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T20:20:15",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-344",
+    "packNumber":  344,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "085",
+                       "title":  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, absurd war room with circular table, overhead lamp ring, generals as tiny silhouettes, giant map wall made of abstract blocks, black-and-white satire, no readable country names or symbols. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "468288af-008f-409f-984b-96c40a8217c3",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-344/pixel-scene-imdb-top-100-085-dr-strangelove-or-how-i-learned-to-stop-wo-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-085-dr-strangelove-or-how-i-learned-to-stop-wo-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  31478
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "086",
+                       "title":  "3 Idiots (2009)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, three engineering students on a campus rooftop testing a quirky homemade flying device, warm sunrise, chalkboards and papers kept blank, comic friendship and invention, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "03326055-e33e-43a9-858f-aa39aced63e1",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-344/pixel-scene-imdb-top-100-086-3-idiots-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-086-3-idiots-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  26278
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "087",
+                       "title":  "American Beauty (1999)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, surreal suburban room filled with floating red rose petals around an empty bed and a lonely silhouette at the doorway, dreamy red and white palette, no nudity, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "655be1be-3333-4934-ba45-c592d0096475",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-344/pixel-scene-imdb-top-100-087-american-beauty-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-087-american-beauty-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  16582
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "088",
+                       "title":  "Capernaum (2018)",
+                       "variant":  7,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, resilient child silhouette overlooking a dense city alley from a rooftop, laundry lines, satellite dishes, warm morning light breaking through concrete, humanist realism, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "33c7adf9-9453-4d3c-ad8d-1e888368aa8f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-344/pixel-scene-imdb-top-100-088-capernaum-v07-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-088-capernaum-v07-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  22248
+                                }
+                   }
+               ]
+}

@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-344",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 344",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-085-dr-strangelove-or-how-i-learned-to-stop-wo-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 085: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-086-3-idiots-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 086: 3 Idiots (2009)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-087-american-beauty-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 087: American Beauty (1999)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344/pixel-scene-imdb-top-100-088-capernaum-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image IMDb Top 100-Inspired Cinematic Pixel Scenes 088: Capernaum (2018)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-344",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-343",
                       "date":  "2026-05-28",
                       "type":  "gallery",
