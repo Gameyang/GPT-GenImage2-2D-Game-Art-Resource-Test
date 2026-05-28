@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-277",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 277",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-277/pixel-scene-imdb-top-100-053-modern-times-v06-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 053: Modern Times (1936)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-277/pixel-scene-imdb-top-100-054-once-upon-a-time-in-the-west-v06-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 054: Once Upon a Time in the West (1968)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-277/pixel-scene-imdb-top-100-055-city-lights-v06-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 055: City Lights (1931)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-277/pixel-scene-imdb-top-100-056-apocalypse-now-v06-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 056: Apocalypse Now (1979)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-277",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-276",
                       "date":  "2026-05-28",
                       "type":  "gallery",
