@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T16:06:30",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-269",
+    "packNumber":  269,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-269",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "037",
+                       "title":  "The Lion King (1994)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, young lion cub silhouette lifted on a tall sunrise rock above an animal-filled savanna rendered as distant shapes, warm gold and red sky, regal coming-of-age mood, no exact character copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "cb4e60a8-9f5f-4fb7-93de-09fd0c2fe027",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-269/pixel-scene-imdb-top-100-037-the-lion-king-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-269/pixel-scene-imdb-top-100-037-the-lion-king-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  84042
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "038",
+                       "title":  "Harakiri (1962)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, solemn samurai seated in a formal courtyard surrounded by rigid clan guards, raked gravel, stark black-and-white composition, moral confrontation, no gore, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "b25d7327-1314-49ea-a517-2f5121a982bf",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-269/pixel-scene-imdb-top-100-038-harakiri-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-269/pixel-scene-imdb-top-100-038-harakiri-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  148798
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "039",
+                       "title":  "The Departed (2006)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, two mirrored undercover figures on a windy rooftop above a night city, police blue and criminal red lighting split the frame, tense identity duality, no exact actor likeness, no logos. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "f324a572-339d-4a76-b1a5-88aef1a8114a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-269/pixel-scene-imdb-top-100-039-the-departed-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-269/pixel-scene-imdb-top-100-039-the-departed-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  88422
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "040",
+                       "title":  "Whiplash (2014)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, jazz drummer under a harsh golden spotlight with a conductor\u0027s long shadow stretching across the stage, flying drumsticks, sweat as pixel highlights, obsessive rhythm energy, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "df2e71a7-ec53-4f6c-8f95-45b1a1ba0687",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-269/pixel-scene-imdb-top-100-040-whiplash-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-269/pixel-scene-imdb-top-100-040-whiplash-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  72098
+                                }
+                   }
+               ]
+}
