@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T20:24:04",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-345",
+    "packNumber":  345,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-345",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "089",
+                       "title":  "Singin\u0027 in the Rain (1952)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, joyful dancer swinging around a lamppost in heavy rain on a golden-lit street, puddle reflections, musical motion arcs, classic Technicolor-inspired pixel palette, no exact performer likeness, no signage. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "b711dd8a-6a52-4110-ad17-e17590acfecc",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-345/pixel-scene-imdb-top-100-089-singin-in-the-rain-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-345/pixel-scene-imdb-top-100-089-singin-in-the-rain-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  158870
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "090",
+                       "title":  "Joker (2019)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, anonymous clown-faced performer dancing alone on steep city stairs at dusk, theatrical red suit suggested in broad shapes, gritty urban palette, social alienation mood, no exact makeup or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "d40e5034-0042-4f37-b337-ffc163b3499d",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-345/pixel-scene-imdb-top-100-090-joker-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-345/pixel-scene-imdb-top-100-090-joker-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  105308
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "091",
+                       "title":  "Once Upon a Time in America (1984)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, 1920s city street seen through a hazy memory, young gang silhouettes beneath an elevated bridge, warm streetlamps and deep shadows, nostalgia and regret, no exact actor likeness, no readable storefronts. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "7ce5c7f7-7459-42cd-ab66-6f50d492bb7a",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-345/pixel-scene-imdb-top-100-091-once-upon-a-time-in-america-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-345/pixel-scene-imdb-top-100-091-once-upon-a-time-in-america-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  112248
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "092",
+                       "title":  "Come and See (1985)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, devastated rural field after battle with a young witness silhouette in the foreground, smoke far away, bleak gray-brown palette, antiwar horror without gore, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "adc99e89-1c8c-46b8-bd45-800a9dd89966",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-345/pixel-scene-imdb-top-100-092-come-and-see-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-345/pixel-scene-imdb-top-100-092-come-and-see-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  87134
+                                }
+                   }
+               ]
+}
