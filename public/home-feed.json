@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-350",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 350",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-350/pixel-scene-fc-hd2d-097-a-gothic-survival-hallway-with-cracked-wal-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 097: FC HD-2D Scene 097"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-350/pixel-scene-fc-hd2d-098-a-western-train-rooftop-chase-with-desert-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 098: FC HD-2D Scene 098"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-350/pixel-scene-fc-hd2d-099-a-moonlit-ninja-infiltration-of-a-mountain-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 099: FC HD-2D Scene 099"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-350/pixel-scene-fc-hd2d-100-a-tribute-archive-hall-of-original-glowing-v07-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 100: FC HD-2D Scene 100"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-350",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-349",
                       "date":  "2026-05-28",
                       "type":  "gallery",
