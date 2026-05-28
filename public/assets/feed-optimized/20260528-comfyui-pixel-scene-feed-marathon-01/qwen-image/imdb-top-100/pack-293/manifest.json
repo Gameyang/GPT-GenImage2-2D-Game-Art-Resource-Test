@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T17:28:02",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-293",
+    "packNumber":  293,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-293",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "085",
+                       "title":  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, absurd war room with circular table, overhead lamp ring, generals as tiny silhouettes, giant map wall made of abstract blocks, black-and-white satire, no readable country names or symbols. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "3527dd96-8072-4f8b-8cf2-0a1a02bcf538",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-293/pixel-scene-imdb-top-100-085-dr-strangelove-or-how-i-learned-to-stop-wo-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-293/pixel-scene-imdb-top-100-085-dr-strangelove-or-how-i-learned-to-stop-wo-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  95820
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "086",
+                       "title":  "3 Idiots (2009)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, three engineering students on a campus rooftop testing a quirky homemade flying device, warm sunrise, chalkboards and papers kept blank, comic friendship and invention, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "baa23831-2866-4bc9-955a-48cef512c617",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-293/pixel-scene-imdb-top-100-086-3-idiots-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-293/pixel-scene-imdb-top-100-086-3-idiots-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  92868
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "087",
+                       "title":  "American Beauty (1999)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, surreal suburban room filled with floating red rose petals around an empty bed and a lonely silhouette at the doorway, dreamy red and white palette, no nudity, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "5560928a-6977-403a-841f-bd3da59f3849",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-293/pixel-scene-imdb-top-100-087-american-beauty-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-293/pixel-scene-imdb-top-100-087-american-beauty-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  89946
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "088",
+                       "title":  "Capernaum (2018)",
+                       "variant":  6,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, resilient child silhouette overlooking a dense city alley from a rooftop, laundry lines, satellite dishes, warm morning light breaking through concrete, humanist realism, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "db0cc696-7fa6-4892-a553-71511634b38f",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-293/pixel-scene-imdb-top-100-088-capernaum-v06-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-293/pixel-scene-imdb-top-100-088-capernaum-v06-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  111024
+                                }
+                   }
+               ]
+}
