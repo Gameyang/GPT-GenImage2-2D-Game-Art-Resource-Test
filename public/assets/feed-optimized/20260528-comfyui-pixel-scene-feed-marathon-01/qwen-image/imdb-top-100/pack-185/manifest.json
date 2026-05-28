@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T11:10:35",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-185",
+    "packNumber":  185,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-185",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "069",
+                       "title":  "Inglourious Basterds (2009)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, old cinema interior engulfed in stylized orange light while resistance silhouettes watch from the projection booth, smoke, film reels, revenge-thriller tension, no readable marquee, no gore. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "854bee9b-c1ce-4eb7-902f-ad1c4b03ed38",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-185/pixel-scene-imdb-top-100-069-inglourious-basterds-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-185/pixel-scene-imdb-top-100-069-inglourious-basterds-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  97762
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "070",
+                       "title":  "12th Fail (2023)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, determined student studying under a streetlamp with worn books and exam papers rendered blank, crowded city night around him, humble blue and warm yellow palette, grit and hope. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "b7f1ecf7-21f6-470c-b5ee-b0344c1d5051",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-185/pixel-scene-imdb-top-100-070-12th-fail-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-185/pixel-scene-imdb-top-100-070-12th-fail-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  132928
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "071",
+                       "title":  "Aliens (1986)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, armored space rescuer moving through a blue industrial corridor with a child behind them and alien brood shadows ahead, motion-sensor glow as abstract dots, no exact creature or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "1a1883e3-82bc-45cc-867a-7314c88be31e",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-185/pixel-scene-imdb-top-100-071-aliens-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-185/pixel-scene-imdb-top-100-071-aliens-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  115178
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "072",
+                       "title":  "High and Low (1963)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, modern hilltop mansion overlooking a dense city below, businessman silhouette trapped between phone, window, and moral choice, black-and-white contrast, crime-thriller tension, no readable documents. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "da56d34e-c2ae-486e-943e-4720d73ae5af",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-185/pixel-scene-imdb-top-100-072-high-and-low-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-185/pixel-scene-imdb-top-100-072-high-and-low-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  90748
+                                }
+                   }
+               ]
+}
