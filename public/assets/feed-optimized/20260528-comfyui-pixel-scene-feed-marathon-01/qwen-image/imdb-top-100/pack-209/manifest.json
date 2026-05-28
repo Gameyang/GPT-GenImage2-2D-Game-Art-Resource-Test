@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T12:32:34",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-209",
+    "packNumber":  209,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-209",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "017",
+                       "title":  "Goodfellas (1990)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, long red nightclub corridor opening into a glowing lounge, sharp-suited mob silhouettes entering like a tracking shot, smoky atmosphere, gold and crimson lights, no exact actor likeness, no signage. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "413783da-0be3-4c4a-a446-fea9276c2eda",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-209/pixel-scene-imdb-top-100-017-goodfellas-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-209/pixel-scene-imdb-top-100-017-goodfellas-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  96632
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "018",
+                       "title":  "Interstellar (2014)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, astronaut on the edge of a black ocean planet looking toward a colossal ringed wormhole in the sky, tiny spacecraft silhouette, cold blue and cosmic gold palette, awe and solitude. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "38affa6a-7146-4d88-8df9-646e73206737",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-209/pixel-scene-imdb-top-100-018-interstellar-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-209/pixel-scene-imdb-top-100-018-interstellar-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  102174
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "019",
+                       "title":  "One Flew Over the Cuckoo\u0027s Nest (1975)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, institutional ward with pale green walls, patients gathered around a rebellious central figure near barred windows, daylight cutting through the room, bittersweet human drama, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "2eda4b62-72b9-45d5-9319-e97c4d9019df",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-209/pixel-scene-imdb-top-100-019-one-flew-over-the-cuckoo-s-nest-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-209/pixel-scene-imdb-top-100-019-one-flew-over-the-cuckoo-s-nest-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  87740
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "020",
+                       "title":  "Seven (1995)",
+                       "variant":  5,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, rain-soaked noir alley where two detectives face a mysterious unopened box shape in distant headlights, sickly green-gray palette, heavy shadow, tension without gore, no readable labels. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "9534f4af-e552-461f-b955-eeb1fdbc0f67",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-209/pixel-scene-imdb-top-100-020-seven-v05-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-209/pixel-scene-imdb-top-100-020-seven-v05-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  87916
+                                }
+                   }
+               ]
+}
