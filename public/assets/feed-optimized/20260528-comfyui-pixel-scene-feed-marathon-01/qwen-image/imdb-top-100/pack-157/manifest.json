@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T09:35:30",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-157",
+    "packNumber":  157,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-157",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "013",
+                       "title":  "Fight Club (1999)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, underground basement lit by bare bulbs, two anonymous fighters circling as spectators form a dark ring, gritty red-brown palette, fractured mirror motif, intense but non-graphic, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "e80abcec-18a0-412f-a55a-624e9e219464",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-157/pixel-scene-imdb-top-100-013-fight-club-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-157/pixel-scene-imdb-top-100-013-fight-club-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  118294
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "014",
+                       "title":  "Inception (2010)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, a city street folding upward into the sky like a dream maze, tiny suited figures standing in impossible perspective, clean gray stone and warm cafe lights, surreal architecture, no readable signs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "ff097c35-5509-48f2-9c77-3077ef83846b",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-157/pixel-scene-imdb-top-100-014-inception-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-157/pixel-scene-imdb-top-100-014-inception-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  158962
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "015",
+                       "title":  "The Empire Strikes Back (1980)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, icy cavern duel between a young space knight and a towering dark armored figure with glowing energy blades, blue-white snow lighting, dramatic silhouettes, no exact franchise logos or helmet details. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "00eaf440-fc0b-4b6a-8f65-fd45049db69e",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-157/pixel-scene-imdb-top-100-015-the-empire-strikes-back-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-157/pixel-scene-imdb-top-100-015-the-empire-strikes-back-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  122400
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "016",
+                       "title":  "The Matrix (1999)",
+                       "variant":  4,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, black trench-coated hacker silhouette dodging stylized slow-motion bullets in a green digital corridor, falling code represented as abstract vertical light bars, high contrast, no readable characters, no actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 4: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "cbc854f3-1be5-49cf-acad-5a2fea580be6",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-157/pixel-scene-imdb-top-100-016-the-matrix-v04-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-157/pixel-scene-imdb-top-100-016-the-matrix-v04-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  108486
+                                }
+                   }
+               ]
+}
