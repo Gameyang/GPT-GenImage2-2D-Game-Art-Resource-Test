@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-309",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 309",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-309/pixel-scene-imdb-top-100-017-goodfellas-v07-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 017: Goodfellas (1990)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-309/pixel-scene-imdb-top-100-018-interstellar-v07-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 018: Interstellar (2014)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-309/pixel-scene-imdb-top-100-019-one-flew-over-the-cuckoo-s-nest-v07-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 019: One Flew Over the Cuckoo\u0027s Nest (1975)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-309/pixel-scene-imdb-top-100-020-seven-v07-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 020: Seven (1995)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-309",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-308",
                       "date":  "2026-05-28",
                       "type":  "gallery",
