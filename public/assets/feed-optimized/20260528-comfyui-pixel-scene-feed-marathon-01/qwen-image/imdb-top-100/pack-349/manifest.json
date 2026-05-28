@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T20:37:29",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-349",
+    "packNumber":  349,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "qwen_image",
+    "workflowSlug":  "qwen-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-349",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "097",
+                       "title":  "The Hunt (2012)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, isolated teacher silhouette standing in a snowy village square while neighbors watch from warm windows, moral panic and loneliness, muted Nordic palette, no exact actor likeness, no readable signs. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "76af6b60-b89e-4614-88da-39c7f1146273",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-349/pixel-scene-imdb-top-100-097-the-hunt-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-349/pixel-scene-imdb-top-100-097-the-hunt-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  103346
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "098",
+                       "title":  "Incendies (2010)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, twin travelers on a desert road before a distant burned-out village, sealed blank letter in foreground, orange heat haze and blue shadows, mystery of family history, no gore, no readable text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "3f70f37f-e39c-4f38-8dba-465fa1968616",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-349/pixel-scene-imdb-top-100-098-incendies-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-349/pixel-scene-imdb-top-100-098-incendies-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  109532
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "099",
+                       "title":  "Eternal Sunshine of the Spotless Mind (2004)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, two lovers on a frozen beach as memory fragments dissolve into pixel snow, half-erased houses and stars, blue-white melancholy palette, surreal romance, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "c1590b45-eddc-425e-b869-e1ee98d503ad",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-349/pixel-scene-imdb-top-100-099-eternal-sunshine-of-the-spotless-mind-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-349/pixel-scene-imdb-top-100-099-eternal-sunshine-of-the-spotless-mind-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  105840
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "100",
+                       "title":  "The Apartment (1960)",
+                       "variant":  7,
+                       "workflow":  "qwen_image",
+                       "prompt":  "16:9 cinematic pixel art scene, endless office grid of desks with one lonely worker under a small lamp, holiday decorations as abstract shapes, black-and-white corporate melancholy, no readable paperwork, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 7: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "156baf9e-9f14-44ef-8e35-89423bddc3ce",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-349/pixel-scene-imdb-top-100-100-the-apartment-v07-qwen-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-349/pixel-scene-imdb-top-100-100-the-apartment-v07-qwen-image-feed.webp",
+                       "webp":  {
+                                    "width":  1280,
+                                    "height":  731,
+                                    "bytes":  89614
+                                }
+                   }
+               ]
+}
