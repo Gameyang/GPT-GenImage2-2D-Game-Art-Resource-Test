@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-fc-hd2d-pack-219",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 219",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-219/pixel-scene-fc-hd2d-037-an-abandoned-moon-base-research-hall-with-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 037: FC HD-2D Scene 037"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-219/pixel-scene-fc-hd2d-038-a-gravity-flipped-hallway-where-the-explor-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 038: FC HD-2D Scene 038"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-219/pixel-scene-fc-hd2d-039-a-magma-core-control-room-with-spinning-tu-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 039: FC HD-2D Scene 039"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-219/pixel-scene-fc-hd2d-040-a-sunrise-surface-scene-after-escape-with-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image FC-Era HD-2D-Inspired Pixel Scenes 040: FC HD-2D Scene 040"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/fc-hd2d/pack-219",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-218",
                       "date":  "2026-05-28",
                       "type":  "gallery",
