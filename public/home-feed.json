@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-fc-hd2d-pack-262",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Z-Image Pixel Scene Pack 262",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the FC-Era HD-2D-Inspired Pixel Scenes prompt set, generated through the local ComfyUI Z-Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-262/pixel-scene-fc-hd2d-021-a-four-person-fantasy-party-facing-a-huge-v06-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 021: FC HD-2D Scene 021"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-262/pixel-scene-fc-hd2d-022-an-overworld-campfire-before-the-final-dar-v06-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 022: FC HD-2D Scene 022"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-262/pixel-scene-fc-hd2d-023-an-original-fantasy-airship-flying-above-c-v06-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 023: FC HD-2D Scene 023"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-262/pixel-scene-fc-hd2d-024-a-castle-throne-betrayal-scene-with-shatte-v06-z-image-feed.webp",
+                                        "alt":  "Z-Image FC-Era HD-2D-Inspired Pixel Scenes 024: FC HD-2D Scene 024"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/fc-hd2d/pack-262",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "HD-2D",
+                                   "Z-Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-261",
                       "date":  "2026-05-28",
                       "type":  "gallery",
