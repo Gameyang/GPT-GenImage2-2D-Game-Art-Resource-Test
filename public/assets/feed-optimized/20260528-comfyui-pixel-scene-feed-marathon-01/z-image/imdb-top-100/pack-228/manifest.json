@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T13:36:44",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-228",
+    "packNumber":  228,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-228",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "053",
+                       "title":  "Modern Times (1936)",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, tiny factory worker swallowed by enormous interlocking gears, black-and-white silent comedy palette, exaggerated mechanical rhythm, playful industrial satire, no exact actor likeness, no readable labels. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "0e8ea9a2-1226-48aa-aeea-f7284f6b9f97",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-228/pixel-scene-imdb-top-100-053-modern-times-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-228/pixel-scene-imdb-top-100-053-modern-times-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  40670
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "054",
+                       "title":  "Once Upon a Time in the West (1968)",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, empty desert train station with three dust-covered gunslingers waiting under a creaking water tower, long shadows, heat shimmer, slow western tension, no exact actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "bae76f0f-37ea-40b4-b0fc-59ac6fa06cf8",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-228/pixel-scene-imdb-top-100-054-once-upon-a-time-in-the-west-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-228/pixel-scene-imdb-top-100-054-once-upon-a-time-in-the-west-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  25262
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "055",
+                       "title":  "City Lights (1931)",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, gentle tramp-like wanderer buying a flower from a blind street vendor beneath a glowing lamppost, silent-era black-and-white palette, tender comedy romance, no exact performer likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "3ee5555c-a7d0-4990-8192-c459b4b82447",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-228/pixel-scene-imdb-top-100-055-city-lights-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-228/pixel-scene-imdb-top-100-055-city-lights-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  16692
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "056",
+                       "title":  "Apocalypse Now (1979)",
+                       "variant":  5,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, jungle river patrol boat moving through orange smoke while helicopter silhouettes cross a huge sun, tropical haze, psychological war mood, no gore, no flags, no readable markings. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 5: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "dfb98698-69e9-4589-9563-73e1d2583693",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-228/pixel-scene-imdb-top-100-056-apocalypse-now-v05-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-228/pixel-scene-imdb-top-100-056-apocalypse-now-v05-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  32388
+                                }
+                   }
+               ]
+}
