@@ -15,6 +15,43 @@
                 },
     "posts":  [
                   {
+                      "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-qwen-image-imdb-top-100-pack-241",
+                      "date":  "2026-05-28",
+                      "type":  "gallery",
+                      "title":  "Qwen Image Pixel Scene Pack 241",
+                      "text":  "Four original public-safe 16:9 pixel art scene illustrations from the IMDb Top 100-Inspired Cinematic Pixel Scenes prompt set, generated through the local ComfyUI Qwen Image workflow and published as optimized WebP feed media.",
+                      "media":  [
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-241/pixel-scene-imdb-top-100-081-das-boot-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 081: Das Boot (1981)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-241/pixel-scene-imdb-top-100-082-oldboy-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 082: Oldboy (2003)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-241/pixel-scene-imdb-top-100-083-braveheart-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 083: Braveheart (1995)"
+                                    },
+                                    {
+                                        "type":  "image",
+                                        "url":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-241/pixel-scene-imdb-top-100-084-princess-mononoke-v05-qwen-image-feed.webp",
+                                        "alt":  "Qwen Image IMDb Top 100-Inspired Cinematic Pixel Scenes 084: Princess Mononoke (1997)"
+                                    }
+                                ],
+                      "url":  "https://github.com/Gameyang/GPT-GenImage2-2D-Game-Art-Resource-Test/tree/main/public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/qwen-image/imdb-top-100/pack-241",
+                      "linkLabel":  "View optimized WebP pack",
+                      "tags":  [
+                                   "Cinema",
+                                   "Qwen Image",
+                                   "Pixel Art",
+                                   "Non-commercial"
+                               ]
+                  },
+                  {
                       "id":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-240",
                       "date":  "2026-05-28",
                       "type":  "gallery",
