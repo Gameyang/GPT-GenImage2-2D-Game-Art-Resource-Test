@@ -1,0 +1,88 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-28T16:02:33",
+    "taskId":  "20260528-comfyui-pixel-scene-feed-marathon-01",
+    "packId":  "20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-268",
+    "packNumber":  268,
+    "status":  "ready",
+    "source":  "imdb-top-100",
+    "workflow":  "pokemon",
+    "workflowSlug":  "z-image",
+    "imagesPerPack":  4,
+    "feedDir":  "public/assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-268",
+    "webpOnlyDeletePng":  true,
+    "assets":  [
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "033",
+                       "title":  "Gladiator (2000)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, armored arena fighter standing in golden dust before a roaring coliseum crowd rendered as pixel silhouettes, sunbeams, sand, dramatic heroic pose, no exact armor or actor likeness. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "1ee5f974-6ae9-4fd0-b1ef-cce675721667",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-268/pixel-scene-imdb-top-100-033-gladiator-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-268/pixel-scene-imdb-top-100-033-gladiator-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  31494
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "034",
+                       "title":  "Parasite (2019)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, steep urban stairway during torrential rain, wealthy modern house glowing high above while a cramped lower street floods below, class contrast through architecture and light, no exact house copy. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "984c8bb5-c676-4add-88c4-65ed71bd0833",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-268/pixel-scene-imdb-top-100-034-parasite-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-268/pixel-scene-imdb-top-100-034-parasite-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  41018
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "035",
+                       "title":  "Grave of the Fireflies (1988)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 respectful cinematic pixel art scene, two young siblings resting in a dark field under hundreds of fireflies, distant wartime city glow on the horizon, delicate blue-black palette, tenderness and loss, no graphic violence. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "6264b375-d3a9-4f3f-bc6c-ce595f24faa3",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-268/pixel-scene-imdb-top-100-035-grave-of-the-fireflies-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-268/pixel-scene-imdb-top-100-035-grave-of-the-fireflies-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  16646
+                                }
+                   },
+                   {
+                       "status":  "generated",
+                       "source":  "imdb-top-100",
+                       "label":  "036",
+                       "title":  "Psycho (1960)",
+                       "variant":  6,
+                       "workflow":  "pokemon",
+                       "prompt":  "16:9 cinematic pixel art scene, lonely roadside motel under a violent storm, one lit bathroom window and a looming house on the hill, stark black-and-white horror palette, suspenseful shadow play, no gore, no text. Premium 16:9 pixel-art scene illustration, no readable text, no logo, no watermark. Fresh alternate variation 6: change the camera angle, lighting palette, foreground props, and background staging while keeping the same public-safe theme and avoiding direct frame or screenshot recreation.",
+                       "promptId":  "55a14f73-36d9-4f29-81b7-d1a09e501bc1",
+                       "rawSourceAsset":  "raw/generated/20260528-comfyui-pixel-scene-feed-marathon-01-z-image-imdb-top-100-pack-268/pixel-scene-imdb-top-100-036-psycho-v06-z-image_00001_.png",
+                       "rawPngDeleted":  true,
+                       "feedAsset":  "assets/feed-optimized/20260528-comfyui-pixel-scene-feed-marathon-01/z-image/imdb-top-100/pack-268/pixel-scene-imdb-top-100-036-psycho-v06-z-image-feed.webp",
+                       "webp":  {
+                                    "width":  768,
+                                    "height":  432,
+                                    "bytes":  13590
+                                }
+                   }
+               ]
+}
